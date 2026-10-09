@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-09T23:21:10+00:00",
+ "updated": "2026-10-09T23:35:04+00:00",
  "currency": "EUR",
  "country": "DE",
  "disclaimer": "Prices from public comparison listings; may be outdated. Medical cannabis in Germany only with a doctor's prescription (MedCanG). Not medical advice.",
@@ -9,7 +9,7 @@
    "name": "cannapreis.de",
    "url": "https://cannapreis.de/",
    "method": "public HTML listing + product pages, robots.txt respected",
-   "fetched": "2026-10-09T23:21:10+00:00"
+   "fetched": "2026-10-09T23:35:04+00:00"
   }
  ],
  "skipped": [
@@ -45,7 +45,7 @@
    "text": "Nutze den Code CANNAPREIS50 und sichere dir 50% Rabatt bei CannaZen",
    "issuer": "cannapreis.de (listing site banner)",
    "source_url": "https://cannapreis.de/shop/blueten/",
-   "seen": "2026-10-10",
+   "seen": "2026-10-09",
    "verified": false,
    "note": "Published by price-comparison site, not by the pharmacy/portal itself – unverified."
   }
