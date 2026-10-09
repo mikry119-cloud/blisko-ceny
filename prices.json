@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-09T23:35:04+00:00",
+ "updated": "2026-10-09T23:40:24+00:00",
  "currency": "EUR",
  "country": "DE",
  "disclaimer": "Prices from public comparison listings; may be outdated. Medical cannabis in Germany only with a doctor's prescription (MedCanG). Not medical advice.",
@@ -9,7 +9,7 @@
    "name": "cannapreis.de",
    "url": "https://cannapreis.de/",
    "method": "public HTML listing + product pages, robots.txt respected",
-   "fetched": "2026-10-09T23:35:04+00:00"
+   "fetched": "2026-10-09T23:40:24+00:00"
   }
  ],
  "skipped": [
@@ -76,6 +76,79 @@
    "verified": true
   }
  ],
+ "portals": [
+  {
+   "id": "ansay",
+   "name": "Dr. Ansay",
+   "fee": 14.2,
+   "fee_note": "Folgerezept 14,20 €; Erstrezept dla nowych pacjentów 'ab 0 €'",
+   "source_url": "https://dransay.com/cannabis-rezept-online",
+   "seen": "2026-10-10",
+   "verified": true,
+   "auto_checked": false
+  },
+  {
+   "id": "bloomwell",
+   "name": "Bloomwell",
+   "fee": 25.22,
+   "fee_note": "Rezeptanfrage 25,22 € (GOÄ); Folgerezept ~28,25 €; akcja: gratis (ograniczony wybór)",
+   "source_url": "https://bloomwell.de/kosten-rechnungen-kostenubernahme",
+   "seen": "2026-10-10",
+   "verified": true,
+   "auto_checked": true,
+   "checked": "2026-10-09"
+  },
+  {
+   "id": "candoc",
+   "name": "CanDoc",
+   "fee": 0.0,
+   "fee_note": "Fragebogen 'ab 0 €'; Videosprechstunde 35 €",
+   "source_url": "https://can-doc.de/pages/preise",
+   "seen": "2026-10-10",
+   "verified": true,
+   "auto_checked": true,
+   "checked": "2026-10-09"
+  },
+  {
+   "id": "cannaleo",
+   "name": "Cannaleo (Rezeptkonfigurator)",
+   "fee": 7.99,
+   "fee_note": "Konfigurator kostenlos; opłatę pobiera partner telemedyczny (np. DoktorABC ~7,99 € wg relacji użytkownika – niezweryfikowane)",
+   "source_url": "https://cannaleo.de/rezeptkonfigurator/faq",
+   "seen": "2026-10-10",
+   "verified": false
+  }
+ ],
+ "shipping": [
+  {
+   "match": "schloss-apotheke",
+   "fee": 7.95,
+   "free_from": 150.0,
+   "note": "svapo.de: 7,95 €, gratis od 150 € (GKV zawsze gratis)",
+   "source_url": "https://www.svapo.de/faq/",
+   "seen": "2026-10-10"
+  },
+  {
+   "match": "svapo",
+   "fee": 7.95,
+   "free_from": 150.0,
+   "note": "svapo.de: 7,95 €, gratis od 150 €",
+   "source_url": "https://www.svapo.de/faq/",
+   "seen": "2026-10-10"
+  },
+  {
+   "match": "kraut kurier",
+   "fee": 0.0,
+   "free_from": null,
+   "note": "'Kostenloser Versand' wg profilu na nordleaf.de (źródło pośrednie)",
+   "source_url": "https://nordleaf.de/pages/apotheke/linden-apotheke",
+   "seen": "2026-10-10"
+  }
+ ],
+ "shipping_default": {
+  "fee": null,
+  "note": "nieznane – sprawdź w aptece"
+ },
  "products": [
   {
    "name": "SOMAI 10:10 Cannabis-Extrakt Mint SOMAI 10:10 Extrakt Mint",
