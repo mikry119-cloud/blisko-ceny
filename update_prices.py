@@ -37,6 +37,40 @@ PORTAL_PROMOS = [
      "source_url": "https://can-doc.de/", "seen": "2026-10-10", "verified": True},
 ]
 
+
+# Prescription / telemedicine fees (researched 2026-10-10). "check" regex is re-verified on the public page
+# by the scraper (robots.txt respected); if found, "checked" is set to today, else the static value is kept.
+PORTALS = [
+    {"id": "ansay", "name": "Dr. Ansay", "fee": 14.20, "fee_note": "Folgerezept 14,20 €; Erstrezept dla nowych pacjentów 'ab 0 €'",
+     "source_url": "https://dransay.com/cannabis-rezept-online", "seen": "2026-10-10", "check": r"14,20\s*€"},
+    {"id": "bloomwell", "name": "Bloomwell", "fee": 25.22, "fee_note": "Rezeptanfrage 25,22 € (GOÄ); Folgerezept ~28,25 €; akcja: gratis (ograniczony wybór)",
+     "source_url": "https://bloomwell.de/kosten-rechnungen-kostenubernahme", "seen": "2026-10-10", "check": r"25,22\s*€"},
+    {"id": "candoc", "name": "CanDoc", "fee": 0.0, "fee_note": "Fragebogen 'ab 0 €'; Videosprechstunde 35 €",
+     "source_url": "https://can-doc.de/pages/preise", "seen": "2026-10-10", "check": r"35\s*€"},
+    {"id": "cannaleo", "name": "Cannaleo (Rezeptkonfigurator)", "fee": 7.99, "fee_note": "Konfigurator kostenlos; opłatę pobiera partner telemedyczny (np. DoktorABC ~7,99 € wg relacji użytkownika – niezweryfikowane)",
+     "source_url": "https://cannaleo.de/rezeptkonfigurator/faq", "seen": "2026-10-10", "verified": False},
+]
+# Shipping fees per pharmacy (public info). match = case-insensitive substring of pharmacy name. Others: unknown.
+SHIPPING = [
+    {"match": "schloss-apotheke", "fee": 7.95, "free_from": 150.0, "note": "svapo.de: 7,95 €, gratis od 150 € (GKV zawsze gratis)",
+     "source_url": "https://www.svapo.de/faq/", "seen": "2026-10-10"},
+    {"match": "svapo", "fee": 7.95, "free_from": 150.0, "note": "svapo.de: 7,95 €, gratis od 150 €", "source_url": "https://www.svapo.de/faq/", "seen": "2026-10-10"},
+    {"match": "kraut kurier", "fee": 0.0, "free_from": None, "note": "'Kostenloser Versand' wg profilu na nordleaf.de (źródło pośrednie)",
+     "source_url": "https://nordleaf.de/pages/apotheke/linden-apotheke", "seen": "2026-10-10"},
+]
+
+def check_portals(today):
+    out = []
+    for p in PORTALS:
+        q = {k: v for k, v in p.items() if k != "check"}
+        if "check" in p:
+            page = get(p["source_url"])
+            q.setdefault("verified", True)  # manually researched on "seen" date
+            q["auto_checked"] = bool(page and re.search(p["check"], txt(page)))  # False also when robots.txt disallows
+            if q["auto_checked"]: q["checked"] = today
+        out.append(q)
+    return out
+
 _rp = {}
 def allowed(url):
     host = re.match(r"https?://[^/]+", url).group(0)
@@ -121,11 +155,13 @@ def main():
         page = get(it["url"])
         if page: parse_detail(page, it)
     lst.sort(key=lambda x: (x["price"] or 1e9))
+    portals = check_portals(today)
     prev = json.loads(OUT.read_text()) if OUT.exists() else {}
     data = {"schema": 1, "updated": now.isoformat(timespec="seconds"), "currency": "EUR", "country": "DE",
         "disclaimer": "Prices from public comparison listings; may be outdated. Medical cannabis in Germany only with a doctor's prescription (MedCanG). Not medical advice.",
         "sources": [{"name": "cannapreis.de", "url": BASE + "/", "method": "public HTML listing + product pages, robots.txt respected", "fetched": now.isoformat(timespec="seconds")}],
         "skipped": SKIPPED, "codes": codes or prev.get("codes", []), "promotions_portals": PORTAL_PROMOS,
+        "portals": portals, "shipping": SHIPPING, "shipping_default": {"fee": None, "note": "nieznane – sprawdź w aptece"},
         "products": lst}
     if not lst and prev.get("products"):
         print("No products fetched – keeping previous file", file=sys.stderr); return 1
