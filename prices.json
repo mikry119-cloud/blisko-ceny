@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-09T23:40:24+00:00",
+ "updated": "2026-10-10T05:38:38+00:00",
  "currency": "EUR",
  "country": "DE",
  "disclaimer": "Prices from public comparison listings; may be outdated. Medical cannabis in Germany only with a doctor's prescription (MedCanG). Not medical advice.",
@@ -9,7 +9,7 @@
    "name": "cannapreis.de",
    "url": "https://cannapreis.de/",
    "method": "public HTML listing + product pages, robots.txt respected",
-   "fetched": "2026-10-09T23:40:24+00:00"
+   "fetched": "2026-10-10T05:38:38+00:00"
   }
  ],
  "skipped": [
@@ -45,7 +45,7 @@
    "text": "Nutze den Code CANNAPREIS50 und sichere dir 50% Rabatt bei CannaZen",
    "issuer": "cannapreis.de (listing site banner)",
    "source_url": "https://cannapreis.de/shop/blueten/",
-   "seen": "2026-10-09",
+   "seen": "2026-10-10",
    "verified": false,
    "note": "Published by price-comparison site, not by the pharmacy/portal itself – unverified."
   }
@@ -96,7 +96,7 @@
    "seen": "2026-10-10",
    "verified": true,
    "auto_checked": true,
-   "checked": "2026-10-09"
+   "checked": "2026-10-10"
   },
   {
    "id": "candoc",
@@ -107,7 +107,7 @@
    "seen": "2026-10-10",
    "verified": true,
    "auto_checked": true,
-   "checked": "2026-10-09"
+   "checked": "2026-10-10"
   },
   {
    "id": "cannaleo",
@@ -186,7 +186,7 @@
      "name": "CannaMedJena",
      "city": "",
      "price": 1.98,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannamedjena/"
     },
     {
@@ -219,7 +219,7 @@
      "name": "CannaMedJena",
      "city": "",
      "price": 1.98,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannamedjena/"
     },
     {
@@ -292,21 +292,21 @@
      "name": "MedCanReste",
      "city": "",
      "price": 1.99,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/medcanreste/"
     },
     {
      "name": "CannabisVitalApotheke",
      "city": "",
      "price": 4.99,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cannabisvitalapotheke/"
     },
     {
      "name": "CannaQuell",
      "city": "",
      "price": 5.1,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cannaquell/"
     }
    ],
@@ -332,21 +332,21 @@
      "name": "MedCanReste",
      "city": "",
      "price": 1.99,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/medcanreste/"
     },
     {
      "name": "Cannabis Apotheke im Centr-o-med",
      "city": "",
      "price": 3.98,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cannabis-apotheke-im-centr-o-med/"
     },
     {
      "name": "Kraut Kurier",
      "city": "",
      "price": 3.98,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/kraut-kurier/"
     }
    ],
@@ -372,14 +372,14 @@
      "name": "MedCanReste",
      "city": "",
      "price": 1.99,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/medcanreste/"
     },
     {
      "name": "Cannabis Kontor",
      "city": "",
      "price": 6.95,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cannabis-kontor/"
     },
     {
@@ -429,21 +429,21 @@
      "name": "MedCanReste",
      "city": "",
      "price": 1.99,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/medcanreste/"
     },
     {
      "name": "Hirsch Apotheke, Nürnberg (nur Abholung)",
      "city": "",
      "price": 4.0,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/hirsch-apotheke-nuernberg-nur-abholung/"
     },
     {
      "name": "Adam-Apotheke, Rüsselsheim",
      "city": "",
      "price": 4.99,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/adam-apotheke-ruesselsheim/"
     }
    ],
@@ -469,14 +469,14 @@
      "name": "MedCanReste",
      "city": "",
      "price": 1.99,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/medcanreste/"
     },
     {
      "name": "Kronen Cannabis",
      "city": "",
      "price": 5.15,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     },
     {
@@ -509,21 +509,21 @@
      "name": "MedCanReste",
      "city": "",
      "price": 1.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/medcanreste/"
     },
     {
      "name": "Apotheke am Berliner-Tor-Platz",
      "city": "",
      "price": 3.69,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/apotheke-am-berliner-tor-platz/"
     },
     {
      "name": "green-glows",
      "city": "",
      "price": 3.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/green-glows/"
     }
    ],
@@ -584,21 +584,21 @@
      "name": "MedCanReste",
      "city": "",
      "price": 1.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/medcanreste/"
     },
     {
      "name": "Cannabis Apotheke im Centr-o-med",
      "city": "",
      "price": 3.98,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-apotheke-im-centr-o-med/"
     },
     {
      "name": "Kraut Kurier",
      "city": "",
      "price": 3.98,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/kraut-kurier/"
     }
    ],
@@ -624,21 +624,21 @@
      "name": "MedCanReste",
      "city": "",
      "price": 1.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/medcanreste/"
     },
     {
      "name": "Hirsch Apotheke, Nürnberg (nur Abholung)",
      "city": "",
      "price": 4.0,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/hirsch-apotheke-nuernberg-nur-abholung/"
     },
     {
      "name": "Adam-Apotheke, Rüsselsheim",
      "city": "",
      "price": 4.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/adam-apotheke-ruesselsheim/"
     }
    ],
@@ -784,21 +784,21 @@
      "name": "MedCanReste",
      "city": "",
      "price": 2.0,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/medcanreste/"
     },
     {
      "name": "CANN EBBES: alle Blüten unter 10eur",
      "city": "",
      "price": 4.49,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cann-ebbes-alle-blueten-unter-10eur/"
     },
     {
      "name": "CannaQuell",
      "city": "",
      "price": 4.69,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cannaquell/"
     }
    ],
@@ -842,7 +842,7 @@
      "name": "MedCanReste",
      "city": "",
      "price": 2.11,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/medcanreste/"
     },
     {
@@ -889,14 +889,14 @@
      "name": "Apotheke am Berliner-Tor-Platz",
      "city": "",
      "price": 2.18,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/apotheke-am-berliner-tor-platz/"
     },
     {
      "name": "Idris Apotheke",
      "city": "",
      "price": 2.18,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     }
    ],
@@ -929,14 +929,14 @@
      "name": "Apotheke am Berliner-Tor-Platz",
      "city": "",
      "price": 2.18,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/apotheke-am-berliner-tor-platz/"
     },
     {
      "name": "Idris Apotheke",
      "city": "",
      "price": 2.18,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     }
    ],
@@ -962,21 +962,21 @@
      "name": "MedCanReste",
      "city": "",
      "price": 2.22,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/medcanreste/"
     },
     {
      "name": "NEO Apotheke, Berlin",
      "city": "",
      "price": 2.9,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
     },
     {
      "name": "CANNACOMPANY",
      "city": "",
      "price": 5.75,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cannacompany/"
     }
    ],
@@ -1002,21 +1002,21 @@
      "name": "MedCanReste",
      "city": "",
      "price": 2.22,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/medcanreste/"
     },
     {
      "name": "B.Leaf",
      "city": "",
      "price": 3.75,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/b-leaf/"
     },
     {
      "name": "Goldene Blüte",
      "city": "",
      "price": 4.79,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/goldene-bluete/"
     }
    ],
@@ -1042,21 +1042,21 @@
      "name": "Cannabis Apotheke Frankfurt",
      "city": "",
      "price": 2.24,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-apotheke-frankfurt/"
     },
     {
      "name": "Kronen Cannabis",
      "city": "",
      "price": 2.95,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     },
     {
      "name": "HolyHerb",
      "city": "",
      "price": 2.97,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/holyherb/"
     }
    ],
@@ -1140,14 +1140,14 @@
      "name": "Cannabis Apotheke Bayern",
      "city": "",
      "price": 2.34,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cannabis-apotheke-bayern/"
     },
     {
      "name": "Cannabis-Apotheke-Gronau.de",
      "city": "",
      "price": 2.99,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cannabis-apotheke-gronau-de/"
     },
     {
@@ -1187,14 +1187,14 @@
      "name": "Kissel Apotheke",
      "city": "",
      "price": 2.49,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/kissel-apotheke/"
     },
     {
      "name": "Cannaplus Apotheke",
      "city": "",
      "price": 2.49,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannaplus-apotheke/"
     }
    ],
@@ -1227,14 +1227,14 @@
      "name": "Kissel Apotheke",
      "city": "",
      "price": 2.49,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/kissel-apotheke/"
     },
     {
      "name": "Cannaplus Apotheke",
      "city": "",
      "price": 2.49,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannaplus-apotheke/"
     }
    ],
@@ -1307,14 +1307,14 @@
      "name": "Cannaplus Apotheke",
      "city": "",
      "price": 2.64,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannaplus-apotheke/"
     },
     {
      "name": "Cann24",
      "city": "",
      "price": 3.29,
-     "stand": "vor 8T",
+     "stand": "vor 9T",
      "url": "https://cannapreis.de/apotheke/cann24/"
     }
    ],
@@ -1358,14 +1358,14 @@
      "name": "Malteser Apotheke Düsseldorf | Greencalm",
      "city": "",
      "price": 2.4,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/malteser-apotheke-duesseldorf-greencalm/"
     },
     {
      "name": "Grüne Brille",
      "city": "",
      "price": 3.2,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/gruene-brille/"
     },
     {
@@ -1398,14 +1398,14 @@
      "name": "Malteser Apotheke Düsseldorf | Greencalm",
      "city": "",
      "price": 2.4,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/malteser-apotheke-duesseldorf-greencalm/"
     },
     {
      "name": "Grüne Brille",
      "city": "",
      "price": 3.2,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/gruene-brille/"
     },
     {
@@ -1438,21 +1438,21 @@
      "name": "Fähren Apotheke | Cannabis Fähre",
      "city": "",
      "price": 2.44,
-     "stand": "vor 8T",
+     "stand": "vor 9T",
      "url": "https://cannapreis.de/apotheke/faehren-apotheke-cannabis-faehre/"
     },
     {
      "name": "Kronen Cannabis",
      "city": "",
      "price": 2.44,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     },
     {
      "name": "SativaMedics",
      "city": "",
      "price": 2.49,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/sativamedics/"
     }
    ],
@@ -1518,7 +1518,7 @@
      "name": "cannama²",
      "city": "",
      "price": 2.45,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannama/"
     },
     {
@@ -1532,7 +1532,7 @@
      "name": "CannaQuell",
      "city": "",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannaquell/"
     }
    ],
@@ -1558,14 +1558,14 @@
      "name": "MedCanReste",
      "city": "",
      "price": 2.45,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/medcanreste/"
     },
     {
      "name": "ABC Apotheke",
      "city": "",
      "price": 3.99,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/abc-apotheke/"
     },
     {
@@ -1758,21 +1758,21 @@
      "name": "SVAPO",
      "city": "",
      "price": 2.48,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/svapo/"
     },
     {
      "name": "Idris Apotheke",
      "city": "",
      "price": 2.98,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     },
     {
      "name": "WEEDCITY, Wiesbaden",
      "city": "",
      "price": 3.75,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/weedcity-wiesbaden/"
     }
    ],
@@ -1816,21 +1816,21 @@
      "name": "Idris Apotheke",
      "city": "",
      "price": 2.48,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     },
     {
      "name": "SVAPO",
      "city": "",
      "price": 2.89,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/svapo/"
     },
     {
      "name": "Cannabis-Apotheke-Gronau.de",
      "city": "",
      "price": 3.48,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannabis-apotheke-gronau-de/"
     }
    ],
@@ -1863,7 +1863,7 @@
      "name": "Idris Apotheke",
      "city": "",
      "price": 2.48,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     },
     {
@@ -2001,14 +2001,14 @@
      "name": "Goethe-Apotheke in Bensheim",
      "city": "",
      "price": 2.6,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/goethe-apotheke-in-bensheim/"
     },
     {
      "name": "Cannabis Apotheke Online",
      "city": "",
      "price": 2.65,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-apotheke-online/"
     }
    ],
@@ -2041,7 +2041,7 @@
      "name": "Idris Apotheke",
      "city": "",
      "price": 2.48,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     },
     {
@@ -2074,7 +2074,7 @@
      "name": "Canthera",
      "city": "",
      "price": 2.49,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/canthera/"
     },
     {
@@ -2088,7 +2088,7 @@
      "name": "Mohren Apotheke, Nürnberg",
      "city": "",
      "price": 2.49,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/mohren-apotheke-nuernberg/"
     }
    ],
@@ -2114,7 +2114,7 @@
      "name": "Canthera",
      "city": "",
      "price": 2.49,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/canthera/"
     }
    ],
@@ -2140,21 +2140,21 @@
      "name": "CANNACOMPANY",
      "city": "",
      "price": 2.49,
-     "stand": "vor 9T",
+     "stand": "vor 10T",
      "url": "https://cannapreis.de/apotheke/cannacompany/"
     },
     {
      "name": "easyApotheke Lübecker Straße, Magdeburg",
      "city": "",
      "price": 2.97,
-     "stand": "vor 9T",
+     "stand": "vor 10T",
      "url": "https://cannapreis.de/apotheke/easyapotheke-luebecker-strasse-magdeburg/"
     },
     {
      "name": "Cannabis Süddeutschland",
      "city": "",
      "price": 3.5,
-     "stand": "vor 9T",
+     "stand": "vor 10T",
      "url": "https://cannapreis.de/apotheke/cannabis-sueddeutschland/"
     }
    ],
@@ -2180,21 +2180,21 @@
      "name": "Cannabis Loft",
      "city": "",
      "price": 2.49,
-     "stand": "vor 9T",
+     "stand": "vor 10T",
      "url": "https://cannapreis.de/apotheke/cannabis-loft/"
     },
     {
      "name": "CannaColonia",
      "city": "",
      "price": 2.49,
-     "stand": "vor 9T",
+     "stand": "vor 10T",
      "url": "https://cannapreis.de/apotheke/cannacolonia/"
     },
     {
      "name": "cannalu",
      "city": "",
      "price": 2.49,
-     "stand": "vor 9T",
+     "stand": "vor 10T",
      "url": "https://cannapreis.de/apotheke/cannalu/"
     }
    ],
@@ -2220,21 +2220,21 @@
      "name": "1A PHARMACAN",
      "city": "",
      "price": 2.49,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/1a-pharmacan/"
     },
     {
      "name": "1A MEDCAN",
      "city": "",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/1a-medcan/"
     },
     {
      "name": "Cannovia",
      "city": "",
      "price": 3.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannovia/"
     }
    ],
@@ -2260,21 +2260,21 @@
      "name": "ABC Apotheke",
      "city": "",
      "price": 2.49,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/abc-apotheke/"
     },
     {
      "name": "Kronen Cannabis",
      "city": "",
      "price": 2.85,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     },
     {
      "name": "BatchControl",
      "city": "",
      "price": 2.94,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/batchcontrol/"
     }
    ],
@@ -2317,7 +2317,7 @@
      "name": "Kraut Kurier",
      "city": "",
      "price": 2.49,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/kraut-kurier/"
     }
    ],
@@ -2343,7 +2343,7 @@
      "name": "Kraut Kurier",
      "city": "",
      "price": 2.49,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/kraut-kurier/"
     }
    ],
@@ -2369,7 +2369,7 @@
      "name": "Kraut Kurier",
      "city": "",
      "price": 2.49,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/kraut-kurier/"
     }
    ],
@@ -2395,7 +2395,7 @@
      "name": "Kraut Kurier",
      "city": "",
      "price": 2.49,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/kraut-kurier/"
     }
    ],
@@ -2421,7 +2421,7 @@
      "name": "Kraut Kurier",
      "city": "",
      "price": 2.49,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/kraut-kurier/"
     }
    ],
@@ -2447,7 +2447,7 @@
      "name": "Kraut Kurier",
      "city": "",
      "price": 2.49,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/kraut-kurier/"
     }
    ],
@@ -2473,7 +2473,7 @@
      "name": "Apotheke am Berliner-Tor-Platz",
      "city": "",
      "price": 2.49,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/apotheke-am-berliner-tor-platz/"
     }
    ],
@@ -4189,38 +4189,38 @@
    "genetics": "Indica",
    "thc": 15.0,
    "cbd": null,
-   "price": 2.85,
+   "price": 2.84,
    "unit": "g",
    "price_regular_from": 2.56,
    "promo": true,
    "promo_text": "SALE: 1 Apotheke(n) für 2,46 €",
-   "pharmacy": "Malteser Apotheke Düsseldorf | Greencalm",
+   "pharmacy": "Canthera",
    "pharmacies": [
+    {
+     "name": "Canthera",
+     "city": "",
+     "price": 2.84,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/canthera/"
+    },
     {
      "name": "Malteser Apotheke Düsseldorf | Greencalm",
      "city": "",
      "price": 2.85,
-     "stand": "vor 2T",
+     "stand": "Preis von heute",
      "url": "https://cannapreis.de/apotheke/malteser-apotheke-duesseldorf-greencalm/"
     },
     {
      "name": "Mohren Apotheke, Nürnberg",
      "city": "",
      "price": 2.86,
-     "stand": "vor 2T",
+     "stand": "Preis von heute",
      "url": "https://cannapreis.de/apotheke/mohren-apotheke-nuernberg/"
-    },
-    {
-     "name": "Canthera",
-     "city": "",
-     "price": 2.86,
-     "stand": "vor 2T",
-     "url": "https://cannapreis.de/apotheke/canthera/"
     }
    ],
    "url": "https://cannapreis.de/shop/preis/tilray-thc-15-spotlight-porto-blueberry-blueberry/",
    "source": "cannapreis.de",
-   "avg_price": 5.58
+   "avg_price": 5.54
   },
   {
    "name": "Khiriox 25/1 (Cannabis-Extrakt)",
@@ -4374,21 +4374,21 @@
      "name": "Preussen Apotheke",
      "city": "",
      "price": 2.97,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/preussen-apotheke/"
     },
     {
      "name": "Karolinger Apotheke",
      "city": "",
      "price": 2.98,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/karolinger-apotheke/"
     },
     {
      "name": "Medifloris | Rosen Apotheke",
      "city": "",
      "price": 2.99,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/medifloris-rosen-apotheke/"
     }
    ],
@@ -4539,21 +4539,21 @@
      "name": "Einhorn Apotheke",
      "city": "",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/einhorn-apotheke/"
     },
     {
      "name": "BatchControl",
      "city": "",
      "price": 3.29,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/batchcontrol/"
     },
     {
      "name": "CANNACOMPANY",
      "city": "",
      "price": 3.32,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannacompany/"
     }
    ],
@@ -4586,14 +4586,14 @@
      "name": "Cannabis-Apotheke-Gronau.de",
      "city": "",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannabis-apotheke-gronau-de/"
     },
     {
      "name": "Eifel Gras",
      "city": "",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/eifel-gras/"
     }
    ],
@@ -4823,7 +4823,7 @@
      "name": "Kronen Cannabis",
      "city": "",
      "price": 3.15,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     },
     {
@@ -5237,21 +5237,21 @@
      "name": "Hirsch Apotheke, Nürnberg (nur Abholung)",
      "city": "",
      "price": 4.0,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/hirsch-apotheke-nuernberg-nur-abholung/"
     },
     {
      "name": "EasyCannabis",
      "city": "",
      "price": 4.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/easycannabis/"
     },
     {
      "name": "Cannabis Taxi",
      "city": "",
      "price": 5.95,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-taxi/"
     }
    ],
