@@ -1,0 +1,31 @@
+name: Update prices PL
+# Separate from "Update prices" (DE). Writes only prices_pl.json; failure never touches prices.json.
+on:
+  schedule:
+    - cron: "41 5 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: update-prices-pl
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Scrape PL
+        run: |
+          [ -f prices_pl.json ] && cp prices_pl.json /tmp/prev_pl.json || true
+          python update_prices_pl.py || { echo "PL scrape failed, keeping previous"; [ -f /tmp/prev_pl.json ] && cp /tmp/prev_pl.json prices_pl.json; exit 1; }
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- prices_pl.json && git ls-files --error-unmatch prices_pl.json >/dev/null 2>&1; then echo "No changes"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add prices_pl.json
+          git commit -m "Ceny PL $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
+          git push
