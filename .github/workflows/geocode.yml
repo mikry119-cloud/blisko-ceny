@@ -1,0 +1,31 @@
+name: Geocode pharmacies
+# Separate from update.yml / update_prices.py on purpose. Runs after "Update prices",
+# only geocodes pharmacies not yet in pharmacies_geo.json (Nominatim, 1 req/s, cached).
+on:
+  workflow_run:
+    workflows: ["Update prices"]
+    types: [completed]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: geocode-pharmacies
+jobs:
+  geocode:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Geocode new pharmacies
+        run: python geocode_pharmacies.py prices.json
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- pharmacies_geo.json && git ls-files --error-unmatch pharmacies_geo.json >/dev/null 2>&1; then echo "No changes"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pharmacies_geo.json
+          git commit -m "Geodane aptek $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
+          git push
