@@ -2,14 +2,14 @@
  "schema": 1,
  "country": "PL",
  "currency": "PLN",
- "updated": "2026-10-12T05:56:11+00:00",
+ "updated": "2026-10-13T05:56:01+00:00",
  "disclaimer": "Ceny 'od' = najniższa cena opakowania w aptekach wg źródła; nie jest to cena konkretnej apteki. Tylko na receptę. Zadzwoń do apteki przed wizytą.",
  "sources": [
   {
    "name": "receptamarihuana.pl",
    "url": "https://receptamarihuana.pl/lista-lekow/",
    "method": "public HTML, 1 req/day, robots.txt allows",
-   "fetched": "2026-10-12T05:56:11+00:00"
+   "fetched": "2026-10-13T05:56:01+00:00"
   },
   {
    "name": "gdziepolek.pl (linki do aptek)",
