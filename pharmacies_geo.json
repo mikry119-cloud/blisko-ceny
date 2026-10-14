@@ -4080,8 +4080,23 @@
    "geo_display": "Süd-Apotheke, 247, Mülheimer Straße, Alt-Oberhausen, Oberhausen, Nordrhein-Westfalen, 46045, Deutschland",
    "precision": "pharmacy",
    "geocoded": "2026-10-12"
+  },
+  "https://cannapreis.de/apotheke/central-apotheke-cannabis-champion-de/": {
+   "name": "Central Apotheke (Cannabis-Champion.de)",
+   "url": "https://cannapreis.de/apotheke/central-apotheke-cannabis-champion-de/",
+   "pickup": null,
+   "city": "Waiblingen",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 48.8306799,
+   "lon": 9.3141715,
+   "geo_query": "Central Apotheke, Waiblingen",
+   "geo_display": "Central-Apotheke, Fronackerstraße, Waiblingen, Rems-Murr-Kreis, Baden-Württemberg, 71332, Deutschland",
+   "precision": "pharmacy",
+   "geocoded": "2026-10-14"
   }
  },
- "updated": "2026-10-13T05:52:19Z",
+ "updated": "2026-10-14T06:02:39Z",
  "note": "Geocoded via OpenStreetMap Nominatim (© OpenStreetMap contributors, ODbL). precision: address|pharmacy|city. pickup: true=pickup mentioned in name, null=unknown."
 }
