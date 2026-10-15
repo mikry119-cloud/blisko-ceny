@@ -1,0 +1,20 @@
+{
+ "checked": "2026-10-15",
+ "products": [],
+ "blocked": "AGB §10 flowzz.com zabrania scrapingu/automatycznego pobierania danych bez pisemnej zgody – dane nie są pobierane",
+ "terms_url": "https://flowzz.com/agb",
+ "links": [
+  {
+   "name": "Wszystkie produkty",
+   "url": "https://flowzz.com/product"
+  },
+  {
+   "name": "Kwiaty",
+   "url": "https://flowzz.com/medizinische-cannabisblueten"
+  },
+  {
+   "name": "Ekstrakty",
+   "url": "https://flowzz.com/extract"
+  }
+ ]
+}

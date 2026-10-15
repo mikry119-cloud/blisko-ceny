@@ -10,6 +10,12 @@
    "url": "https://cannapreis.de/",
    "method": "public HTML listing + product pages, robots.txt respected",
    "fetched": "2026-10-15T05:54:28+00:00"
+  },
+  {
+   "name": "bloomwell.de",
+   "url": "https://bloomwell.de/",
+   "method": "public homepage product teasers; app.bloomwell.de disallowed by robots.txt (not accessed)",
+   "fetched": "2026-10-15T19:17:13+00:00"
   }
  ],
  "skipped": [
@@ -37,6 +43,11 @@
    "name": "Shop Apotheke",
    "url": "https://www.shop-apotheke.com/",
    "reason": "general online pharmacy; no public cannabis-flower price list found"
+  },
+  {
+   "name": "flowzz.com",
+   "url": "https://flowzz.com/agb",
+   "reason": "ToS (AGB §10) forbids scraping/automated access without written permission – link-out only"
   }
  ],
  "codes": [
@@ -202,7 +213,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/materia-sis-20-0-20thc-127771/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Materia SIS 20/0",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 1.99,
+   "price_max": 2.49,
+   "availability": "available"
   },
   {
    "name": "Bud-Jet 18/1 SUS Sunset Sherbet",
@@ -263,7 +285,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/bud-jet-18-1-sus-sunset-sherbet/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Sunset Sherbet",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.14,
+   "price_max": 2.15,
+   "availability": "available"
   },
   {
    "name": "SKK WWZ 21/1 White Widow Haze",
@@ -317,7 +350,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/skk-wwz-21-1-white-widow-haze/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "White Widow Haze",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.19,
+   "price_max": 2.29,
+   "availability": "available"
   },
   {
    "name": "Materia SIS 10/10",
@@ -371,7 +415,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/materia-sis-10-10-10thc-127770/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Materia SIS 10/10",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.33,
+   "price_max": 2.49,
+   "availability": "available"
   },
   {
    "name": "420 Cannabis-Extrakt THC 20 / CBD 0 EMT-2",
@@ -425,7 +480,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/emt-2-20thc-127708/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "420 Cannabis-Extrakt THC 20 / CBD 0 EMT-2",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.44,
+   "price_max": 2.5,
+   "availability": "available"
   },
   {
    "name": "IMC Cannabis-Extrakt 10:10 White Widow x Nightingale",
@@ -479,7 +545,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/white-widow-x-nightingale-10thc-127712/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "IMC Cannabis-Extrakt 10:10 White Widow x Nightingale",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.45,
+   "price_max": 2.49,
+   "availability": "available"
   },
   {
    "name": "Gorilla Zkittelz",
@@ -533,7 +610,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/gorilla-zkittelz-25thc-127751/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Gorilla Zkittelz",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.45,
+   "price_max": 2.49,
+   "availability": "available"
   },
   {
    "name": "Canthera Budget 24/1 PAB Papaya Bomb",
@@ -587,7 +675,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/canthera-budget-24-1-pab-papaya-bomb/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Papaya Bomb",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.49,
+   "price_max": 5.19,
+   "availability": "available"
   },
   {
    "name": "CzechOut 15/1 BLO Blockberry",
@@ -641,7 +740,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/czechout-15-1-blo-blockberry/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Blockberry",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.49,
+   "price_max": 2.5,
+   "availability": "available"
   },
   {
    "name": "Bud-Jet 21/1 SUS Sunset Sherbert",
@@ -695,7 +805,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/inopha-21thc-576620/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Sunset Sherbert",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.49,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "Bud-Jet 21/1 SUS Sunset Sherbet",
@@ -763,7 +884,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/bud-jet-21-1-sus-sunset-sherbet/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Sunset Sherbet",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.49,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "Cannatonic / Sweet Skunk",
@@ -817,7 +949,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/cannatonic-sweet-skunk-10thc-127803/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Cannatonic / Sweet Skunk",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.49,
+   "price_max": 3.27,
+   "availability": "available"
   },
   {
    "name": "SOMAI 25:1 Cannabis-Extrakt Hybrid SOMAI 25:1 Extrakt",
@@ -871,7 +1014,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/somai-25-1-extrakt-25thc-127725/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "SOMAI 25:1 Cannabis-Extrakt Hybrid SOMAI 25:1 Extrakt",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.49,
+   "price_max": 2.74,
+   "availability": "available"
   },
   {
    "name": "SOMAI Senses Guave 25:1",
@@ -925,7 +1079,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/somai-senses-guave-25-1-25thc-127720/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "SOMAI Senses Guave 25:1",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.49,
+   "price_max": 2.74,
+   "availability": "available"
   },
   {
    "name": "SOMAI Senses Zitrone 25:1",
@@ -979,7 +1144,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/somai-senses-zitrone-25-1-25thc-127722/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "SOMAI Senses Zitrone 25:1",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.49,
+   "price_max": 2.74,
+   "availability": "available"
   },
   {
    "name": "SOMAI 25:1 Cannabis-Extrakt Mint SOMAI 25:1 Extrakt Mint",
@@ -1033,7 +1209,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/somai-25-1-extrakt-mint-25thc-127705/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "SOMAI 25:1 Cannabis-Extrakt Mint SOMAI 25:1 Extrakt Mint",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.49,
+   "price_max": 2.74,
+   "availability": "available"
   },
   {
    "name": "Gorilla Zkittelz",
@@ -1087,7 +1274,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/gorilla-zkittelz-10thc-127750/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Gorilla Zkittelz",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.5,
+   "price_max": 2.69,
+   "availability": "available"
   },
   {
    "name": "Galaxia Organic Living Soil WRM 15/1 White Runtz x Mintz",
@@ -1141,7 +1339,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/galaxia-organic-living-soil-wrm-15-1-white-runtz-x-mintz/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "White Runtz x Mintz",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.6,
+   "price_max": 2.65,
+   "availability": "available"
   },
   {
    "name": "SOMAI 10:10 Cannabis-Extrakt Hybrid SOMAI 10:10 Extrakt",
@@ -1209,7 +1418,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/somai-10-10-extrakt-10thc-127691/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "SOMAI 10:10 Cannabis-Extrakt Hybrid SOMAI 10:10 Extrakt",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.6,
+   "price_max": 2.68,
+   "availability": "available"
   },
   {
    "name": "Blue Zoda",
@@ -1263,7 +1483,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/cansativa-22thc-457082/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Blue Zoda",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.64,
+   "price_max": 3.79,
+   "availability": "available"
   },
   {
    "name": "NICE 22/1 BZO Blue Zoda",
@@ -1317,7 +1548,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/nice-22-1-bzo-blue-zoda/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Blue Zoda",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.64,
+   "price_max": 3.79,
+   "availability": "available"
   },
   {
    "name": "IMC THC20 GGA Purple Grape",
@@ -1385,7 +1627,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/imc-20-1-gga-purple-grape/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "IMC THC20 GGA Purple Grape",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.61,
+   "price_max": 2.65,
+   "availability": "available"
   },
   {
    "name": "Blueberry",
@@ -1439,7 +1692,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/blueberry-15thc-128893/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Blueberry",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.69,
+   "price_max": 2.86,
+   "availability": "available"
   },
   {
    "name": "Tilray THC 15 Spotlight Porto Blueberry",
@@ -1493,7 +1757,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/tilray-thc-15-spotlight-porto-blueberry-blueberry/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Tilray THC 15 Spotlight Porto Blueberry",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.65,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "Pink Kush",
@@ -1532,7 +1807,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/pink-kush-22thc-379380/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Pink Kush",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.69,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "Hexa 18/1 STO Studio 54",
@@ -1593,7 +1879,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/hexa-18-1-sto-studio-54/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Studio 54",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.7,
+   "price_max": 2.89,
+   "availability": "available"
   },
   {
    "name": "Canify Cannabis flos 18/1 LS Ku. Khanya Select",
@@ -1647,7 +1944,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/canify-cannabis-flos-18-1-ls-ku-khanya-select/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Ku. Khanya Select",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.64,
+   "price_max": 2.9,
+   "availability": "available"
   },
   {
    "name": "NICE 20/1 BZO Blue Zoda",
@@ -1708,7 +2016,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/nice-20-1-bzo-blue-zoda/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Blue Zoda",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.74,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "Blue Zoda",
@@ -1769,7 +2088,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/cansativa-20thc-513215/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Blue Zoda",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.74,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "IMC Cannabis-Extrakt 25:1 Sweet Skunk",
@@ -1823,7 +2153,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/sweet-skunk-25thc-127724/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "IMC Cannabis-Extrakt 25:1 Sweet Skunk",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.74,
+   "price_max": 2.75,
+   "availability": "available"
   },
   {
    "name": "PhCann Exotics 22/1 Red Pop",
@@ -1877,7 +2218,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/phcann-exotics-22-1-red-pop/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Red Pop",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.75,
+   "price_max": 2.85,
+   "availability": "available"
   },
   {
    "name": "HiDealz 15/1 MS ICC Ice Cream Cake smalls",
@@ -1931,7 +2283,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/hidealz-15-1-ms-icc-ice-cream-cake-smalls/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Ice Cream Cake smalls",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.75,
+   "price_max": 2.98,
+   "availability": "available"
   },
   {
    "name": "Galaxia Organic Living Soil GB 19/1 Garlic Budder",
@@ -1985,7 +2348,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/galaxia-organic-living-soil-gb-19-1-garlic-budder/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Garlic Budder",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.75,
+   "price_max": 2.98,
+   "availability": "available"
   },
   {
    "name": "420 Cannabis-Extrakt THC 10 / CBD 10 EMT-2",
@@ -2053,7 +2427,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/emt-2-10thc-127706/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "420 Cannabis-Extrakt THC 10 / CBD 10 EMT-2",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.75,
+   "price_max": 2.9,
+   "availability": "available"
   },
   {
    "name": "IMC Cannabis-Extrakt 25:1 White Widow",
@@ -2107,7 +2492,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/white-widow-25thc-127713/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "IMC Cannabis-Extrakt 25:1 White Widow",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.75,
+   "price_max": 3.99,
+   "availability": "available"
   },
   {
    "name": "Somai Cannabis-Extrakt Senses Guave 25/1",
@@ -2161,7 +2557,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/somai-senses-guave-25-1/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Somai Cannabis-Extrakt Senses Guave 25/1",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.75,
+   "price_max": 2.79,
+   "availability": "available"
   },
   {
    "name": "Master AC",
@@ -2229,7 +2636,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/enua-pharma-22thc-513232/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Master AC",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.78,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "HiDealz 24/1 MS LIB Liberty Haze smalls",
@@ -2297,7 +2715,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/hidealz-24-1-ms-lib-liberty-haze-smalls/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Liberty Haze smalls",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.78,
+   "price_max": 2.79,
+   "availability": "available"
   },
   {
    "name": "Budza 24/1 WRZ White Runtz",
@@ -2351,7 +2780,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/budza-24-1-wrz-white-runtz/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "White Runtz",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.78,
+   "price_max": 2.89,
+   "availability": "available"
   },
   {
    "name": "slouu 22/1 MAC CA Master AC",
@@ -2419,7 +2859,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/slouu-22-1-mac-ca-master-ac/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Master AC",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.78,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "Gorillas Chocolate",
@@ -2480,7 +2931,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/imc-23thc-513294/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Gorillas Chocolate",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.79,
+   "price_max": 2.8,
+   "availability": "available"
   },
   {
    "name": "CzechOut 18/1 PUO Purple Octane",
@@ -2541,7 +3003,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/czechout-18-1-puo-purple-octane/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Purple Octane",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.79,
+   "price_max": 6.0,
+   "availability": "available"
   },
   {
    "name": "Ceremony Tart C",
@@ -2595,7 +3068,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/ceremony-tart-c-18thc-130333/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Ceremony Tart C",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.79,
+   "price_max": 2.95,
+   "availability": "available"
   },
   {
    "name": "IMC Token GC THC23 Gorilla's Chocolate",
@@ -2649,7 +3133,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/imc-token-gc-thc23-gorillas-chocolate/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "IMC Token GC THC23 Gorilla's Chocolate",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.8,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "Coyote Valley 20/1 NP Needle Point",
@@ -2703,7 +3198,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/coyote-valley-20-1-np-needle-point/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Needle Point",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.84,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "MH SLG Blackscotti 18/1",
@@ -2757,7 +3263,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/mh-slg-blackscotti-18-1/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "MH SLG Blackscotti 18/1",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.8,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "MH MEDPLANT Wedding Cake 15/1",
@@ -2818,7 +3335,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/mh-medplant-wedding-cake-15-1/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "MH MEDPLANT Wedding Cake 15/1",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.85,
+   "price_max": 2.94,
+   "availability": "available"
   },
   {
    "name": "Blackscotti",
@@ -2872,7 +3400,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/blackscotti-18thc-129993/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Blackscotti",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.85,
+   "price_max": 3.0,
+   "availability": "available"
   },
   {
    "name": "HiDealz 18/1 MS CTA Ceremony Tart smalls",
@@ -2926,7 +3465,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/hidealz-18-1-ms-cta-ceremony-tart-smalls/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Ceremony Tart smalls",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.88,
+   "price_max": 3.79,
+   "availability": "available"
   },
   {
    "name": "Canify Cannabis Flos 16/1 CL Ku. Herer Widow",
@@ -2980,7 +3530,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/herer-widow-16thc-129346/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Ku. Herer Widow",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.88,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "Social Choice! 18/1 MCP GMO Cookies",
@@ -3034,7 +3595,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/social-choice-18-1-mcp-gmo-cookies/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Cookies",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.75,
+   "price_max": 3.44,
+   "availability": "available"
   },
   {
    "name": "HiDealz 21/1 MS MOI Mochi smalls",
@@ -3088,7 +3660,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/hidealz-21-1-ms-moi-mochi-smalls/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Mochi smalls",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.24,
+   "price_max": 2.94,
+   "availability": "available"
   },
   {
    "name": "Blockberry",
@@ -3142,7 +3725,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/blockberry-15thc-325452/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Blockberry",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.89,
+   "price_max": 2.95,
+   "availability": "available"
   },
   {
    "name": "HiDealz 24/1 MS Lemonatti Smalls",
@@ -3196,7 +3790,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/hidealz-24-1-ms-lemonatti/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Lemonatti Smalls",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.48,
+   "price_max": 2.98,
+   "availability": "available"
   },
   {
    "name": "Cannabis Flos 16/1 CL Ku. Herer Widow",
@@ -3250,7 +3855,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/cannabis-flos-16-1-cl-ku-herer-widow/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Ku. Herer Widow",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.89,
+   "price_max": 3.15,
+   "availability": "available"
   },
   {
    "name": "NOC SE 19 Essence Scoop of Chem x Early Orange",
@@ -3304,7 +3920,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/scoop-of-chem-x-early-orange-19thc-130055/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "NOC SE 19 Essence Scoop of Chem x Early Orange",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.89,
+   "price_max": 2.9,
+   "availability": "available"
   },
   {
    "name": "frdm 18/1 JCK Jack Herer",
@@ -3386,7 +4013,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/frdm-18-1-jck-jack-herer/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Jack Herer",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.89,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "Medical Saints 21/1 ICC Ice Cream Cake",
@@ -3440,7 +4078,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/medical-saints-21-1-icc-ice-cream-cake/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Ice Cream Cake",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.5,
+   "price_max": 3.44,
+   "availability": "available"
   },
   {
    "name": "BG 15 KRK Day COL Kraken",
@@ -3494,7 +4143,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/bg-15-krk-day-kraken/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "BG 15 KRK Day COL Kraken",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.9,
+   "price_max": 2.98,
+   "availability": "available"
   },
   {
    "name": "AMP ZEN MAW THC22 Maui Wowie",
@@ -3555,7 +4215,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/amp-zen-maw-thc22-maui-wowie/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "AMP ZEN MAW THC22 Maui Wowie",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.5,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "enua 20/1 CDG CA Crispy Doughnut",
@@ -3609,7 +4280,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/enua-20-1-cdg-ca-crispy-doughnut/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Crispy Doughnut",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.85,
+   "price_max": 2.95,
+   "availability": "available"
   },
   {
    "name": "420 Natural 16/1 CA TRP Tropicana Cookies",
@@ -3663,7 +4345,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/420-natural-16-1-ca-trp/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Tropicana Cookies",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.84,
+   "price_max": 4.49,
+   "availability": "available"
   },
   {
    "name": "Medical Saints 18/1 CSW Cinnamon Swirl",
@@ -3717,7 +4410,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/medical-saints-18-1-csw-cinnamon-swirl/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Cinnamon Swirl",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.89,
+   "price_max": 2.95,
+   "availability": "available"
   },
   {
    "name": "NICE 20/1 APL Apple Fritter x Oreoz",
@@ -3771,7 +4475,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/nice-20-1-apl-apple-fritter-x-oreoz/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Apple Fritter x Oreoz",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.89,
+   "price_max": 3.05,
+   "availability": "available"
   },
   {
    "name": "Remexian 18/1 KPS SMX Specimen X",
@@ -3853,7 +4568,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/remexian-18-1-kps-smx-specimen-x/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Specimen X",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.9,
+   "price_max": 2.91,
+   "availability": "available"
   },
   {
    "name": "madrecan 21/1 Granddaddy OG",
@@ -3907,7 +4633,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/madrecan-21-1-granddaddy-og/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Granddaddy OG",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.85,
+   "price_max": 2.95,
+   "availability": "available"
   },
   {
    "name": "Remexian 24/1 CHR BCO Blunicorn",
@@ -3961,7 +4698,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/remexian-24-1-chr-bco-blunicorn/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Blunicorn",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.9,
+   "price_max": 3.69,
+   "availability": "available"
   },
   {
    "name": "Weeco 1A 16/1 WW White Widow",
@@ -4015,7 +4763,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/weeco-1a-16-1-ww-white-widow/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "White Widow",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.5,
+   "price_max": 3.99,
+   "availability": "available"
   },
   {
    "name": "NOC SE 19 Essence",
@@ -4069,7 +4828,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/noc-se-19/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "NOC SE 19 Essence",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.9,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "HiDealz 27/1 MS SRD Sugar Dream smalls",
@@ -4123,7 +4893,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/hidealz-27-1-ms-srd-sugar-dream/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Sugar Dream smalls",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.9,
+   "price_max": 3.33,
+   "availability": "available"
   },
   {
    "name": "Froze",
@@ -4177,7 +4958,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/froze-17thc-129504/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Froze",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.9,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "enua 27/1 PS3 CA MYC Minty Cookies",
@@ -4238,7 +5030,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/enua-27-1-ps3-ca-myc-minty-cookies/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "PS3 CA MYC Minty Cookies",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.92,
+   "price_max": 2.94,
+   "availability": "available"
   },
   {
    "name": "Care PM THC20 Permanent Marker",
@@ -4299,7 +5102,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/amp-20thc-513227/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Care PM THC20 Permanent Marker",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.93,
+   "price_max": 3.69,
+   "availability": "available"
   },
   {
    "name": "Andes",
@@ -4360,7 +5174,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/andes-16thc-129213/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Andes",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.94,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "Creamy Kee's",
@@ -4421,7 +5246,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/imc-25thc-425064/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Creamy Kee's",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.94,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "MH MEDPLANT 15/1 Wedding Cake",
@@ -4475,7 +5311,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/wedding-cake-15thc-130130/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Wedding Cake",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.94,
+   "price_max": 3.0,
+   "availability": "available"
   },
   {
    "name": "ZOIKS 22/1 ALM Alienmax",
@@ -4529,7 +5376,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/zoiks-22-1-alm-alienmax/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Alienmax",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.93,
+   "price_max": 2.95,
+   "availability": "available"
   },
   {
    "name": "Alienmax",
@@ -4583,7 +5441,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/alienmax-22thc-129601/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Alienmax",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.94,
+   "price_max": 2.95,
+   "availability": "available"
   },
   {
    "name": "Frosted Platin Girl",
@@ -4637,7 +5506,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/frosted-platin-girl-22thc-130315/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Frosted Platin Girl",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.94,
+   "price_max": 2.95,
+   "availability": "available"
   },
   {
    "name": "Amnesia kush x Sherbet Shocker",
@@ -4691,7 +5571,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/amnesia-kush-x-sherbet-shocker-23-5thc-130168/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Amnesia kush x Sherbet Shocker",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.95,
+   "price_max": 2.98,
+   "availability": "available"
   },
   {
    "name": "NOC AS 22 ARG Amnesia kush x Sherbet Shocker",
@@ -4745,7 +5636,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/noc-as-22-arg-amnesia-kush-x-sherbet-shocker/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "NOC AS 22 ARG Amnesia kush x Sherbet Shocker",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.95,
+   "price_max": 2.98,
+   "availability": "available"
   },
   {
    "name": "HiDealz 21/1 MS MOI smalls Mochi",
@@ -4799,7 +5701,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/mochi-21thc-130578/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "smalls Mochi",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.95,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "Granddaddy OG",
@@ -4853,7 +5766,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/granddaddy-og-21thc-130456/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Granddaddy OG",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.95,
+   "price_max": 3.26,
+   "availability": "available"
   },
   {
    "name": "GMO",
@@ -4907,7 +5831,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/gmo-16-4thc-129042/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "GMO",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.95,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "hexa 24/1 LKC LA Kush Cake",
@@ -4975,7 +5910,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/hexa-24-1-lkc-la-kush-cake/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Kush Cake",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.9,
+   "price_max": 3.25,
+   "availability": "available"
   },
   {
    "name": "ZOIKS 26/1 PD Platin Driver",
@@ -5029,7 +5975,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/zoiks-26-1-pd-platin-driver/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Platin Driver",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.95,
+   "price_max": 3.49,
+   "availability": "available"
   },
   {
    "name": "slouu 27/1 FPG CA Frosted Platin Girl",
@@ -5097,7 +6054,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/slouu-27-1-fpg-ca-frosted-platin-girl/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Frosted Platin Girl",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.95,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "slouu 25/1 FPG CA Frosted Platin Girl",
@@ -5151,7 +6119,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/slouu-25-1-fpg-ca-frosted-platin-girl/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Frosted Platin Girl",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.94,
+   "price_max": 2.95,
+   "availability": "available"
   },
   {
    "name": "Crispy Doughnut",
@@ -5205,7 +6184,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/crispy-doughnut-19-7thc-130636/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Crispy Doughnut",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.95,
+   "price_max": 3.4,
+   "availability": "available"
   },
   {
    "name": "madrecan 21/1 MDR MAC Driver",
@@ -5259,7 +6249,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/madrecan-21-1-mac-driver/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Driver",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.94,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "Remexian 30/1 RPK NRC Narcos",
@@ -5313,7 +6314,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/remexian-30-1-rpk-nrc-narcos/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Narcos",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.95,
+   "price_max": 3.86,
+   "availability": "available"
   },
   {
    "name": "Frosted Platin Girl",
@@ -5381,7 +6393,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/enua-pharma-27thc-513237/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Frosted Platin Girl",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.95,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "Platin Driver",
@@ -5435,7 +6458,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/platin-driver-26thc-130539/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Platin Driver",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.95,
+   "price_max": 2.96,
+   "availability": "available"
   },
   {
    "name": "Island Sweet Skunk",
@@ -5510,7 +6544,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/island-sweet-skunk-25thc-129680/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Island Sweet Skunk",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.95,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "Mac Driver",
@@ -5564,7 +6609,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/mac-driver-21thc-130129/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Mac Driver",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.95,
+   "price_max": 3.34,
+   "availability": "available"
   },
   {
    "name": "Remexian 18/1 MHI JJR Joyous Joyride",
@@ -5618,7 +6674,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/remexian-18-1-mhi-jjr-joyous-joyride/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Joyous Joyride",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.78,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "WEECO Vasco 21/1 Skunk Widow",
@@ -5672,7 +6739,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/weeco-vasco-21-1-skunk-widow/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Skunk Widow",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.96,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "NICE 22/1 BCC Blueberry Cheesecake",
@@ -5726,7 +6804,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/nice-22-1-bcc-blueberry-cheesecake/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Blueberry Cheesecake",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.97,
+   "price_max": 3.19,
+   "availability": "available"
   },
   {
    "name": "Blueberry Cheesecake",
@@ -5780,7 +6869,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/blueberry-cheesecake-22thc-379384/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Blueberry Cheesecake",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.97,
+   "price_max": 3.19,
+   "availability": "available"
   },
   {
    "name": "WEECO Peridot 25/1 Slightly Stoopid Fruits",
@@ -5834,7 +6934,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/weeco-peridot-25-1-slightly-stoopid-fruits/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Slightly Stoopid Fruits",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.96,
+   "price_max": 3.18,
+   "availability": "available"
   },
   {
    "name": "Supreme 22/1 Orange Starfruit",
@@ -5895,7 +7006,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/supreme-22-1-orange-starfruit/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Orange Starfruit",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.97,
+   "price_max": 3.9,
+   "availability": "available"
   },
   {
    "name": "Curaleaf Natural 30/1 PT ZKS Zookies",
@@ -5949,7 +7071,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/curaleaf-natural-30-1-pt-zks-zookies/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Zookies",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.95,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "Prime Lime",
@@ -6003,7 +7136,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/prime-lime-26thc-130609/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Prime Lime",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.97,
+   "price_max": 4.39,
+   "availability": "available"
   },
   {
    "name": "Adven 20:0 Extrakt EMT 2",
@@ -6057,7 +7201,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/emt-2-20thc-127759/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Adven 20:0 Extrakt EMT 2",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.97,
+   "price_max": 3.7,
+   "availability": "available"
   },
   {
    "name": "HiDealz 24/1 MS LEM Lemonatti",
@@ -6111,7 +7266,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/lemonatti-24thc-129988/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Lemonatti",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.98,
+   "price_max": 3.48,
+   "availability": "available"
   },
   {
    "name": "HiDealz 21/1 MS ICC Ice Cream Cake",
@@ -6150,7 +7316,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/ice-cream-cake-21thc-130606/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Ice Cream Cake",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.98,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "HiDealz 21/1 MS ICC Ice Cream Cake smalls",
@@ -6204,7 +7381,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/hidealz-21-1-ms-icc-ice-cream-cake-smalls/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Ice Cream Cake smalls",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.74,
+   "price_max": 2.98,
+   "availability": "available"
   },
   {
    "name": "HiDealz 21/1 MS LEM Lemonatti",
@@ -6243,7 +7431,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/lemonatti-21thc-130607/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Lemonatti",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.98,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "Eufloria 24/1 FDR Fou Du Roi",
@@ -6297,7 +7496,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/eufloria-24-1-fdr-fou-du-roi/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Fou Du Roi",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.98,
+   "price_max": 3.5,
+   "availability": "available"
   },
   {
    "name": "Weeco BR 22/1 Black Russian",
@@ -6351,7 +7561,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/weeco-BR-22-1-black-russian/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Black Russian",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.97,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "Cannabis flos 16/1 CL Dougs Varin",
@@ -6405,7 +7626,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/canify-cannabis-flos-16-1-cl-dgv-dougs-varin/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Dougs Varin",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.98,
+   "price_max": 3.0,
+   "availability": "available"
   },
   {
    "name": "IMC Mids TC 25/1 Tropic Candy",
@@ -6459,7 +7691,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/imc-mids-tc-25-1-tropic-candy/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Tropic Candy",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.95,
+   "price_max": 3.15,
+   "availability": "available"
   },
   {
    "name": "NOC LF 23 ARG Apricot Fuel",
@@ -6520,7 +7763,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/noc-lf-23-arg-apricot-fuel/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "NOC LF 23 ARG Apricot Fuel",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.98,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "BLAYZ 24/1 SRS Sour Sherb",
@@ -6574,7 +7828,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/blayz-24-1-srs-sour-sherb/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Sour Sherb",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.98,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "Bathera 24/1 DB Donny Burger",
@@ -6628,7 +7893,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/bathera-24-1-db-donny-burger/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Donny Burger",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.98,
+   "price_max": 3.76,
+   "availability": "available"
   },
   {
    "name": "Canify 18/1 ES Ku. Forbidden Dream",
@@ -6689,7 +7965,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/canify-18-1-es-ku-forbidden-dream/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Ku. Forbidden Dream",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.99,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "GMO x Animal Cookies smalls",
@@ -6743,7 +8030,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/gmo-x-animal-cookies-smalls-24thc-130341/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "GMO x Animal Cookies smalls",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.99,
+   "price_max": 3.28,
+   "availability": "available"
   },
   {
    "name": "HiDealz 24/1 MS GAC GMO x Animal Cookies smalls",
@@ -6790,7 +8088,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/hidealz-24-1-ms-gac-gmo-x-animal-cookies-smalls/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "x Animal Cookies smalls",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.99,
+   "price_max": 3.99,
+   "availability": "available"
   },
   {
    "name": "Good Supply THC 15 SPC Space Cake",
@@ -6851,7 +8160,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/good-supply-thc15-spc-space-cake/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Good Supply THC 15 SPC Space Cake",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.99,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "AphriaRX THC25 SNS Sunset Sherbet",
@@ -6905,7 +8225,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/aphriarx-thc25-sns-sunset-sherbet/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "AphriaRX THC25 SNS Sunset Sherbet",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.79,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "Good Supply Cannabisblüten THC15 SPC Space Cake",
@@ -6966,7 +8297,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/space-cake-15thc-130268/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Good Supply Cannabisblüten THC15 SPC Space Cake",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.99,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "Mochi",
@@ -7006,7 +8348,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/barongo-buuo-wmg-20thc-536997/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Mochi",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.99,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "CzechOut 21/1 ORZ Oreoz",
@@ -7060,7 +8413,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/czechout-21-1-orz-oreoz/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Oreoz",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.79,
+   "price_max": 3.39,
+   "availability": "available"
   },
   {
    "name": "Medical Saints 18/1 MOI Mochi",
@@ -7128,7 +8492,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/medical-saints-18-1-moi-mochi/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Mochi",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.94,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "Orange Starfruit",
@@ -7182,7 +8557,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/barongo-buuo-wmg-22thc-440910/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Orange Starfruit",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.99,
+   "price_max": 3.49,
+   "availability": "available"
   },
   {
    "name": "Slouu 27/1 AT2 OMJ CA Oz Melon Jam",
@@ -7243,7 +8629,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/slouu-27-1-at2-omj-ca-oz-melon-jam/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "AT2 OMJ CA Oz Melon Jam",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.94,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "Canify 20/1 CZE Ku. MAC 1",
@@ -7311,7 +8708,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/canify-20-1-cze-ku-mac-1/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Ku. MAC 1",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.99,
+   "price_max": 3.08,
+   "availability": "available"
   },
   {
    "name": "Buuo 22/1 GP Gastro Popstars",
@@ -7365,7 +8773,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/buuo-22-1-gp-gastro-popstars/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Gastro Popstars",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.98,
+   "price_max": 2.99,
+   "availability": "available"
   },
   {
    "name": "Purple Rain",
@@ -7419,7 +8838,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/weeco-pharma-27thc-457084/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Purple Rain",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.99,
+   "price_max": 4.5,
+   "availability": "available"
   },
   {
    "name": "CKS Cannabis-Extrakt HG 25:1 Huckleberry Gelato",
@@ -7480,7 +8910,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/huckleberry-gelato-25thc-127775/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "CKS Cannabis-Extrakt HG 25:1 Huckleberry Gelato",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.99,
+   "price_max": 3.83,
+   "availability": "available"
   },
   {
    "name": "SOMAI 50:1 Cannabis-Extrakt Mint SOMAI 50:1 Extrakt Mint",
@@ -7534,7 +8975,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/somai-50-1-extrakt-mint-50thc-127755/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "SOMAI 50:1 Cannabis-Extrakt Mint SOMAI 50:1 Extrakt Mint",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.99,
+   "price_max": 4.35,
+   "availability": "available"
   },
   {
    "name": "Cannamedical Hybrid Cannabis-Extrakt THC25:CBD25",
@@ -7609,7 +9061,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/thc25-cbd25-25thc-127753/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Cannamedical Hybrid Cannabis-Extrakt THC25:CBD25",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.99,
+   "price_max": 3.49,
+   "availability": "available"
   },
   {
    "name": "Adven 20/0 (Cannabis-Extrakt)",
@@ -7677,7 +9140,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/adven-20-0/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "(Cannabis-Extrakt)",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.99,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "Apples & Bananas",
@@ -7731,7 +9205,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/apples-bananas-25thc-127776/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Apples & Bananas",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.99,
+   "price_max": 3.32,
+   "availability": "available"
   },
   {
    "name": "HiDealz 18/1 MS MCO Mimosa Cookies smalls",
@@ -7792,7 +9277,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/hidealz-18-1-ms-mco-mimosa-cookies-smalls/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Mimosa Cookies smalls",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.0,
+   "price_max": 3.6,
+   "availability": "available"
   },
   {
    "name": "Drapalin 12,5/12,5 Cannabis-Extrakt M Runtz",
@@ -7853,7 +9349,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/m-runtz-12-5thc-127743/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Drapalin 12,5/12,5 Cannabis-Extrakt M Runtz",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.0,
+   "price_max": 3.45,
+   "availability": "available"
   },
   {
    "name": "Gorilla Skittlez",
@@ -7914,7 +9421,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/gorilla-skittlez-50thc-127787/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Gorilla Skittlez",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.08,
+   "price_max": 3.29,
+   "availability": "available"
   },
   {
    "name": "Mac 1",
@@ -7968,7 +9486,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/mac-1-24thc-130444/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Mac 1",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.09,
+   "price_max": 3.37,
+   "availability": "available"
   },
   {
    "name": "Guavaz",
@@ -8022,7 +9551,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/four-20-pharma-22thc-457079/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Guavaz",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.16,
+   "price_max": 3.6,
+   "availability": "available"
   },
   {
    "name": "TYSON 2.0 22/1 Alexander The Great",
@@ -8076,7 +9616,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/tyson-22-1-alexander-the-great/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Alexander The Great",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.2,
+   "price_max": 5.6,
+   "availability": "available"
   },
   {
    "name": "Alexander The Great",
@@ -8130,7 +9681,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/nimbus-health-22thc-592153/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Alexander The Great",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.2,
+   "price_max": 5.6,
+   "availability": "available"
   },
   {
    "name": "Medical Saints 18/1 ICC Ice Cream Cake",
@@ -8198,7 +9760,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/medical-saints-18-1-icc-ice-cream-cake/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Ice Cream Cake",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.99,
+   "price_max": 3.29,
+   "availability": "available"
   },
   {
    "name": "HiDealz 24/1 MS CAC Cake Crasher smalls",
@@ -8252,7 +9825,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/hidealz-24-1-ms-cac-cake-crasher-smalls/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Cake Crasher smalls",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.25,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "Canify Cannabis flos 20/1 CO Ku. MAC",
@@ -8306,7 +9890,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/canify-flos-20-1-co-mac/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Ku. MAC",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.29,
+   "price_max": 5.29,
+   "availability": "available"
   },
   {
    "name": "Drapalin 25/1 Cannabis-Extrakt M Runtz",
@@ -8360,7 +9955,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/m-runtz-25thc-127745/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Cannabis-Extrakt M Runtz",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.29,
+   "price_max": 3.35,
+   "availability": "available"
   },
   {
    "name": "Tilray THC 22 Hybrid No. 2 Pink Kush",
@@ -8414,7 +10020,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/tilray-thc-22-hybrid-no-pink-kush/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Tilray THC 22 Hybrid No. 2 Pink Kush",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.33,
+   "price_max": 3.65,
+   "availability": "available"
   },
   {
    "name": "HiDealz 27/1 MS SRD smalls Sugar Dream",
@@ -8468,7 +10085,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/sugar-dream-27thc-130575/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "smalls Sugar Dream",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.33,
+   "price_max": 3.44,
+   "availability": "available"
   },
   {
    "name": "BG 26/1 CPY COL Capaxky",
@@ -8522,7 +10150,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/bg-26-1-cpy-col-capaxky/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Capaxky",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.33,
+   "price_max": 3.39,
+   "availability": "available"
   },
   {
    "name": "Khiriox 25/1 (Cannabis-Extrakt)",
@@ -8576,7 +10215,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/khiriox-25-1/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "(Cannabis-Extrakt)",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.34,
+   "price_max": 3.39,
+   "availability": "available"
   },
   {
    "name": "Sinceritas 100/1",
@@ -8637,7 +10287,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/sinceritas-100-1/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Sinceritas 100/1",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.38,
+   "price_max": 3.45,
+   "availability": "available"
   },
   {
    "name": "ADREX 1/25 CBD Extrakt Cannabis-Extrakt",
@@ -8691,7 +10352,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/cannabisextrakt-1thc-127767/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Extrakt Cannabis-Extrakt",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.39,
+   "price_max": 4.7,
+   "availability": "available"
   },
   {
    "name": "ADREX 10/10 Extrakt",
@@ -8745,7 +10417,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/adrex-10-10-extrakt/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Extrakt",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.39,
+   "price_max": 3.89,
+   "availability": "available"
   },
   {
    "name": "HiDealz 24/1 MS LEM smalls Lemonatti smalls",
@@ -8785,7 +10468,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/lemonatti-smalls-24thc-130516/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "smalls Lemonatti smalls",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.45,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "Remexian 15/1 KPS SCP Sherb Cream Pie",
@@ -8867,7 +10561,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/remexian-15-1-kps-scp-sherb-cream-pie/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Sherb Cream Pie",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.45,
+   "price_max": 3.49,
+   "availability": "available"
   },
   {
    "name": "Extrakt",
@@ -8921,7 +10626,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/extrakt-50thc-127790/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Extrakt",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.45,
+   "price_max": 3.69,
+   "availability": "available"
   },
   {
    "name": "Narcos",
@@ -8975,7 +10691,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/narcos-30thc-130633/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Narcos",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.48,
+   "price_max": 3.96,
+   "availability": "available"
   },
   {
    "name": "aleph Basic H1 18/1 Mantis",
@@ -9050,7 +10777,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/aleph-basic-h1-18-1-mantis/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Mantis",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.99,
+   "price_max": 3.49,
+   "availability": "available"
   },
   {
    "name": "Devil Driver",
@@ -9104,7 +10842,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/devil-driver-26thc-379396/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Devil Driver",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.49,
+   "price_max": 3.95,
+   "availability": "available"
   },
   {
    "name": "Canify Cannabis 22/1 CZE Acai Berry",
@@ -9158,7 +10907,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/canify-cannabis-22-1-cze-acai-berry/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Acai Berry",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.5,
+   "price_max": 3.95,
+   "availability": "available"
   },
   {
    "name": "Tilray THC5:CBD20 (Cannabis-Extrakt)",
@@ -9212,7 +10972,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/tilray-thc-5-cbd-20/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Tilray THC5:CBD20 (Cannabis-Extrakt)",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.5,
+   "price_max": 3.99,
+   "availability": "available"
   },
   {
    "name": "Adven 25/25 Cannabis-Extrakt EMT-2",
@@ -9266,7 +11037,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/emt-2-25thc-127734/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Cannabis-Extrakt EMT-2",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.51,
+   "price_max": 5.3,
+   "availability": "available"
   },
   {
    "name": "Adven 10/10 (Cannabis-Extrakt)",
@@ -9320,7 +11102,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/adven-10-10-cannabisextrakt-10thc-127792/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "(Cannabis-Extrakt)",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.55,
+   "price_max": 3.7,
+   "availability": "available"
   },
   {
    "name": "Galic Budder",
@@ -9367,7 +11160,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/galic-budder-15thc-129874/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Galic Budder",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.71,
+   "price_max": 3.89,
+   "availability": "available"
   },
   {
    "name": "Balancial 22/1 PT S1 JH Jack Herer",
@@ -9428,7 +11232,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/balancial-22-1-pt-s1-jh-jack-herer/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "S1 JH Jack Herer",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.9,
+   "price_max": 3.75,
+   "availability": "available"
   },
   {
    "name": "ADREX 25/1 THC Extrakt",
@@ -9482,7 +11297,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/adrex-25-1-thc-extrakt-25thc-127820/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Extrakt",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.8,
+   "price_max": 3.97,
+   "availability": "available"
   },
   {
    "name": "ADREX 10/10 Extrakt Cannabis-Extrakt",
@@ -9536,7 +11362,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/cannabisextrakt-10thc-127737/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Extrakt Cannabis-Extrakt",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.89,
+   "price_max": 4.96,
+   "availability": "available"
   },
   {
    "name": "420 Cannabis-Extrakt THC 25 / CBD 25 EMT-2",
@@ -9604,7 +11441,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/emt-2-25thc-127707/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "420 Cannabis-Extrakt THC 25 / CBD 25 EMT-2",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.89,
+   "price_max": 3.95,
+   "availability": "available"
   },
   {
    "name": "Somai Cannabis-Extrakt Mint 10/10",
@@ -9658,7 +11506,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/somai-mint-10-10/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Somai Cannabis-Extrakt Mint 10/10",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.92,
+   "price_max": 3.99,
+   "availability": "available"
   },
   {
    "name": "Cannabis-Extrakt Avextra 25 THC Jack Haze",
@@ -9712,7 +11571,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/jack-haze-25thc-127762/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Cannabis-Extrakt Avextra 25 THC Jack Haze",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.93,
+   "price_max": 4.49,
+   "availability": "available"
   },
   {
    "name": "Cannabis-Extrakt Avextra 25/25 Jack Haze",
@@ -9766,7 +11636,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/jack-haze-25thc-127779/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Jack Haze",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.93,
+   "price_max": 4.49,
+   "availability": "available"
   },
   {
    "name": "DEMECAN TRUU 50:01 Gorilla Zkittlez",
@@ -9820,7 +11701,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/gorilla-zkittlez-50thc-127774/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "DEMECAN TRUU 50:01 Gorilla Zkittlez",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.95,
+   "price_max": 3.99,
+   "availability": "available"
   },
   {
    "name": "SOMAI 2.5:25 Cannabis-Extrakt Hybrid SOMAI 2.5:25 Extrakt",
@@ -9874,7 +11766,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/somai-2-5-25-extrakt-2-5thc-127697/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "SOMAI 2.5:25 Cannabis-Extrakt Hybrid SOMAI 2.5:25 Extrakt",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.96,
+   "price_max": 4.25,
+   "availability": "available"
   },
   {
    "name": "Cannamedical Cannabis-Extrakt THC12,5:CBD12,5 Strawberry Ice",
@@ -9928,7 +11831,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/strawberry-ice-12-5thc-127769/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Cannamedical Cannabis-Extrakt THC12,5:CBD12,5 Strawberry Ice",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.98,
+   "price_max": 4.99,
+   "availability": "available"
   },
   {
    "name": "ADREX 25/25 Extrakt",
@@ -9982,7 +11896,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/adrex-25-25-cannabisextrakt-aus-adrex/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Extrakt",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.98,
+   "price_max": 4.0,
+   "availability": "available"
   },
   {
    "name": "SOMAI Cannabis-Extrakt Hybrid 100:<2",
@@ -10036,7 +11961,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/somai-cannabisextrakt-hybrid-100-2/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "SOMAI Cannabis-Extrakt Hybrid 100:<2",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.98,
+   "price_max": 3.99,
+   "availability": "available"
   },
   {
    "name": "Luana 23/1 Donny B Bunatic",
@@ -10090,7 +12026,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/luana-23-1-donny-b-bunatic/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Donny B Bunatic",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.75,
+   "price_max": 3.99,
+   "availability": "available"
   },
   {
    "name": "Somai Cannabis-Extrakt Mint 25/25",
@@ -10144,7 +12091,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/somai-mint-25-25/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Somai Cannabis-Extrakt Mint 25/25",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.99,
+   "price_max": 4.99,
+   "availability": "available"
   },
   {
    "name": "Vertanical THC/CBD (Cannabis-Extrakt)",
@@ -10198,7 +12156,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/vertanical-thc-cbd/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Vertanical THC/CBD (Cannabis-Extrakt)",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.0,
+   "price_max": 4.64,
+   "availability": "available"
   },
   {
    "name": "IMC Extrakt 25:25 White Widow",
@@ -10266,7 +12235,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/white-widow-25thc-127788/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "IMC Extrakt 25:25 White Widow",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.1,
+   "price_max": 4.36,
+   "availability": "available"
   },
   {
    "name": "Candoro ethics 10:10 Cannabis-Extrakt",
@@ -10320,7 +12300,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/candoro-ethics-10-10-cannabisextrakt/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Candoro ethics 10:10 Cannabis-Extrakt",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.12,
+   "price_max": 4.45,
+   "availability": "available"
   },
   {
    "name": "Somai Airo T800 MK (1 ml)",
@@ -10374,7 +12365,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/airo-t800-mk-1-ml/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Somai Airo T800 MK (1 ml)",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.14,
+   "price_max": 4.16,
+   "availability": "available"
   },
   {
    "name": "GROW 10:10 Herijuana, French Cookies, Strawberry Glue, La Sage, Gelato, Afghaniberry",
@@ -10428,7 +12430,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/herijuana-french-cookies-strawberry-glue-la-sage-gelato-afghaniberry-10thc-127747/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "GROW 10:10 Herijuana, French Cookies, Strawberry Glue, La Sage, Gelato, Afghaniberry",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.2,
+   "price_max": 4.99,
+   "availability": "available"
   },
   {
    "name": "Demecan concentrate 850",
@@ -10482,7 +12495,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/demecan-concentrate-850-85-01/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Demecan concentrate 850",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.2,
+   "price_max": 5.0,
+   "availability": "available"
   },
   {
    "name": "Drapalin 5/50 Cannabis-Extrakt M Runtz",
@@ -10536,7 +12560,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/m-runtz-5thc-127742/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Cannabis-Extrakt M Runtz",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.25,
+   "price_max": 4.39,
+   "availability": "available"
   },
   {
    "name": "Aurora Extract 12.5:12.5 Farm Gas/Vespera",
@@ -10590,7 +12625,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/farm-gas-vespera-12-5thc-127736/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Aurora Extract 12.5:12.5 Farm Gas/Vespera",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.29,
+   "price_max": 4.73,
+   "availability": "available"
   },
   {
    "name": "Cannabis-Extrakt Avextra 10/10 Jack Haze",
@@ -10644,7 +12690,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/jack-haze-10thc-127780/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Jack Haze",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.3,
+   "price_max": 4.95,
+   "availability": "available"
   },
   {
    "name": "Drapalin 27/25 Cannabis-Extrakt M Runtz",
@@ -10698,7 +12755,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/m-runtz-27thc-127744/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Cannabis-Extrakt M Runtz",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.39,
+   "price_max": 4.44,
+   "availability": "available"
   },
   {
    "name": "SOMAI 25:25 Cannabis-Extrakt Hybrid SOMAI 25:25 Extrakt",
@@ -10752,7 +12820,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/somai-25-25-extrakt-25thc-127825/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "SOMAI 25:25 Cannabis-Extrakt Hybrid SOMAI 25:25 Extrakt",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.4,
+   "price_max": 4.57,
+   "availability": "available"
   },
   {
    "name": "SOMAI 25:25 Cannabis-Extrakt Mint SOMAI 25:25 Extrakt Mint",
@@ -10806,7 +12885,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/somai-25-25-extrakt-mint-25thc-127805/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "SOMAI 25:25 Cannabis-Extrakt Mint SOMAI 25:25 Extrakt Mint",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.4,
+   "price_max": 4.57,
+   "availability": "available"
   },
   {
    "name": "Bafokeng Choice",
@@ -10860,7 +12950,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/bafokeng-choice-25thc-127785/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Bafokeng Choice",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.45,
+   "price_max": 265.97,
+   "availability": "available"
   },
   {
    "name": "Becanex PIEX 1 70% THC Rohextrakt",
@@ -10914,7 +13015,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/becanex-piex-1-70-thc-rohextrakt/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Becanex PIEX 1 70% THC Rohextrakt",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.48,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "LUANA 50:50 Cannabis-Extrakt LUANA 50:50 Extrakt",
@@ -10975,7 +13087,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/luana-50-50-extrakt-50thc-127754/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "LUANA 50:50 Cannabis-Extrakt LUANA 50:50 Extrakt",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.48,
+   "price_max": 4.69,
+   "availability": "available"
   },
   {
    "name": "Apothekenherstellung MCT-Öl: Bubba Kush 25/1 Demecan Typ 1 Extrakt",
@@ -11029,7 +13152,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/apothekenherstellung-mctoel-bubbakush/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Demecan Typ 1 Extrakt",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.48,
+   "price_max": 4.99,
+   "availability": "available"
   },
   {
    "name": "Ethypharm CBD 100 (Cannabis-Extrakt)",
@@ -11083,7 +13217,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/ethypharm-cbd-100/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Ethypharm CBD 100 (Cannabis-Extrakt)",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.49,
+   "price_max": 4.8,
+   "availability": "available"
   },
   {
    "name": "Demecan Oktonia Typ 2 25:01 (Cannabis-Extrakt)",
@@ -11137,7 +13282,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/demecan-typ-2-25-01/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Demecan Oktonia Typ 2 25:01 (Cannabis-Extrakt)",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.49,
+   "price_max": 5.39,
+   "availability": "available"
   },
   {
    "name": "LOT 420 - Greyscales FJ 26/1 Flapjacks",
@@ -11198,7 +13354,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/cantourage-26-1-greyscales-fj-flapjacks/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Flapjacks",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.59,
+   "price_max": 4.99,
+   "availability": "available"
   },
   {
    "name": "Flapjacks",
@@ -11259,7 +13426,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/flapjacks-26thc-128775/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Flapjacks",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.5,
+   "price_max": 4.99,
+   "availability": "available"
   },
   {
    "name": "Tilray THC50:CBD50 (Cannabis-Extrakt)",
@@ -11313,7 +13491,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/tilray-cannabisextrakt-thc-50-cbd-50/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Tilray THC50:CBD50 (Cannabis-Extrakt)",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.5,
+   "price_max": 4.99,
+   "availability": "available"
   },
   {
    "name": "Gorilla Zkittlez",
@@ -11367,7 +13556,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/gorilla-zkittlez-50thc-127773/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Gorilla Zkittlez",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.58,
+   "price_max": 4.68,
+   "availability": "available"
   },
   {
    "name": "SOMAI 50:1",
@@ -11421,7 +13621,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/somai-50-1-50thc-127793/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "SOMAI 50:1",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.69,
+   "price_max": 4.94,
+   "availability": "available"
   },
   {
    "name": "Demecan Oktonia Typ 2 10:10 (Cannabis-Extrakt)",
@@ -11475,7 +13686,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/demecan-typ-2-10-10/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Demecan Oktonia Typ 2 10:10 (Cannabis-Extrakt)",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.76,
+   "price_max": 5.8,
+   "availability": "available"
   },
   {
    "name": "10/10 Vayamed Cannabis-Extrakt Amnesia Haze",
@@ -11529,7 +13751,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/amnesia-haze-10thc-127800/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Vayamed Cannabis-Extrakt Amnesia Haze",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.9,
+   "price_max": 5.72,
+   "availability": "available"
   },
   {
    "name": "Extrakt",
@@ -11583,7 +13816,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/extrakt-100thc-127791/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Extrakt",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.9,
+   "price_max": 4.95,
+   "availability": "available"
   },
   {
    "name": "HiDealz 21/1 MS LEM Lemonatti smalls",
@@ -11630,7 +13874,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/hidealz-21-1-ms-lem-lemonatti-smalls/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Lemonatti smalls",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 4.99,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "Shrubs 25/1 SGK Sugar Kush",
@@ -11677,7 +13932,18 @@
    ],
    "url": "https://cannapreis.de/shop/preis/shrubs-25-1-sgk-sugar-kush/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Sugar Kush",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 7.0,
+   "price_max": null,
+   "availability": "available"
   },
   {
    "name": "SOMAI 10:10 Cannabis-Extrakt Mint SOMAI 10:10 Extrakt Mint",
@@ -11701,7 +13967,313 @@
    "pharmacies": [],
    "url": "https://cannapreis.de/shop/preis/somai-10-10-extrakt-mint-10thc-127692/",
    "source": "cannapreis.de",
-   "detail": true
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "SOMAI 10:10 Cannabis-Extrakt Mint SOMAI 10:10 Extrakt Mint",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": null,
+   "price_max": null,
+   "availability": "unknown"
+  },
+  {
+   "name": "MEDTADOR 26/1 OLC OL Cream",
+   "producer": "",
+   "type": "flower",
+   "cultivar": "MEDTADOR 26/1 OLC OL Cream",
+   "genetics": "",
+   "thc": 26.0,
+   "cbd": 1.0,
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 6.49,
+   "price_max": null,
+   "unit": "g",
+   "availability": "unknown",
+   "src": "bloomwell",
+   "source": "bloomwell.de",
+   "url": "https://app.bloomwell.de/marketplace/1972755241180270592",
+   "note": "Teaser ze strony głównej bloomwell.de (cena 'ab'); pełny katalog tylko w aplikacji",
+   "srcs": [
+    "bloomwell"
+   ],
+   "price": 6.49,
+   "pharmacies": [],
+   "pharmacy": ""
+  },
+  {
+   "name": "CM Hybrid Forte KA Ring Of Sour",
+   "producer": "",
+   "type": "flower",
+   "cultivar": "CM Hybrid Forte KA Ring Of Sour",
+   "genetics": "",
+   "thc": 25.0,
+   "cbd": 1.0,
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.99,
+   "price_max": null,
+   "unit": "g",
+   "availability": "unknown",
+   "src": "bloomwell",
+   "source": "bloomwell.de",
+   "url": "https://app.bloomwell.de/marketplace/1949485383469584384",
+   "note": "Teaser ze strony głównej bloomwell.de (cena 'ab'); pełny katalog tylko w aplikacji",
+   "srcs": [
+    "bloomwell"
+   ],
+   "price": 2.99,
+   "pharmacies": [],
+   "pharmacy": ""
+  },
+  {
+   "name": "Blue Pave",
+   "producer": "",
+   "type": "flower",
+   "cultivar": "Blue Pave",
+   "genetics": "",
+   "thc": 31.0,
+   "cbd": 1.0,
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 6.48,
+   "price_max": null,
+   "unit": "g",
+   "availability": "unknown",
+   "src": "bloomwell",
+   "source": "bloomwell.de",
+   "url": "https://app.bloomwell.de/marketplace/1934253426347601920",
+   "note": "Teaser ze strony głównej bloomwell.de (cena 'ab'); pełny katalog tylko w aplikacji",
+   "srcs": [
+    "bloomwell"
+   ],
+   "price": 6.48,
+   "pharmacies": [],
+   "pharmacy": ""
+  },
+  {
+   "name": "Ghost Train Haze",
+   "producer": "",
+   "type": "flower",
+   "cultivar": "Ghost Train Haze",
+   "genetics": "",
+   "thc": 24.0,
+   "cbd": 1.0,
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 5.24,
+   "price_max": null,
+   "unit": "g",
+   "availability": "unknown",
+   "src": "bloomwell",
+   "source": "bloomwell.de",
+   "url": "https://app.bloomwell.de/marketplace/1744409116193271808",
+   "note": "Teaser ze strony głównej bloomwell.de (cena 'ab'); pełny katalog tylko w aplikacji",
+   "srcs": [
+    "bloomwell"
+   ],
+   "price": 5.24,
+   "pharmacies": [],
+   "pharmacy": ""
+  },
+  {
+   "name": "Wedding Pop Triangle",
+   "producer": "",
+   "type": "flower",
+   "cultivar": "Wedding Pop Triangle",
+   "genetics": "",
+   "thc": 30.0,
+   "cbd": 1.0,
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.99,
+   "price_max": null,
+   "unit": "g",
+   "availability": "unknown",
+   "src": "bloomwell",
+   "source": "bloomwell.de",
+   "url": "https://app.bloomwell.de/marketplace/1916977790991478784",
+   "note": "Teaser ze strony głównej bloomwell.de (cena 'ab'); pełny katalog tylko w aplikacji",
+   "srcs": [
+    "bloomwell"
+   ],
+   "price": 2.99,
+   "pharmacies": [],
+   "pharmacy": ""
+  },
+  {
+   "name": "Cap Junky",
+   "producer": "",
+   "type": "extract",
+   "cultivar": "Cap Junky",
+   "genetics": "",
+   "thc": 80.0,
+   "cbd": 5.0,
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 78.95,
+   "price_max": null,
+   "unit": "szt.",
+   "availability": "unknown",
+   "src": "bloomwell",
+   "source": "bloomwell.de",
+   "url": "https://app.bloomwell.de/marketplace/1875976939839053824",
+   "note": "Teaser ze strony głównej bloomwell.de (cena 'ab'); pełny katalog tylko w aplikacji",
+   "srcs": [
+    "bloomwell"
+   ],
+   "price": 78.95,
+   "pharmacies": [],
+   "pharmacy": ""
+  },
+  {
+   "name": "Girl Scout Kush",
+   "producer": "",
+   "type": "flower",
+   "cultivar": "Girl Scout Kush",
+   "genetics": "",
+   "thc": 27.0,
+   "cbd": 1.0,
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.98,
+   "price_max": null,
+   "unit": "g",
+   "availability": "unknown",
+   "src": "bloomwell",
+   "source": "bloomwell.de",
+   "url": "https://app.bloomwell.de/marketplace/1913393810203037696",
+   "note": "Teaser ze strony głównej bloomwell.de (cena 'ab'); pełny katalog tylko w aplikacji",
+   "srcs": [
+    "bloomwell"
+   ],
+   "price": 3.98,
+   "pharmacies": [],
+   "pharmacy": ""
+  },
+  {
+   "name": "Cinderella Kush",
+   "producer": "",
+   "type": "flower",
+   "cultivar": "Cinderella Kush",
+   "genetics": "",
+   "thc": 27.0,
+   "cbd": 1.0,
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.69,
+   "price_max": null,
+   "unit": "g",
+   "availability": "unknown",
+   "src": "bloomwell",
+   "source": "bloomwell.de",
+   "url": "https://app.bloomwell.de/marketplace/1823039839551655936",
+   "note": "Teaser ze strony głównej bloomwell.de (cena 'ab'); pełny katalog tylko w aplikacji",
+   "srcs": [
+    "bloomwell"
+   ],
+   "price": 3.69,
+   "pharmacies": [],
+   "pharmacy": ""
+  },
+  {
+   "name": "Haymaker Haze",
+   "producer": "",
+   "type": "flower",
+   "cultivar": "Haymaker Haze",
+   "genetics": "",
+   "thc": 32.0,
+   "cbd": 1.0,
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 5.95,
+   "price_max": null,
+   "unit": "g",
+   "availability": "unknown",
+   "src": "bloomwell",
+   "source": "bloomwell.de",
+   "url": "https://app.bloomwell.de/marketplace/1809956234652356608",
+   "note": "Teaser ze strony głównej bloomwell.de (cena 'ab'); pełny katalog tylko w aplikacji",
+   "srcs": [
+    "bloomwell"
+   ],
+   "price": 5.95,
+   "pharmacies": [],
+   "pharmacy": ""
+  },
+  {
+   "name": "Space Rider",
+   "producer": "",
+   "type": "flower",
+   "cultivar": "Space Rider",
+   "genetics": "",
+   "thc": 22.0,
+   "cbd": 1.0,
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.99,
+   "price_max": null,
+   "unit": "g",
+   "availability": "unknown",
+   "src": "bloomwell",
+   "source": "bloomwell.de",
+   "url": "https://app.bloomwell.de/marketplace/1850930275919179776",
+   "note": "Teaser ze strony głównej bloomwell.de (cena 'ab'); pełny katalog tylko w aplikacji",
+   "srcs": [
+    "bloomwell"
+   ],
+   "price": 3.99,
+   "pharmacies": [],
+   "pharmacy": ""
   }
- ]
+ ],
+ "merge": {
+  "at": "2026-10-15T19:18:30+00:00",
+  "counts": {
+   "apteka": 206,
+   "bloomwell": {
+    "new": 10,
+    "merged_into_existing": 0
+   },
+   "flowzz": {
+    "new": 0,
+    "merged_into_existing": 0
+   }
+  },
+  "blocked": [
+   {
+    "name": "flowzz",
+    "reason": "AGB §10 flowzz.com zabrania scrapingu/automatycznego pobierania danych bez pisemnej zgody – dane nie są pobierane",
+    "url": "https://flowzz.com/agb",
+    "links": [
+     {
+      "name": "Wszystkie produkty",
+      "url": "https://flowzz.com/product"
+     },
+     {
+      "name": "Kwiaty",
+      "url": "https://flowzz.com/medizinische-cannabisblueten"
+     },
+     {
+      "name": "Ekstrakty",
+      "url": "https://flowzz.com/extract"
+     }
+    ]
+   }
+  ]
+ }
 }

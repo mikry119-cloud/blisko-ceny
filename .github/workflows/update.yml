@@ -20,12 +20,15 @@ jobs:
         run: |
           cp prices.json /tmp/prev.json
           python update_prices.py
+          python update_bloomwell.py || echo 'bloomwell failed – keeping previous bloomwell.json'
+          python update_flowzz.py
+          python merge_sources.py
           python -c "import json;d=json.load(open('prices.json'));assert len(d['products'])>20,'too few products'" || { echo "Bad output, restoring"; cp /tmp/prev.json prices.json; exit 1; }
       - name: Commit if changed
         run: |
-          if git diff --quiet -- prices.json; then echo "No changes"; exit 0; fi
+          if git diff --quiet -- prices.json bloomwell.json flowzz.json; then echo "No changes"; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add prices.json
+          git add prices.json bloomwell.json flowzz.json
           git commit -m "Aktualizacja cen $(date -u +%Y-%m-%d)"
           git push
