@@ -135,8 +135,8 @@ def parse_list_v2(page, ptype):
         if not title: continue
         g = lambda cls: txt((re.search(r'ds-pcard__' + cls + r'"[^>]*>(.*?)</(?:small|em|i|span)>', c, re.S) or [None, ""])[1])
         pr = re.search(r'ds-pcard__price"><b>\s*([\d.,]+)\s*€(?:<small>/(\w+)</small>)?', c)
-        thc = re.search(r'([\d,]+)\s*%\s*THC', txt(c)); cbd = re.search(r'([\d,]+)\s*%\s*CBD', txt(c))
-        p = num(pr.group(1)) if pr else None; gen = g("gen")
+        thc = re.search(r'THC\s*([\d,]+)\s*%', txt(c)) or re.search(r'([\d,]+)\s*%\s*THC', txt(c)); cbd = re.search(r'CBD\s*([\d,]+)\s*%', txt(c)) or re.search(r'([\d,]+)\s*%\s*CBD', txt(c))
+        p = num(pr.group(1)) if pr else None; gen = g("gen") or txt((re.search(r'class="ds-gen[^"]*">(.*?)</em>', c, re.S) or [None, ""])[1])
         cnt = re.search(r'(\d+)\s*Apotheke', g("avail"))
         out.append({"name": txt(title.group(1)), "producer": g("mf"), "type": ptype,
             "genetics": gen if gen in ("Sativa", "Indica", "Hybrid") else "",
