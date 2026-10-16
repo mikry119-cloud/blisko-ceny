@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updated": "2026-10-15T19:19:02+00:00",
+ "updated": "2026-10-16T05:53:57+00:00",
  "currency": "EUR",
  "country": "DE",
  "disclaimer": "Prices from public comparison listings; may be outdated. Medical cannabis in Germany only with a doctor's prescription (MedCanG). Not medical advice.",
@@ -9,13 +9,13 @@
    "name": "cannapreis.de",
    "url": "https://cannapreis.de/",
    "method": "public HTML listing + product pages, robots.txt respected",
-   "fetched": "2026-10-15T19:19:02+00:00"
+   "fetched": "2026-10-16T05:53:57+00:00"
   },
   {
    "name": "bloomwell.de",
    "url": "https://bloomwell.de/",
    "method": "public homepage product teasers; app.bloomwell.de disallowed by robots.txt (not accessed)",
-   "fetched": "2026-10-15T19:17:13+00:00"
+   "fetched": "2026-10-16T06:03:08+00:00"
   }
  ],
  "skipped": [
@@ -56,7 +56,7 @@
    "text": "Nutze den Code CANNAPREIS50 und sichere dir 50% Rabatt bei CannaZen",
    "issuer": "cannapreis.de (listing site banner)",
    "source_url": "https://cannapreis.de/shop/blueten/",
-   "seen": "2026-10-15",
+   "seen": "2026-10-16",
    "verified": false,
    "note": "Published by price-comparison site, not by the pharmacy/portal itself – unverified."
   }
@@ -107,7 +107,7 @@
    "seen": "2026-10-10",
    "verified": true,
    "auto_checked": true,
-   "checked": "2026-10-15"
+   "checked": "2026-10-16"
   },
   {
    "id": "candoc",
@@ -118,7 +118,7 @@
    "seen": "2026-10-10",
    "verified": true,
    "auto_checked": true,
-   "checked": "2026-10-15"
+   "checked": "2026-10-16"
   },
   {
    "id": "cannaleo",
@@ -253,14 +253,14 @@
      "name": "Neroweed (Mohren Apotheke, Wiesbaden)",
      "city": "Wiesbaden Biebrich",
      "price": 1.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/neroweed-mohren-apotheke-wiesbaden/"
     },
     {
      "name": "Apotheke am Berliner-Tor-Platz",
      "city": "Wesel",
      "price": 1.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/apotheke-am-berliner-tor-platz/"
     },
     {
@@ -279,7 +279,7 @@
      "name": "NEO Apotheke, Berlin",
      "city": "Berlin",
      "price": 2.1,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
     },
     {
@@ -332,7 +332,7 @@
      "name": "HolyHerb",
      "city": "Solingen",
      "price": 1.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/holyherb/"
     }
    ],
@@ -344,21 +344,21 @@
      "name": "Hellemed (Helle Apotheke Quadra, Bergheim)",
      "city": "Bergheim",
      "price": 2.19,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/hellemed-helle-apotheke-quadra-bergheim/"
     },
     {
      "name": "Apotheke am Berliner-Tor-Platz",
      "city": "Wesel",
      "price": 2.19,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/apotheke-am-berliner-tor-platz/"
     },
     {
      "name": "Neroweed (Mohren Apotheke, Wiesbaden)",
      "city": "Wiesbaden Biebrich",
      "price": 2.19,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/neroweed-mohren-apotheke-wiesbaden/"
     }
    ],
@@ -527,7 +527,7 @@
      "name": "Canthera",
      "city": "Nürnberg",
      "price": 2.19,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/canthera/"
     }
    ],
@@ -546,14 +546,14 @@
      "name": "Mohren Apotheke, Nürnberg",
      "city": "Nürnberg",
      "price": 2.49,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/mohren-apotheke-nuernberg/"
     },
     {
      "name": "Trinity Cannabis",
      "city": "berlin",
      "price": 4.89,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/trinity-cannabis/"
     }
    ],
@@ -592,7 +592,7 @@
      "name": "Kronen Cannabis",
      "city": "Sankt Augustin",
      "price": 2.47,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     }
    ],
@@ -604,7 +604,7 @@
      "name": "SativaMedics",
      "city": "Neuwied",
      "price": 2.49,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/sativamedics/"
     },
     {
@@ -987,7 +987,7 @@
      "name": "Goethe-Apotheke in Bensheim",
      "city": "Bensheim",
      "price": 2.6,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/goethe-apotheke-in-bensheim/"
     },
     {
@@ -1001,7 +1001,7 @@
      "name": "Cannabis Apotheke Online",
      "city": "Heimsheim",
      "price": 2.65,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-apotheke-online/"
     }
    ],
@@ -1052,21 +1052,21 @@
      "name": "Cannaplus Apotheke",
      "city": "Augsburg",
      "price": 2.64,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannaplus-apotheke/"
     },
     {
      "name": "Cann24",
      "city": "Hamburg",
      "price": 3.29,
-     "stand": "vor 3T",
+     "stand": "vor 4T",
      "url": "https://cannapreis.de/apotheke/cann24/"
     },
     {
      "name": "Bavarian Cannabis",
      "city": "Puchheim-Bahnhof",
      "price": 3.79,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/bavarian-cannabis/"
     }
    ],
@@ -1117,21 +1117,21 @@
      "name": "Cannaplus Apotheke",
      "city": "Augsburg",
      "price": 2.64,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannaplus-apotheke/"
     },
     {
      "name": "Cann24",
      "city": "Hamburg",
      "price": 3.29,
-     "stand": "vor 3T",
+     "stand": "vor 4T",
      "url": "https://cannapreis.de/apotheke/cann24/"
     },
     {
      "name": "Bavarian Cannabis",
      "city": "Puchheim-Bahnhof",
      "price": 3.79,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/bavarian-cannabis/"
     }
    ],
@@ -1300,7 +1300,7 @@
      "name": "CANN EBBES: alle Blüten unter 10eur",
      "city": "Waiblingen",
      "price": 2.61,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cann-ebbes-alle-blueten-unter-10eur/"
     },
     {
@@ -1326,7 +1326,7 @@
      "name": "Cannabis Köln",
      "city": "Köln",
      "price": 2.65,
-     "stand": "vor 8T",
+     "stand": "vor 9T",
      "url": "https://cannapreis.de/apotheke/cannabis-koeln/"
     },
     {
@@ -1379,7 +1379,7 @@
      "name": "CANN EBBES: alle Blüten unter 10eur",
      "city": "Waiblingen",
      "price": 2.67,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cann-ebbes-alle-blueten-unter-10eur/"
     },
     {
@@ -1405,7 +1405,7 @@
      "name": "Cannabis Champion",
      "city": "Waiblingen",
      "price": 2.98,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-champion/"
     },
     {
@@ -1638,7 +1638,7 @@
      "name": "Kronen Cannabis",
      "city": "Sankt Augustin",
      "price": 2.67,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     },
     {
@@ -1657,21 +1657,21 @@
      "name": "Cannabis Apotheke Online",
      "city": "Heimsheim",
      "price": 2.7,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannabis-apotheke-online/"
     },
     {
      "name": "Cannibo-Bahnhof Apotheke Bonn",
      "city": "Bonn",
      "price": 2.75,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannibo-bahnhof-apotheke-bonn/"
     },
     {
      "name": "Grüne Brille",
      "city": "Röttenbach",
      "price": 2.89,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/gruene-brille/"
     }
    ],
@@ -1722,7 +1722,7 @@
      "name": "PHARMABLÜTE Mainz",
      "city": "Mainz",
      "price": 2.73,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/pharmabluete-mainz/"
     },
     {
@@ -1775,7 +1775,7 @@
      "name": "Dr. Müller Leafs",
      "city": "Kassel",
      "price": 2.68,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/dr-mueller-leafs/"
     },
     {
@@ -1794,21 +1794,21 @@
      "name": "Happy CannaMed (Marien-Apotheke, Cloppenburg)",
      "city": "Cloppenburg",
      "price": 2.74,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/happy-cannamed-marien-apotheke-cloppenburg/"
     },
     {
      "name": "SativaMedics",
      "city": "Neuwied",
      "price": 2.79,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/sativamedics/"
     },
     {
      "name": "HAPPY CannaMed",
      "city": "Cloppenburg",
      "price": 2.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/happy-cannamed/"
     }
    ],
@@ -1847,7 +1847,7 @@
      "name": "Dr. Müller Leafs",
      "city": "Kassel",
      "price": 2.68,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/dr-mueller-leafs/"
     },
     {
@@ -1866,21 +1866,21 @@
      "name": "Happy CannaMed (Marien-Apotheke, Cloppenburg)",
      "city": "Cloppenburg",
      "price": 2.74,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/happy-cannamed-marien-apotheke-cloppenburg/"
     },
     {
      "name": "SativaMedics",
      "city": "Neuwied",
      "price": 2.79,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/sativamedics/"
     },
     {
      "name": "HAPPY CannaMed",
      "city": "Cloppenburg",
      "price": 2.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/happy-cannamed/"
     }
    ],
@@ -2191,14 +2191,14 @@
      "name": "Malteser Apotheke Düsseldorf | Greencalm",
      "city": "Düsseldorf",
      "price": 2.75,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/malteser-apotheke-duesseldorf-greencalm/"
     },
     {
      "name": "Idris Apotheke",
      "city": "Weinheim",
      "price": 2.85,
-     "stand": "vor 4T",
+     "stand": "vor 5T",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     },
     {
@@ -2244,7 +2244,7 @@
      "name": "CANN EBBES: alle Blüten unter 10eur",
      "city": "Waiblingen",
      "price": 2.74,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cann-ebbes-alle-blueten-unter-10eur/"
     },
     {
@@ -2263,7 +2263,7 @@
      "name": "Neroweed (Mohren Apotheke, Wiesbaden)",
      "city": "Wiesbaden Biebrich",
      "price": 2.75,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/neroweed-mohren-apotheke-wiesbaden/"
     },
     {
@@ -2316,7 +2316,7 @@
      "name": "Dr. Müller Leafs",
      "city": "Kassel",
      "price": 2.74,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/dr-mueller-leafs/"
     }
    ],
@@ -2328,21 +2328,21 @@
      "name": "Santa Green",
      "city": "Geeste",
      "price": 2.75,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/santa-green/"
     },
     {
      "name": "Hohenzollern Apotheke",
      "city": "Münster",
      "price": 2.98,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/hohenzollern-apotheke/"
     },
     {
      "name": "Rosen-Apotheke Fulda",
      "city": "Fulda",
      "price": 2.98,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/rosen-apotheke-fulda/"
     }
    ],
@@ -2354,6 +2354,71 @@
     "apteka"
    ],
    "cultivar": "Ice Cream Cake smalls",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.75,
+   "price_max": 2.98,
+   "availability": "available"
+  },
+  {
+   "name": "Galaxia Organic Living Soil GB 19/1 Garlic Budder",
+   "producer": "Cannaflos",
+   "type": "flower",
+   "genetics": "Hybrid",
+   "thc": 19.0,
+   "cbd": 1.0,
+   "price": 2.75,
+   "unit": "g",
+   "price_regular_from": 2.75,
+   "price_list_min": null,
+   "sale_price": null,
+   "sale_pharmacies_count": 0,
+   "promo": false,
+   "promo_text": "",
+   "sale_pharmacies": [
+    {
+     "name": "Draisapotheke",
+     "city": "Ansbach",
+     "price": 2.49,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/draisapotheke/"
+    }
+   ],
+   "avg_price": 3.84,
+   "pharmacies_count": 40,
+   "pharmacy": "Grüne Brille",
+   "pharmacies": [
+    {
+     "name": "Grüne Brille",
+     "city": "Röttenbach",
+     "price": 2.75,
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/gruene-brille/"
+    },
+    {
+     "name": "Apotheke zur alten Post",
+     "city": "Bonn",
+     "price": 2.98,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/apotheke-zur-alten-post/"
+    },
+    {
+     "name": "CANNACOMPANY",
+     "city": "Bonn",
+     "price": 2.98,
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/cannacompany/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/galaxia-organic-living-soil-gb-19-1-garlic-budder/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Garlic Budder",
    "terpenes": [],
    "irradiated": null,
    "origin": "",
@@ -2511,7 +2576,7 @@
      "name": "Apotheke am Berliner-Tor-Platz",
      "city": "Wesel",
      "price": 2.75,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/apotheke-am-berliner-tor-platz/"
     }
    ],
@@ -2523,7 +2588,7 @@
      "name": "CANNACOMPANY",
      "city": "Bonn",
      "price": 2.77,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannacompany/"
     },
     {
@@ -2576,7 +2641,7 @@
      "name": "Daimler Apotheke, Wiesbaden",
      "city": "Wiesbaden",
      "price": 2.69,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/daimler-apotheke-wiesbaden/"
     },
     {
@@ -2595,7 +2660,7 @@
      "name": "Karolinger Apotheke",
      "city": "Aachen",
      "price": 2.78,
-     "stand": "vor 6T",
+     "stand": "vor 7T",
      "url": "https://cannapreis.de/apotheke/karolinger-apotheke/"
     },
     {
@@ -2609,7 +2674,7 @@
      "name": "St. Antonius Apotheke",
      "city": "Oberhausen",
      "price": 2.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/st-antonius-apotheke/"
     }
    ],
@@ -2648,7 +2713,7 @@
      "name": "Daimler Apotheke, Wiesbaden",
      "city": "Wiesbaden",
      "price": 2.69,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/daimler-apotheke-wiesbaden/"
     },
     {
@@ -2667,7 +2732,7 @@
      "name": "Karolinger Apotheke",
      "city": "Aachen",
      "price": 2.78,
-     "stand": "vor 6T",
+     "stand": "vor 7T",
      "url": "https://cannapreis.de/apotheke/karolinger-apotheke/"
     },
     {
@@ -2681,7 +2746,7 @@
      "name": "St. Antonius Apotheke",
      "city": "Oberhausen",
      "price": 2.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/st-antonius-apotheke/"
     }
    ],
@@ -2818,14 +2883,14 @@
      "name": "Idris Apotheke",
      "city": "Weinheim",
      "price": 2.79,
-     "stand": "vor 7T",
+     "stand": "vor 8T",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     },
     {
      "name": "Prinzen Apotheke",
      "city": "Frankfurt",
      "price": 6.0,
-     "stand": "vor 7T",
+     "stand": "vor 8T",
      "url": "https://cannapreis.de/apotheke/prinzen-apotheke/"
     }
    ],
@@ -2929,7 +2994,7 @@
      "name": "CANN EBBES: alle Blüten unter 10eur",
      "city": "Waiblingen",
      "price": 2.72,
-     "stand": "vor 6T",
+     "stand": "vor 7T",
      "url": "https://cannapreis.de/apotheke/cann-ebbes-alle-blueten-unter-10eur/"
     }
    ],
@@ -2941,21 +3006,21 @@
      "name": "WEEDCITY, Wiesbaden",
      "city": "Wiesbaden",
      "price": 2.8,
-     "stand": "vor 6T",
+     "stand": "vor 7T",
      "url": "https://cannapreis.de/apotheke/weedcity-wiesbaden/"
     },
     {
      "name": "Idris Apotheke",
      "city": "Weinheim",
      "price": 2.8,
-     "stand": "vor 6T",
+     "stand": "vor 7T",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     },
     {
      "name": "Kronen Cannabis",
      "city": "Sankt Augustin",
      "price": 2.8,
-     "stand": "vor 6T",
+     "stand": "vor 7T",
      "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     }
    ],
@@ -2994,7 +3059,7 @@
      "name": "WEEDCITY, Wiesbaden",
      "city": "Wiesbaden",
      "price": 2.79,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/weedcity-wiesbaden/"
     }
    ],
@@ -3006,21 +3071,21 @@
      "name": "Cannabis Bayreuth (Helios Cannabis Bayreuth)",
      "city": "Bayreuth",
      "price": 2.8,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-bayreuth-helios-cannabis-bayreuth/"
     },
     {
      "name": "Canthera",
      "city": "Nürnberg",
      "price": 2.92,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/canthera/"
     },
     {
      "name": "Golden Gram",
      "city": "Wiesbaden",
      "price": 2.98,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/golden-gram/"
     }
    ],
@@ -3131,7 +3196,7 @@
      "name": "Cannabis Apotheke Bayern",
      "city": "Schweinfurt",
      "price": 2.8,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannabis-apotheke-bayern/"
     }
    ],
@@ -3150,7 +3215,7 @@
      "name": "CANNACOMPANY",
      "city": "Bonn",
      "price": 2.84,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannacompany/"
     },
     {
@@ -3196,7 +3261,7 @@
      "name": "BatchControl",
      "city": "Hagen",
      "price": 2.8,
-     "stand": "vor 4T",
+     "stand": "vor 5T",
      "url": "https://cannapreis.de/apotheke/batchcontrol/"
     }
    ],
@@ -3208,21 +3273,21 @@
      "name": "Hirsch Apotheke, Nürnberg (nur Abholung)",
      "city": "Nürnberg",
      "price": 2.85,
-     "stand": "vor 4T",
+     "stand": "vor 5T",
      "url": "https://cannapreis.de/apotheke/hirsch-apotheke-nuernberg-nur-abholung/"
     },
     {
      "name": "PHARMABLÜTE Mainz",
      "city": "Mainz",
      "price": 2.98,
-     "stand": "vor 4T",
+     "stand": "vor 5T",
      "url": "https://cannapreis.de/apotheke/pharmabluete-mainz/"
     },
     {
      "name": "ABC Apotheke",
      "city": "Wuppertal",
      "price": 2.99,
-     "stand": "vor 4T",
+     "stand": "vor 5T",
      "url": "https://cannapreis.de/apotheke/abc-apotheke/"
     }
    ],
@@ -3326,7 +3391,7 @@
      "name": "ABC Apotheke",
      "city": "Wuppertal",
      "price": 2.49,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/abc-apotheke/"
     },
     {
@@ -3345,14 +3410,14 @@
      "name": "Kronen Cannabis",
      "city": "Sankt Augustin",
      "price": 2.85,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     },
     {
      "name": "BatchControl",
      "city": "Hagen",
      "price": 2.94,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/batchcontrol/"
     },
     {
@@ -3398,7 +3463,7 @@
      "name": "Mohren Apotheke, Nürnberg",
      "city": "Nürnberg",
      "price": 2.76,
-     "stand": "vor 7T",
+     "stand": "vor 8T",
      "url": "https://cannapreis.de/apotheke/mohren-apotheke-nuernberg/"
     }
    ],
@@ -3410,21 +3475,21 @@
      "name": "Cannabis Apotheke Bayern",
      "city": "Schweinfurt",
      "price": 2.88,
-     "stand": "vor 7T",
+     "stand": "vor 8T",
      "url": "https://cannapreis.de/apotheke/cannabis-apotheke-bayern/"
     },
     {
      "name": "CannA3",
      "city": "Heßdorf",
      "price": 2.95,
-     "stand": "vor 7T",
+     "stand": "vor 8T",
      "url": "https://cannapreis.de/apotheke/canna3/"
     },
     {
      "name": "CannVita (nur Abholung & Botendienst)",
      "city": "Bielefeld",
      "price": 3.79,
-     "stand": "vor 7T",
+     "stand": "vor 8T",
      "url": "https://cannapreis.de/apotheke/cannvita-nur-abholung-botendienst/"
     }
    ],
@@ -3463,7 +3528,7 @@
      "name": "Cannabis Apotheke Frankfurt",
      "city": "Frankfurt am Main",
      "price": 2.24,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-apotheke-frankfurt/"
     }
    ],
@@ -3528,7 +3593,7 @@
      "name": "Apotheke am Berliner-Tor-Platz",
      "city": "Wesel",
      "price": 2.78,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/apotheke-am-berliner-tor-platz/"
     },
     {
@@ -3542,7 +3607,7 @@
      "name": "SVAPO",
      "city": "Offenbach",
      "price": 2.78,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/svapo/"
     },
     {
@@ -3561,7 +3626,7 @@
      "name": "Idris Apotheke",
      "city": "Weinheim",
      "price": 2.88,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     },
     {
@@ -3575,7 +3640,7 @@
      "name": "Prinzen Apotheke",
      "city": "Frankfurt",
      "price": 4.0,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/prinzen-apotheke/"
     }
    ],
@@ -3614,7 +3679,7 @@
      "name": "Kronen Cannabis",
      "city": "Sankt Augustin",
      "price": 2.75,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     }
    ],
@@ -3626,21 +3691,21 @@
      "name": "CANNACOMPANY",
      "city": "Bonn",
      "price": 2.88,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cannacompany/"
     },
     {
      "name": "CannabisApo24",
      "city": "Augsburg",
      "price": 2.96,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cannabisapo24/"
     },
     {
      "name": "Mohren Apotheke, Nürnberg",
      "city": "Nürnberg",
      "price": 3.44,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/mohren-apotheke-nuernberg/"
     }
    ],
@@ -3809,7 +3874,7 @@
      "name": "Idris Apotheke",
      "city": "Weinheim",
      "price": 2.68,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     }
    ],
@@ -3828,7 +3893,7 @@
      "name": "easygras",
      "city": "Donauwörth",
      "price": 4.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/easygras/"
     }
    ],
@@ -3932,7 +3997,7 @@
      "name": "Hirsch Apotheke, Nürnberg (nur Abholung)",
      "city": "Nürnberg",
      "price": 2.5,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/hirsch-apotheke-nuernberg-nur-abholung/"
     }
    ],
@@ -3944,21 +4009,21 @@
      "name": "Cannabis Weinstrasse",
      "city": "Neustadt a.d. Weinstraße",
      "price": 2.89,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannabis-weinstrasse/"
     },
     {
      "name": "CannabisVitalApotheke",
      "city": "Hattersheim am Main",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannabisvitalapotheke/"
     },
     {
      "name": "Kronen Cannabis",
      "city": "Sankt Augustin",
      "price": 3.15,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     }
    ],
@@ -3997,21 +4062,21 @@
      "name": "SVAPO",
      "city": "Offenbach",
      "price": 2.88,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/svapo/"
     },
     {
      "name": "Idris Apotheke",
      "city": "Weinheim",
      "price": 2.88,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     },
     {
      "name": "Apotheke am Berliner-Tor-Platz",
      "city": "Wesel",
      "price": 2.88,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/apotheke-am-berliner-tor-platz/"
     },
     {
@@ -4044,14 +4109,14 @@
      "name": "Ranke Apotheke Berlin",
      "city": "Berlin",
      "price": 2.89,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/ranke-apotheke-berlin/"
     },
     {
      "name": "Santa Green",
      "city": "Geeste",
      "price": 2.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/santa-green/"
     }
    ],
@@ -4068,6 +4133,56 @@
    "origin": "",
    "price_min": 2.89,
    "price_max": 2.99,
+   "availability": "available"
+  },
+  {
+   "name": "HiDealz 24/1 MS PKG smalls Pink Gas",
+   "producer": "Remexian/Madrecan",
+   "type": "flower",
+   "genetics": "Hybrid",
+   "thc": 24.0,
+   "cbd": 1.0,
+   "price": 2.89,
+   "unit": "g",
+   "price_regular_from": 2.89,
+   "price_list_min": null,
+   "sale_price": null,
+   "sale_pharmacies_count": 0,
+   "promo": false,
+   "promo_text": "",
+   "sale_pharmacies": [],
+   "avg_price": 2.89,
+   "pharmacies_count": 2,
+   "pharmacy": "Fritz Apotheke",
+   "pharmacies": [
+    {
+     "name": "Fritz Apotheke",
+     "city": "Berlin",
+     "price": 2.89,
+     "stand": "vor 6T",
+     "url": "https://cannapreis.de/apotheke/fritz-apotheke/"
+    },
+    {
+     "name": "jiroo (=Fritz Apotheke)",
+     "city": "Berlin",
+     "price": 2.89,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/jiroo-fritz-apotheke/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/remexian-madrecan-24thc-560896/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "smalls Pink Gas",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.89,
+   "price_max": null,
    "availability": "available"
   },
   {
@@ -4090,7 +4205,7 @@
      "name": "B.Leaf",
      "city": "Berlin",
      "price": 2.5,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/b-leaf/"
     }
    ],
@@ -4102,21 +4217,21 @@
      "name": "Sebastian Apotheke (aktuell nur Abholung kein Versand)",
      "city": "Tegernheim",
      "price": 2.9,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/sebastian-apotheke-aktuell-nur-abholung-kein-versand/"
     },
     {
      "name": "SVAPO",
      "city": "Offenbach",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/svapo/"
     },
     {
      "name": "Kronen Cannabis",
      "city": "Sankt Augustin",
      "price": 3.44,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     }
    ],
@@ -4155,7 +4270,7 @@
      "name": "Kronen Cannabis",
      "city": "Sankt Augustin",
      "price": 2.5,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     }
    ],
@@ -4167,21 +4282,21 @@
      "name": "Sonnen Apotheke, Stolberg",
      "city": "Stolberg",
      "price": 2.9,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/sonnen-apotheke-stolberg/"
     },
     {
      "name": "Christophorus Apotheke Trostberg",
      "city": "Trostberg",
      "price": 2.95,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/christophorus-apotheke-trostberg/"
     },
     {
      "name": "CannabisApo24",
      "city": "Augsburg",
      "price": 2.98,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannabisapo24/"
     }
    ],
@@ -4220,7 +4335,7 @@
      "name": "B.Leaf",
      "city": "Berlin",
      "price": 2.5,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/b-leaf/"
     },
     {
@@ -4239,7 +4354,7 @@
      "name": "NEO Apotheke, Berlin",
      "city": "Berlin",
      "price": 2.9,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
     },
     {
@@ -4253,7 +4368,7 @@
      "name": "Karolinger Apotheke",
      "city": "Aachen",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/karolinger-apotheke/"
     }
    ],
@@ -4273,328 +4388,40 @@
    "availability": "available"
   },
   {
-   "name": "SHÜSH 31/1 OPT Ottopilot",
+   "name": "NICE 17/1 FRZ Froze",
    "producer": "Cansativa",
    "type": "flower",
    "genetics": "Indica",
-   "thc": 31.0,
+   "thc": 17.0,
    "cbd": 1.0,
    "price": 2.9,
    "unit": "g",
    "price_regular_from": 2.9,
    "price_list_min": null,
-   "sale_price": null,
-   "sale_pharmacies_count": 0,
-   "promo": false,
-   "promo_text": "",
-   "sale_pharmacies": [
-    {
-     "name": "CANN EBBES: alle Blüten unter 10eur",
-     "city": "Waiblingen",
-     "price": 2.89,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/cann-ebbes-alle-blueten-unter-10eur/"
-    },
-    {
-     "name": "CANN EBBES (=Staufen Apotheke)",
-     "city": "Waiblingen",
-     "price": 2.89,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/cann-ebbes-staufen-apotheke/"
-    }
-   ],
-   "avg_price": 3.89,
-   "pharmacies_count": 157,
-   "pharmacy": "Karolinger Apotheke",
-   "pharmacies": [
-    {
-     "name": "Karolinger Apotheke",
-     "city": "Aachen",
-     "price": 2.9,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/karolinger-apotheke/"
-    },
-    {
-     "name": "Apotheke im Kaiserviertel (Dortmund)",
-     "city": "Dortmund",
-     "price": 2.99,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/apotheke-im-kaiserviertel-dortmund/"
-    },
-    {
-     "name": "Einhorn-Apotheke",
-     "city": "Bad Windsheim",
-     "price": 3.05,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/einhorn-apotheke-bad-windsheim/"
-    }
-   ],
-   "url": "https://cannapreis.de/shop/preis/shuesh-31-1-opt-ottopilot/",
-   "source": "cannapreis.de",
-   "detail": true,
-   "src": "apteka",
-   "srcs": [
-    "apteka"
-   ],
-   "cultivar": "Ottopilot",
-   "terpenes": [],
-   "irradiated": null,
-   "origin": "",
-   "price_min": 2.9,
-   "price_max": 3.05,
-   "availability": "available"
-  },
-  {
-   "name": "Remexian 18/1 KPS SMX Specimen X",
-   "producer": "Remexian Pharma",
-   "type": "flower",
-   "genetics": "Hybrid",
-   "thc": 18.0,
-   "cbd": 1.0,
-   "price": 2.9,
-   "unit": "g",
-   "price_regular_from": 2.9,
-   "price_list_min": null,
-   "sale_price": null,
-   "sale_pharmacies_count": 0,
-   "promo": false,
-   "promo_text": "",
-   "sale_pharmacies": [
-    {
-     "name": "Rosen-Apotheke",
-     "city": "Neuwied",
-     "price": 2.89,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/rosen-apotheke/"
-    },
-    {
-     "name": "SativaMedics",
-     "city": "Neuwied",
-     "price": 2.89,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/sativamedics/"
-    },
-    {
-     "name": "Happy CannaMed (Marien-Apotheke, Cloppenburg)",
-     "city": "Cloppenburg",
-     "price": 2.89,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/happy-cannamed-marien-apotheke-cloppenburg/"
-    },
-    {
-     "name": "Dr. Müller Leafs",
-     "city": "Kassel",
-     "price": 2.89,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/dr-mueller-leafs/"
-    },
-    {
-     "name": "Engel Apotheke am Rathaus",
-     "city": "Kassel",
-     "price": 2.89,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/engel-apotheke-am-rathaus/"
-    }
-   ],
-   "avg_price": 4.29,
-   "pharmacies_count": 62,
-   "pharmacy": "NEO Apotheke, Berlin",
-   "pharmacies": [
-    {
-     "name": "NEO Apotheke, Berlin",
-     "city": "Berlin",
-     "price": 2.9,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
-    },
-    {
-     "name": "Cantoura",
-     "city": "Berlin",
-     "price": 2.9,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/cantoura/"
-    },
-    {
-     "name": "Cannaplus Apotheke",
-     "city": "Augsburg",
-     "price": 2.91,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/cannaplus-apotheke/"
-    }
-   ],
-   "url": "https://cannapreis.de/shop/preis/remexian-18-1-kps-smx-specimen-x/",
-   "source": "cannapreis.de",
-   "detail": true,
-   "src": "apteka",
-   "srcs": [
-    "apteka"
-   ],
-   "cultivar": "Specimen X",
-   "terpenes": [],
-   "irradiated": null,
-   "origin": "",
-   "price_min": 2.9,
-   "price_max": 2.91,
-   "availability": "available"
-  },
-  {
-   "name": "NICE 20/1 APL Apple Fritter x Oreoz",
-   "producer": "Cansativa",
-   "type": "flower",
-   "genetics": "Indica",
-   "thc": 20.0,
-   "cbd": 1.0,
-   "price": 2.9,
-   "unit": "g",
-   "price_regular_from": 2.9,
-   "price_list_min": null,
-   "sale_price": 2.89,
+   "sale_price": 2.88,
    "sale_pharmacies_count": 1,
    "promo": true,
-   "promo_text": "SALE: 1 Apotheke(n) für 2,89 €",
+   "promo_text": "SALE: 1 Apotheke(n) für 2,88 €",
    "sale_pharmacies": [
     {
-     "name": "WEEDCITY, Wiesbaden",
-     "city": "Wiesbaden",
-     "price": 2.89,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/weedcity-wiesbaden/"
-    }
-   ],
-   "avg_price": 4.3,
-   "pharmacies_count": 42,
-   "pharmacy": "Sebastian Apotheke (aktuell nur Abholung kein Versand)",
-   "pharmacies": [
-    {
-     "name": "Sebastian Apotheke (aktuell nur Abholung kein Versand)",
-     "city": "Tegernheim",
-     "price": 2.9,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/sebastian-apotheke-aktuell-nur-abholung-kein-versand/"
-    },
-    {
-     "name": "Daimler Apotheke, Wiesbaden",
-     "city": "Wiesbaden",
-     "price": 3.04,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/daimler-apotheke-wiesbaden/"
-    },
-    {
-     "name": "Kronen Cannabis",
-     "city": "Sankt Augustin",
-     "price": 3.05,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
-    }
-   ],
-   "url": "https://cannapreis.de/shop/preis/nice-20-1-apl-apple-fritter-x-oreoz/",
-   "source": "cannapreis.de",
-   "detail": true,
-   "src": "apteka",
-   "srcs": [
-    "apteka"
-   ],
-   "cultivar": "Apple Fritter x Oreoz",
-   "terpenes": [],
-   "irradiated": null,
-   "origin": "",
-   "price_min": 2.89,
-   "price_max": 3.05,
-   "availability": "available"
-  },
-  {
-   "name": "Medical Saints 18/1 CSW Cinnamon Swirl",
-   "producer": "Remexian Pharma",
-   "type": "flower",
-   "genetics": "Hybrid",
-   "thc": 18.0,
-   "cbd": 1.0,
-   "price": 2.9,
-   "unit": "g",
-   "price_regular_from": 2.9,
-   "price_list_min": null,
-   "sale_price": 2.89,
-   "sale_pharmacies_count": 1,
-   "promo": true,
-   "promo_text": "SALE: 1 Apotheke(n) für 2,89 €",
-   "sale_pharmacies": [
-    {
-     "name": "Ranke Apotheke Berlin",
+     "name": "B.Leaf",
      "city": "Berlin",
-     "price": 2.89,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/ranke-apotheke-berlin/"
-    }
-   ],
-   "avg_price": 4.51,
-   "pharmacies_count": 34,
-   "pharmacy": "Goldene Blüte",
-   "pharmacies": [
-    {
-     "name": "Goldene Blüte",
-     "city": "Freystadt",
-     "price": 2.9,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/goldene-bluete/"
-    },
-    {
-     "name": "Einhorn Apotheke",
-     "city": "Gelsenkirchen",
-     "price": 2.9,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/einhorn-apotheke/"
-    },
-    {
-     "name": "Kronen Cannabis",
-     "city": "Sankt Augustin",
-     "price": 2.95,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
-    }
-   ],
-   "url": "https://cannapreis.de/shop/preis/medical-saints-18-1-csw-cinnamon-swirl/",
-   "source": "cannapreis.de",
-   "detail": true,
-   "src": "apteka",
-   "srcs": [
-    "apteka"
-   ],
-   "cultivar": "Cinnamon Swirl",
-   "terpenes": [],
-   "irradiated": null,
-   "origin": "",
-   "price_min": 2.89,
-   "price_max": 2.95,
-   "availability": "available"
-  },
-  {
-   "name": "enua 20/1 CDG CA Crispy Doughnut",
-   "producer": "enua Pharma",
-   "type": "flower",
-   "genetics": "Indica",
-   "thc": 20.0,
-   "cbd": 1.0,
-   "price": 2.9,
-   "unit": "g",
-   "price_regular_from": 2.9,
-   "price_list_min": null,
-   "sale_price": 2.85,
-   "sale_pharmacies_count": 1,
-   "promo": true,
-   "promo_text": "SALE: 1 Apotheke(n) für 2,85 €",
-   "sale_pharmacies": [
-    {
-     "name": "Malteser Apotheke Düsseldorf | Greencalm",
-     "city": "Düsseldorf",
-     "price": 2.85,
+     "price": 2.88,
      "stand": "vor 2T",
-     "url": "https://cannapreis.de/apotheke/malteser-apotheke-duesseldorf-greencalm/"
+     "url": "https://cannapreis.de/apotheke/b-leaf/"
     }
    ],
-   "avg_price": 5.72,
-   "pharmacies_count": 97,
-   "pharmacy": "Cantoura",
+   "avg_price": 4.13,
+   "pharmacies_count": 67,
+   "pharmacy": "Schloss-Apotheke",
    "pharmacies": [
+    {
+     "name": "Schloss-Apotheke",
+     "city": "Offenbach",
+     "price": 2.9,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/schloss-apotheke/"
+    },
     {
      "name": "Cantoura",
      "city": "Berlin",
@@ -4608,28 +4435,21 @@
      "price": 2.9,
      "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
-    },
-    {
-     "name": "Kronen Cannabis",
-     "city": "Sankt Augustin",
-     "price": 2.95,
-     "stand": "vor 2T",
-     "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     }
    ],
-   "url": "https://cannapreis.de/shop/preis/enua-20-1-cdg-ca-crispy-doughnut/",
+   "url": "https://cannapreis.de/shop/preis/nice-17-1-frz-froze/",
    "source": "cannapreis.de",
    "detail": true,
    "src": "apteka",
    "srcs": [
     "apteka"
    ],
-   "cultivar": "Crispy Doughnut",
+   "cultivar": "Froze",
    "terpenes": [],
    "irradiated": null,
    "origin": "",
-   "price_min": 2.85,
-   "price_max": 2.95,
+   "price_min": 2.88,
+   "price_max": 2.9,
    "availability": "available"
   },
   {
@@ -4652,7 +4472,7 @@
      "name": "CANNACOMPANY",
      "city": "Bonn",
      "price": 2.87,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cannacompany/"
     }
    ],
@@ -4664,21 +4484,21 @@
      "name": "NEO Apotheke, Berlin",
      "city": "Berlin",
      "price": 2.9,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
     },
     {
      "name": "CannabisVitalApotheke",
      "city": "Hattersheim am Main",
      "price": 2.99,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cannabisvitalapotheke/"
     },
     {
      "name": "CannaMedJena",
      "city": "Jena",
      "price": 2.99,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cannamedjena/"
     }
    ],
@@ -4695,71 +4515,6 @@
    "origin": "",
    "price_min": 2.9,
    "price_max": 2.99,
-   "availability": "available"
-  },
-  {
-   "name": "Remexian 24/1 CHR BCO Blunicorn",
-   "producer": "Remexian Pharma",
-   "type": "flower",
-   "genetics": "Indica",
-   "thc": 24.0,
-   "cbd": 1.0,
-   "price": 2.9,
-   "unit": "g",
-   "price_regular_from": 2.9,
-   "price_list_min": null,
-   "sale_price": null,
-   "sale_pharmacies_count": 0,
-   "promo": false,
-   "promo_text": "",
-   "sale_pharmacies": [
-    {
-     "name": "B.Leaf",
-     "city": "Berlin",
-     "price": 2.5,
-     "stand": "vor 2T",
-     "url": "https://cannapreis.de/apotheke/b-leaf/"
-    }
-   ],
-   "avg_price": 5.54,
-   "pharmacies_count": 21,
-   "pharmacy": "NEO Apotheke, Berlin",
-   "pharmacies": [
-    {
-     "name": "NEO Apotheke, Berlin",
-     "city": "Berlin",
-     "price": 2.9,
-     "stand": "vor 2T",
-     "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
-    },
-    {
-     "name": "Cantoura",
-     "city": "Berlin",
-     "price": 2.9,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/cantoura/"
-    },
-    {
-     "name": "Canthera",
-     "city": "Nürnberg",
-     "price": 3.69,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/canthera/"
-    }
-   ],
-   "url": "https://cannapreis.de/shop/preis/remexian-24-1-chr-bco-blunicorn/",
-   "source": "cannapreis.de",
-   "detail": true,
-   "src": "apteka",
-   "srcs": [
-    "apteka"
-   ],
-   "cultivar": "Blunicorn",
-   "terpenes": [],
-   "irradiated": null,
-   "origin": "",
-   "price_min": 2.9,
-   "price_max": 3.69,
    "availability": "available"
   },
   {
@@ -4782,7 +4537,7 @@
      "name": "Hirsch Apotheke, Nürnberg (nur Abholung)",
      "city": "Nürnberg",
      "price": 2.5,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/hirsch-apotheke-nuernberg-nur-abholung/"
     }
    ],
@@ -4794,21 +4549,21 @@
      "name": "B.Leaf",
      "city": "Berlin",
      "price": 2.9,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/b-leaf/"
     },
     {
      "name": "Cannabis Apotheke Ahrtal",
      "city": "Bad Neuenahr-Ahrweiler",
      "price": 3.95,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannabis-apotheke-ahrtal/"
     },
     {
      "name": "Eifel Cannabis",
      "city": "Mendig",
      "price": 3.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/eifel-cannabis/"
     }
    ],
@@ -4847,7 +4602,7 @@
      "name": "CannDirekt",
      "city": "Euskirchen",
      "price": 2.85,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/canndirekt/"
     }
    ],
@@ -4866,14 +4621,14 @@
      "name": "NEO Apotheke, Berlin",
      "city": "Berlin",
      "price": 2.9,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
     },
     {
      "name": "Cannaplus Apotheke",
      "city": "Augsburg",
      "price": 2.95,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cannaplus-apotheke/"
     }
    ],
@@ -4893,68 +4648,68 @@
    "availability": "available"
   },
   {
-   "name": "420 Natural 16/1 CA TRP Tropicana Cookies",
-   "producer": "Four 20 Pharma",
+   "name": "enua 20/1 CDG CA Crispy Doughnut",
+   "producer": "enua Pharma",
    "type": "flower",
-   "genetics": "Hybrid",
-   "thc": 15.0,
-   "cbd": null,
+   "genetics": "Indica",
+   "thc": 20.0,
+   "cbd": 1.0,
    "price": 2.9,
    "unit": "g",
    "price_regular_from": 2.9,
    "price_list_min": null,
-   "sale_price": 2.84,
+   "sale_price": 2.85,
    "sale_pharmacies_count": 1,
    "promo": true,
-   "promo_text": "SALE: 1 Apotheke(n) für 2,84 €",
+   "promo_text": "SALE: 1 Apotheke(n) für 2,85 €",
    "sale_pharmacies": [
     {
-     "name": "CANN EBBES: alle Blüten unter 10eur",
-     "city": "Waiblingen",
-     "price": 2.84,
-     "stand": "vor 2T",
-     "url": "https://cannapreis.de/apotheke/cann-ebbes-alle-blueten-unter-10eur/"
+     "name": "Malteser Apotheke Düsseldorf | Greencalm",
+     "city": "Düsseldorf",
+     "price": 2.85,
+     "stand": "vor 3T",
+     "url": "https://cannapreis.de/apotheke/malteser-apotheke-duesseldorf-greencalm/"
     }
    ],
-   "avg_price": 6.06,
-   "pharmacies_count": 77,
-   "pharmacy": "NEO Apotheke, Berlin",
+   "avg_price": 5.72,
+   "pharmacies_count": 97,
+   "pharmacy": "Cantoura",
    "pharmacies": [
+    {
+     "name": "Cantoura",
+     "city": "Berlin",
+     "price": 2.9,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/cantoura/"
+    },
     {
      "name": "NEO Apotheke, Berlin",
      "city": "Berlin",
      "price": 2.9,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
     },
     {
-     "name": "Cannabis Champion",
-     "city": "Waiblingen",
-     "price": 3.99,
-     "stand": "vor 2T",
-     "url": "https://cannapreis.de/apotheke/cannabis-champion/"
-    },
-    {
-     "name": "Cannabis-Prime",
-     "city": "Fellbach",
-     "price": 4.49,
-     "stand": "vor 2T",
-     "url": "https://cannapreis.de/apotheke/cannabis-prime/"
+     "name": "Kronen Cannabis",
+     "city": "Sankt Augustin",
+     "price": 2.95,
+     "stand": "vor 3T",
+     "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     }
    ],
-   "url": "https://cannapreis.de/shop/preis/420-natural-16-1-ca-trp/",
+   "url": "https://cannapreis.de/shop/preis/enua-20-1-cdg-ca-crispy-doughnut/",
    "source": "cannapreis.de",
    "detail": true,
    "src": "apteka",
    "srcs": [
     "apteka"
    ],
-   "cultivar": "Tropicana Cookies",
+   "cultivar": "Crispy Doughnut",
    "terpenes": [],
    "irradiated": null,
    "origin": "",
-   "price_min": 2.84,
-   "price_max": 4.49,
+   "price_min": 2.85,
+   "price_max": 2.95,
    "availability": "available"
   },
   {
@@ -5023,6 +4778,424 @@
    "availability": "available"
   },
   {
+   "name": "420 Natural 16/1 CA TRP Tropicana Cookies",
+   "producer": "Four 20 Pharma",
+   "type": "flower",
+   "genetics": "Hybrid",
+   "thc": 15.0,
+   "cbd": null,
+   "price": 2.9,
+   "unit": "g",
+   "price_regular_from": 2.9,
+   "price_list_min": null,
+   "sale_price": 2.84,
+   "sale_pharmacies_count": 1,
+   "promo": true,
+   "promo_text": "SALE: 1 Apotheke(n) für 2,84 €",
+   "sale_pharmacies": [
+    {
+     "name": "CANN EBBES: alle Blüten unter 10eur",
+     "city": "Waiblingen",
+     "price": 2.84,
+     "stand": "vor 3T",
+     "url": "https://cannapreis.de/apotheke/cann-ebbes-alle-blueten-unter-10eur/"
+    }
+   ],
+   "avg_price": 6.06,
+   "pharmacies_count": 77,
+   "pharmacy": "NEO Apotheke, Berlin",
+   "pharmacies": [
+    {
+     "name": "NEO Apotheke, Berlin",
+     "city": "Berlin",
+     "price": 2.9,
+     "stand": "vor 3T",
+     "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
+    },
+    {
+     "name": "Cannabis Champion",
+     "city": "Waiblingen",
+     "price": 3.99,
+     "stand": "vor 3T",
+     "url": "https://cannapreis.de/apotheke/cannabis-champion/"
+    },
+    {
+     "name": "Cannabis-Prime",
+     "city": "Fellbach",
+     "price": 4.49,
+     "stand": "vor 3T",
+     "url": "https://cannapreis.de/apotheke/cannabis-prime/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/420-natural-16-1-ca-trp/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Tropicana Cookies",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.84,
+   "price_max": 4.49,
+   "availability": "available"
+  },
+  {
+   "name": "Remexian 24/1 CHR BCO Blunicorn",
+   "producer": "Remexian Pharma",
+   "type": "flower",
+   "genetics": "Indica",
+   "thc": 24.0,
+   "cbd": 1.0,
+   "price": 2.9,
+   "unit": "g",
+   "price_regular_from": 2.9,
+   "price_list_min": null,
+   "sale_price": null,
+   "sale_pharmacies_count": 0,
+   "promo": false,
+   "promo_text": "",
+   "sale_pharmacies": [
+    {
+     "name": "B.Leaf",
+     "city": "Berlin",
+     "price": 2.5,
+     "stand": "vor 3T",
+     "url": "https://cannapreis.de/apotheke/b-leaf/"
+    }
+   ],
+   "avg_price": 5.54,
+   "pharmacies_count": 21,
+   "pharmacy": "NEO Apotheke, Berlin",
+   "pharmacies": [
+    {
+     "name": "NEO Apotheke, Berlin",
+     "city": "Berlin",
+     "price": 2.9,
+     "stand": "vor 3T",
+     "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
+    },
+    {
+     "name": "Cantoura",
+     "city": "Berlin",
+     "price": 2.9,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/cantoura/"
+    },
+    {
+     "name": "Canthera",
+     "city": "Nürnberg",
+     "price": 3.69,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/canthera/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/remexian-24-1-chr-bco-blunicorn/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Blunicorn",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.9,
+   "price_max": 3.69,
+   "availability": "available"
+  },
+  {
+   "name": "Medical Saints 18/1 CSW Cinnamon Swirl",
+   "producer": "Remexian Pharma",
+   "type": "flower",
+   "genetics": "Hybrid",
+   "thc": 18.0,
+   "cbd": 1.0,
+   "price": 2.9,
+   "unit": "g",
+   "price_regular_from": 2.9,
+   "price_list_min": null,
+   "sale_price": 2.89,
+   "sale_pharmacies_count": 1,
+   "promo": true,
+   "promo_text": "SALE: 1 Apotheke(n) für 2,89 €",
+   "sale_pharmacies": [
+    {
+     "name": "Ranke Apotheke Berlin",
+     "city": "Berlin",
+     "price": 2.89,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/ranke-apotheke-berlin/"
+    }
+   ],
+   "avg_price": 4.51,
+   "pharmacies_count": 34,
+   "pharmacy": "Goldene Blüte",
+   "pharmacies": [
+    {
+     "name": "Goldene Blüte",
+     "city": "Freystadt",
+     "price": 2.9,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/goldene-bluete/"
+    },
+    {
+     "name": "Einhorn Apotheke",
+     "city": "Gelsenkirchen",
+     "price": 2.9,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/einhorn-apotheke/"
+    },
+    {
+     "name": "Kronen Cannabis",
+     "city": "Sankt Augustin",
+     "price": 2.95,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/medical-saints-18-1-csw-cinnamon-swirl/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Cinnamon Swirl",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.89,
+   "price_max": 2.95,
+   "availability": "available"
+  },
+  {
+   "name": "Remexian 18/1 KPS SMX Specimen X",
+   "producer": "Remexian Pharma",
+   "type": "flower",
+   "genetics": "Hybrid",
+   "thc": 18.0,
+   "cbd": 1.0,
+   "price": 2.9,
+   "unit": "g",
+   "price_regular_from": 2.9,
+   "price_list_min": null,
+   "sale_price": null,
+   "sale_pharmacies_count": 0,
+   "promo": false,
+   "promo_text": "",
+   "sale_pharmacies": [
+    {
+     "name": "Rosen-Apotheke",
+     "city": "Neuwied",
+     "price": 2.89,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/rosen-apotheke/"
+    },
+    {
+     "name": "SativaMedics",
+     "city": "Neuwied",
+     "price": 2.89,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/sativamedics/"
+    },
+    {
+     "name": "Happy CannaMed (Marien-Apotheke, Cloppenburg)",
+     "city": "Cloppenburg",
+     "price": 2.89,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/happy-cannamed-marien-apotheke-cloppenburg/"
+    },
+    {
+     "name": "Dr. Müller Leafs",
+     "city": "Kassel",
+     "price": 2.89,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/dr-mueller-leafs/"
+    },
+    {
+     "name": "Engel Apotheke am Rathaus",
+     "city": "Kassel",
+     "price": 2.89,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/engel-apotheke-am-rathaus/"
+    }
+   ],
+   "avg_price": 4.29,
+   "pharmacies_count": 62,
+   "pharmacy": "NEO Apotheke, Berlin",
+   "pharmacies": [
+    {
+     "name": "NEO Apotheke, Berlin",
+     "city": "Berlin",
+     "price": 2.9,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
+    },
+    {
+     "name": "Cantoura",
+     "city": "Berlin",
+     "price": 2.9,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/cantoura/"
+    },
+    {
+     "name": "Cannaplus Apotheke",
+     "city": "Augsburg",
+     "price": 2.91,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/cannaplus-apotheke/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/remexian-18-1-kps-smx-specimen-x/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Specimen X",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.9,
+   "price_max": 2.91,
+   "availability": "available"
+  },
+  {
+   "name": "NICE 20/1 APL Apple Fritter x Oreoz",
+   "producer": "Cansativa",
+   "type": "flower",
+   "genetics": "Indica",
+   "thc": 20.0,
+   "cbd": 1.0,
+   "price": 2.9,
+   "unit": "g",
+   "price_regular_from": 2.9,
+   "price_list_min": null,
+   "sale_price": 2.89,
+   "sale_pharmacies_count": 1,
+   "promo": true,
+   "promo_text": "SALE: 1 Apotheke(n) für 2,89 €",
+   "sale_pharmacies": [
+    {
+     "name": "WEEDCITY, Wiesbaden",
+     "city": "Wiesbaden",
+     "price": 2.89,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/weedcity-wiesbaden/"
+    }
+   ],
+   "avg_price": 4.3,
+   "pharmacies_count": 42,
+   "pharmacy": "Sebastian Apotheke (aktuell nur Abholung kein Versand)",
+   "pharmacies": [
+    {
+     "name": "Sebastian Apotheke (aktuell nur Abholung kein Versand)",
+     "city": "Tegernheim",
+     "price": 2.9,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/sebastian-apotheke-aktuell-nur-abholung-kein-versand/"
+    },
+    {
+     "name": "Daimler Apotheke, Wiesbaden",
+     "city": "Wiesbaden",
+     "price": 3.04,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/daimler-apotheke-wiesbaden/"
+    },
+    {
+     "name": "Kronen Cannabis",
+     "city": "Sankt Augustin",
+     "price": 3.05,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/nice-20-1-apl-apple-fritter-x-oreoz/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Apple Fritter x Oreoz",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.89,
+   "price_max": 3.05,
+   "availability": "available"
+  },
+  {
+   "name": "Pedanios 31/1 CMK-CA Chemango Kush",
+   "producer": "Aurora",
+   "type": "flower",
+   "genetics": "Indica",
+   "thc": 28.0,
+   "cbd": null,
+   "price": 2.9,
+   "unit": "g",
+   "price_regular_from": 2.9,
+   "price_list_min": null,
+   "sale_price": 2.22,
+   "sale_pharmacies_count": 1,
+   "promo": true,
+   "promo_text": "SALE: 1 Apotheke(n) für 2,22 €",
+   "sale_pharmacies": [
+    {
+     "name": "MedCanReste",
+     "city": "Waiblingen",
+     "price": 2.22,
+     "stand": "vor 3T",
+     "url": "https://cannapreis.de/apotheke/medcanreste/"
+    }
+   ],
+   "avg_price": 8.64,
+   "pharmacies_count": 92,
+   "pharmacy": "NEO Apotheke, Berlin",
+   "pharmacies": [
+    {
+     "name": "NEO Apotheke, Berlin",
+     "city": "Berlin",
+     "price": 2.9,
+     "stand": "vor 3T",
+     "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
+    },
+    {
+     "name": "Karolinger Apotheke",
+     "city": "Aachen",
+     "price": 4.99,
+     "stand": "vor 3T",
+     "url": "https://cannapreis.de/apotheke/karolinger-apotheke/"
+    },
+    {
+     "name": "CANNACOMPANY",
+     "city": "Bonn",
+     "price": 5.75,
+     "stand": "vor 3T",
+     "url": "https://cannapreis.de/apotheke/cannacompany/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/pedanios-31-1-cmk-ca-chemango-kush/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "CMK-CA Chemango Kush",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.22,
+   "price_max": 5.75,
+   "availability": "available"
+  },
+  {
    "name": "Froze",
    "producer": "Cansativa",
    "type": "flower",
@@ -5042,7 +5215,7 @@
      "name": "B.Leaf",
      "city": "Berlin",
      "price": 2.88,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/b-leaf/"
     }
    ],
@@ -5068,7 +5241,7 @@
      "name": "NEO Apotheke, Berlin",
      "city": "Berlin",
      "price": 2.9,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
     }
    ],
@@ -5114,7 +5287,7 @@
      "name": "NEO Apotheke, Berlin",
      "city": "Berlin",
      "price": 2.9,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
     }
    ],
@@ -5140,7 +5313,7 @@
      "name": "Apotheke am alten Markt, Bochum",
      "city": "Bochum",
      "price": 3.69,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/apotheke-am-alten-markt-bochum/"
     }
    ],
@@ -5157,6 +5330,78 @@
    "origin": "",
    "price_min": 2.92,
    "price_max": 3.69,
+   "availability": "available"
+  },
+  {
+   "name": "enua 27/1 PS3 CA MYC Minty Cookies",
+   "producer": "enua Pharma",
+   "type": "flower",
+   "genetics": "Hybrid",
+   "thc": 27.0,
+   "cbd": 1.0,
+   "price": 2.93,
+   "unit": "g",
+   "price_regular_from": 2.93,
+   "price_list_min": null,
+   "sale_price": 2.92,
+   "sale_pharmacies_count": 2,
+   "promo": true,
+   "promo_text": "SALE: 2 Apotheke(n) für 2,92 €",
+   "sale_pharmacies": [
+    {
+     "name": "3Leafs by Idris Apotheke",
+     "city": "Weinheim",
+     "price": 2.92,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/3leafs-by-idris-apotheke/"
+    },
+    {
+     "name": "Idris Apotheke",
+     "city": "Weinheim",
+     "price": 2.92,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/idris-apotheke/"
+    }
+   ],
+   "avg_price": 4.86,
+   "pharmacies_count": 309,
+   "pharmacy": "Mohren-Apotheke",
+   "pharmacies": [
+    {
+     "name": "Mohren-Apotheke",
+     "city": "Wiesbaden",
+     "price": 2.93,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/mohren-apotheke/"
+    },
+    {
+     "name": "Neroweed (Mohren Apotheke, Wiesbaden)",
+     "city": "Wiesbaden Biebrich",
+     "price": 2.93,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/neroweed-mohren-apotheke-wiesbaden/"
+    },
+    {
+     "name": "Canabloom Apotheke Wiesbaden",
+     "city": "Wiesbaden",
+     "price": 2.94,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/canabloom-apotheke-wiesbaden/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/enua-27-1-ps3-ca-myc-minty-cookies/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "PS3 CA MYC Minty Cookies",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.92,
+   "price_max": 2.94,
    "availability": "available"
   },
   {
@@ -5179,7 +5424,7 @@
      "name": "WEEDCITY, Wiesbaden",
      "city": "Wiesbaden",
      "price": 2.92,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/weedcity-wiesbaden/"
     }
    ],
@@ -5191,7 +5436,7 @@
      "name": "Idris Apotheke",
      "city": "Weinheim",
      "price": 2.93,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     },
     {
@@ -5225,78 +5470,6 @@
    "availability": "available"
   },
   {
-   "name": "enua 27/1 PS3 CA MYC Minty Cookies",
-   "producer": "enua Pharma",
-   "type": "flower",
-   "genetics": "Hybrid",
-   "thc": 27.0,
-   "cbd": 1.0,
-   "price": 2.93,
-   "unit": "g",
-   "price_regular_from": 2.93,
-   "price_list_min": null,
-   "sale_price": 2.92,
-   "sale_pharmacies_count": 2,
-   "promo": true,
-   "promo_text": "SALE: 2 Apotheke(n) für 2,92 €",
-   "sale_pharmacies": [
-    {
-     "name": "3Leafs by Idris Apotheke",
-     "city": "Weinheim",
-     "price": 2.92,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/3leafs-by-idris-apotheke/"
-    },
-    {
-     "name": "Idris Apotheke",
-     "city": "Weinheim",
-     "price": 2.92,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/idris-apotheke/"
-    }
-   ],
-   "avg_price": 4.86,
-   "pharmacies_count": 309,
-   "pharmacy": "Mohren-Apotheke",
-   "pharmacies": [
-    {
-     "name": "Mohren-Apotheke",
-     "city": "Wiesbaden",
-     "price": 2.93,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/mohren-apotheke/"
-    },
-    {
-     "name": "Neroweed (Mohren Apotheke, Wiesbaden)",
-     "city": "Wiesbaden Biebrich",
-     "price": 2.93,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/neroweed-mohren-apotheke-wiesbaden/"
-    },
-    {
-     "name": "Canabloom Apotheke Wiesbaden",
-     "city": "Wiesbaden",
-     "price": 2.94,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/canabloom-apotheke-wiesbaden/"
-    }
-   ],
-   "url": "https://cannapreis.de/shop/preis/enua-27-1-ps3-ca-myc-minty-cookies/",
-   "source": "cannapreis.de",
-   "detail": true,
-   "src": "apteka",
-   "srcs": [
-    "apteka"
-   ],
-   "cultivar": "PS3 CA MYC Minty Cookies",
-   "terpenes": [],
-   "irradiated": null,
-   "origin": "",
-   "price_min": 2.92,
-   "price_max": 2.94,
-   "availability": "available"
-  },
-  {
    "name": "Creamy Kee's",
    "producer": "IMC",
    "type": "flower",
@@ -5316,7 +5489,7 @@
      "name": "WEEDCITY, Wiesbaden",
      "city": "Wiesbaden",
      "price": 2.92,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/weedcity-wiesbaden/"
     }
    ],
@@ -5328,7 +5501,7 @@
      "name": "Idris Apotheke",
      "city": "Weinheim",
      "price": 2.93,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     },
     {
@@ -5388,7 +5561,7 @@
      "name": "Cannabis Nordost Apotheke",
      "city": "Nürnberg",
      "price": 2.89,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cannabis-nordost-apotheke/"
     }
    ],
@@ -5400,7 +5573,7 @@
      "name": "Goldene Blüte Nürnberg Fürth Erlangen",
      "city": "Nürnberg",
      "price": 2.94,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/goldene-bluete-nuernberg-fuerth-erlangen/"
     },
     {
@@ -5460,7 +5633,7 @@
      "name": "Cannabis Nordost Apotheke",
      "city": "Nürnberg",
      "price": 2.89,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cannabis-nordost-apotheke/"
     }
    ],
@@ -5472,7 +5645,7 @@
      "name": "Goldene Blüte Nürnberg Fürth Erlangen",
      "city": "Nürnberg",
      "price": 2.94,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/goldene-bluete-nuernberg-fuerth-erlangen/"
     },
     {
@@ -5506,11 +5679,11 @@
    "availability": "available"
   },
   {
-   "name": "IMC Mids GF THC24 Grape Fuel",
-   "producer": "IMC",
+   "name": "HiDealz 21/1 MS MC1 Mac 1 smalls",
+   "producer": "Remexian Pharma",
    "type": "flower",
    "genetics": "Hybrid",
-   "thc": 24.0,
+   "thc": 21.0,
    "cbd": 1.0,
    "price": 2.94,
    "unit": "g",
@@ -5522,52 +5695,66 @@
    "promo_text": "",
    "sale_pharmacies": [
     {
-     "name": "Kronen Cannabis",
-     "city": "Sankt Augustin",
-     "price": 2.9,
+     "name": "420brokkoli",
+     "city": "Paderborn",
+     "price": 2.89,
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/420brokkoli/"
+    },
+    {
+     "name": "420brokkoli - Apotheke auf der Lieth",
+     "city": "Paderborn",
+     "price": 2.89,
      "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
+     "url": "https://cannapreis.de/apotheke/420brokkoli-apotheke-auf-der-lieth/"
+    },
+    {
+     "name": "Cannaplus Apotheke (=St. Martins Apotheke)",
+     "city": "Augsburg",
+     "price": 2.89,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/cannaplus-apotheke-st-martins-apotheke/"
     }
    ],
-   "avg_price": 4.32,
-   "pharmacies_count": 73,
-   "pharmacy": "Idris Apotheke",
+   "avg_price": 3.44,
+   "pharmacies_count": 11,
+   "pharmacy": "Cannaplus Apotheke",
    "pharmacies": [
     {
-     "name": "Idris Apotheke",
-     "city": "Weinheim",
+     "name": "Cannaplus Apotheke",
+     "city": "Augsburg",
      "price": 2.94,
-     "stand": "vor 6T",
-     "url": "https://cannapreis.de/apotheke/idris-apotheke/"
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/cannaplus-apotheke/"
     },
     {
-     "name": "Santa Green",
-     "city": "Geeste",
+     "name": "higreen! - Drei Hasen Apotheke",
+     "city": "Paderborn",
+     "price": 2.98,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/higreen-drei-hasen-apotheke/"
+    },
+    {
+     "name": "St. Martins Apotheke",
+     "city": "Augsburg",
      "price": 2.99,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/santa-green/"
-    },
-    {
-     "name": "Apotheke am alten Markt, Bochum",
-     "city": "Bochum",
-     "price": 3.16,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/apotheke-am-alten-markt-bochum/"
+     "stand": "vor 6T",
+     "url": "https://cannapreis.de/apotheke/st-martins-apotheke/"
     }
    ],
-   "url": "https://cannapreis.de/shop/preis/imc-mids-gf-thc24-grape-fuel/",
+   "url": "https://cannapreis.de/shop/preis/hidealz-21-1-ms-mc1-mac-smalls/",
    "source": "cannapreis.de",
    "detail": true,
    "src": "apteka",
    "srcs": [
     "apteka"
    ],
-   "cultivar": "IMC Mids GF THC24 Grape Fuel",
+   "cultivar": "MC1 Mac 1 smalls",
    "terpenes": [],
    "irradiated": null,
    "origin": "",
    "price_min": 2.94,
-   "price_max": 3.16,
+   "price_max": 2.99,
    "availability": "available"
   },
   {
@@ -5636,11 +5823,11 @@
    "availability": "available"
   },
   {
-   "name": "HiDealz 21/1 MS MC1 Mac 1 smalls",
-   "producer": "Remexian Pharma",
+   "name": "IMC Mids GF THC24 Grape Fuel",
+   "producer": "IMC",
    "type": "flower",
    "genetics": "Hybrid",
-   "thc": 21.0,
+   "thc": 24.0,
    "cbd": 1.0,
    "price": 2.94,
    "unit": "g",
@@ -5652,131 +5839,52 @@
    "promo_text": "",
    "sale_pharmacies": [
     {
-     "name": "420brokkoli",
-     "city": "Paderborn",
-     "price": 2.89,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/420brokkoli/"
-    },
-    {
-     "name": "420brokkoli - Apotheke auf der Lieth",
-     "city": "Paderborn",
-     "price": 2.89,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/420brokkoli-apotheke-auf-der-lieth/"
-    },
-    {
-     "name": "Cannaplus Apotheke (=St. Martins Apotheke)",
-     "city": "Augsburg",
-     "price": 2.89,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/cannaplus-apotheke-st-martins-apotheke/"
+     "name": "Kronen Cannabis",
+     "city": "Sankt Augustin",
+     "price": 2.9,
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     }
    ],
-   "avg_price": 3.44,
-   "pharmacies_count": 11,
-   "pharmacy": "Cannaplus Apotheke",
+   "avg_price": 4.32,
+   "pharmacies_count": 73,
+   "pharmacy": "Idris Apotheke",
    "pharmacies": [
     {
-     "name": "Cannaplus Apotheke",
-     "city": "Augsburg",
+     "name": "Idris Apotheke",
+     "city": "Weinheim",
      "price": 2.94,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/cannaplus-apotheke/"
+     "stand": "vor 7T",
+     "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     },
     {
-     "name": "higreen! - Drei Hasen Apotheke",
-     "city": "Paderborn",
-     "price": 2.98,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/higreen-drei-hasen-apotheke/"
-    },
-    {
-     "name": "St. Martins Apotheke",
-     "city": "Augsburg",
+     "name": "Santa Green",
+     "city": "Geeste",
      "price": 2.99,
-     "stand": "vor 6T",
-     "url": "https://cannapreis.de/apotheke/st-martins-apotheke/"
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/santa-green/"
+    },
+    {
+     "name": "Apotheke am alten Markt, Bochum",
+     "city": "Bochum",
+     "price": 3.16,
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/apotheke-am-alten-markt-bochum/"
     }
    ],
-   "url": "https://cannapreis.de/shop/preis/hidealz-21-1-ms-mc1-mac-smalls/",
+   "url": "https://cannapreis.de/shop/preis/imc-mids-gf-thc24-grape-fuel/",
    "source": "cannapreis.de",
    "detail": true,
    "src": "apteka",
    "srcs": [
     "apteka"
    ],
-   "cultivar": "MC1 Mac 1 smalls",
+   "cultivar": "IMC Mids GF THC24 Grape Fuel",
    "terpenes": [],
    "irradiated": null,
    "origin": "",
    "price_min": 2.94,
-   "price_max": 2.99,
-   "availability": "available"
-  },
-  {
-   "name": "slouu 27/1 FPG CA Frosted Platin Girl",
-   "producer": "enua Pharma",
-   "type": "flower",
-   "genetics": "Hybrid",
-   "thc": 27.0,
-   "cbd": 1.0,
-   "price": 2.94,
-   "unit": "g",
-   "price_regular_from": 2.94,
-   "price_list_min": null,
-   "sale_price": null,
-   "sale_pharmacies_count": 0,
-   "promo": false,
-   "promo_text": "",
-   "sale_pharmacies": [
-    {
-     "name": "Neroweed (Mohren Apotheke, Wiesbaden)",
-     "city": "Wiesbaden Biebrich",
-     "price": 2.93,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/neroweed-mohren-apotheke-wiesbaden/"
-    }
-   ],
-   "avg_price": 4.54,
-   "pharmacies_count": 68,
-   "pharmacy": "Adler Apotheke Wiesbaden",
-   "pharmacies": [
-    {
-     "name": "Adler Apotheke Wiesbaden",
-     "city": "Wiesbaden",
-     "price": 2.94,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/adler-apotheke-wiesbaden/"
-    },
-    {
-     "name": "WEEDCITY, Wiesbaden",
-     "city": "Wiesbaden",
-     "price": 2.94,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/weedcity-wiesbaden/"
-    },
-    {
-     "name": "Daimler Apotheke, Wiesbaden",
-     "city": "Wiesbaden",
-     "price": 2.94,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/daimler-apotheke-wiesbaden/"
-    }
-   ],
-   "url": "https://cannapreis.de/shop/preis/slouu-27-1-fpg-ca-frosted-platin-girl/",
-   "source": "cannapreis.de",
-   "detail": true,
-   "src": "apteka",
-   "srcs": [
-    "apteka"
-   ],
-   "cultivar": "Frosted Platin Girl",
-   "terpenes": [],
-   "irradiated": null,
-   "origin": "",
-   "price_min": 2.94,
-   "price_max": null,
+   "price_max": 3.16,
    "availability": "available"
   },
   {
@@ -5799,14 +5907,14 @@
      "name": "Daimler Apotheke, Wiesbaden",
      "city": "Wiesbaden",
      "price": 2.93,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/daimler-apotheke-wiesbaden/"
     },
     {
      "name": "Neroweed (Mohren Apotheke, Wiesbaden)",
      "city": "Wiesbaden Biebrich",
      "price": 2.93,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/neroweed-mohren-apotheke-wiesbaden/"
     }
    ],
@@ -5818,21 +5926,21 @@
      "name": "Westend Apotheke, Berlin",
      "city": "Berlin",
      "price": 2.94,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/westend-apotheke-berlin/"
     },
     {
      "name": "Ahorn Medics",
      "city": "Mörfelden-Walldorf",
      "price": 3.49,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/ahorn-medics/"
     },
     {
      "name": "MYCANNABIS",
      "city": "Düsseldorf",
      "price": 3.98,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/mycannabis/"
     }
    ],
@@ -5871,7 +5979,7 @@
      "name": "Neroweed (Mohren Apotheke, Wiesbaden)",
      "city": "Wiesbaden Biebrich",
      "price": 2.93,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/neroweed-mohren-apotheke-wiesbaden/"
     }
    ],
@@ -5883,7 +5991,7 @@
      "name": "Cannaplus Apotheke",
      "city": "Augsburg",
      "price": 2.94,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannaplus-apotheke/"
     },
     {
@@ -5917,7 +6025,7 @@
    "availability": "available"
   },
   {
-   "name": "Frosted Platin Girl",
+   "name": "slouu 27/1 FPG CA Frosted Platin Girl",
    "producer": "enua Pharma",
    "type": "flower",
    "genetics": "Hybrid",
@@ -5936,7 +6044,7 @@
      "name": "Neroweed (Mohren Apotheke, Wiesbaden)",
      "city": "Wiesbaden Biebrich",
      "price": 2.93,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/neroweed-mohren-apotheke-wiesbaden/"
     }
    ],
@@ -5955,18 +6063,18 @@
      "name": "WEEDCITY, Wiesbaden",
      "city": "Wiesbaden",
      "price": 2.94,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/weedcity-wiesbaden/"
     },
     {
      "name": "Daimler Apotheke, Wiesbaden",
      "city": "Wiesbaden",
      "price": 2.94,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/daimler-apotheke-wiesbaden/"
     }
    ],
-   "url": "https://cannapreis.de/shop/preis/enua-pharma-27thc-513237/",
+   "url": "https://cannapreis.de/shop/preis/slouu-27-1-fpg-ca-frosted-platin-girl/",
    "source": "cannapreis.de",
    "detail": true,
    "src": "apteka",
@@ -6001,7 +6109,7 @@
      "name": "Neroweed (Mohren Apotheke, Wiesbaden)",
      "city": "Wiesbaden Biebrich",
      "price": 2.93,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/neroweed-mohren-apotheke-wiesbaden/"
     }
    ],
@@ -6013,7 +6121,7 @@
      "name": "Cannaplus Apotheke",
      "city": "Augsburg",
      "price": 2.94,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannaplus-apotheke/"
     },
     {
@@ -6044,6 +6152,71 @@
    "origin": "",
    "price_min": 2.94,
    "price_max": 2.95,
+   "availability": "available"
+  },
+  {
+   "name": "Frosted Platin Girl",
+   "producer": "enua Pharma",
+   "type": "flower",
+   "genetics": "Hybrid",
+   "thc": 27.0,
+   "cbd": 1.0,
+   "price": 2.94,
+   "unit": "g",
+   "price_regular_from": 2.94,
+   "price_list_min": null,
+   "sale_price": null,
+   "sale_pharmacies_count": 0,
+   "promo": false,
+   "promo_text": "",
+   "sale_pharmacies": [
+    {
+     "name": "Neroweed (Mohren Apotheke, Wiesbaden)",
+     "city": "Wiesbaden Biebrich",
+     "price": 2.93,
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/neroweed-mohren-apotheke-wiesbaden/"
+    }
+   ],
+   "avg_price": 4.54,
+   "pharmacies_count": 68,
+   "pharmacy": "Adler Apotheke Wiesbaden",
+   "pharmacies": [
+    {
+     "name": "Adler Apotheke Wiesbaden",
+     "city": "Wiesbaden",
+     "price": 2.94,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/adler-apotheke-wiesbaden/"
+    },
+    {
+     "name": "WEEDCITY, Wiesbaden",
+     "city": "Wiesbaden",
+     "price": 2.94,
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/weedcity-wiesbaden/"
+    },
+    {
+     "name": "Daimler Apotheke, Wiesbaden",
+     "city": "Wiesbaden",
+     "price": 2.94,
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/daimler-apotheke-wiesbaden/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/enua-pharma-27thc-513237/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Frosted Platin Girl",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.94,
+   "price_max": null,
    "availability": "available"
   },
   {
@@ -6196,7 +6369,7 @@
      "name": "SVAPO",
      "city": "Offenbach",
      "price": 2.72,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/svapo/"
     }
    ],
@@ -6208,7 +6381,7 @@
      "name": "cannabis-frankenwald.de",
      "city": "Pressig",
      "price": 2.95,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannabis-frankenwald-de/"
     },
     {
@@ -6307,31 +6480,110 @@
    "availability": "available"
   },
   {
-   "name": "Remexian 18/1 MHI JJR Joyous Joyride",
-   "producer": "Remexian Pharma",
+   "name": "Granddaddy OG",
+   "producer": "Remexian/Madrecan",
    "type": "flower",
    "genetics": "Indica",
-   "thc": 18.0,
+   "thc": 21.0,
    "cbd": 1.0,
    "price": 2.95,
    "unit": "g",
    "price_regular_from": 2.95,
    "price_list_min": null,
-   "sale_price": 2.78,
-   "sale_pharmacies_count": 1,
-   "promo": true,
-   "promo_text": "SALE: 1 Apotheke(n) für 2,78 €",
+   "sale_price": null,
+   "sale_pharmacies_count": 0,
+   "promo": false,
+   "promo_text": "",
    "sale_pharmacies": [
     {
-     "name": "CannabisApo24",
-     "city": "Augsburg",
-     "price": 2.78,
-     "stand": "vor 2T",
-     "url": "https://cannapreis.de/apotheke/cannabisapo24/"
+     "name": "Cantoura",
+     "city": "Berlin",
+     "price": 2.9,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/cantoura/"
     }
    ],
-   "avg_price": 4.1,
-   "pharmacies_count": 25,
+   "avg_price": 4.51,
+   "pharmacies_count": 50,
+   "pharmacy": "St. Martins Apotheke",
+   "pharmacies": [
+    {
+     "name": "St. Martins Apotheke",
+     "city": "Augsburg",
+     "price": 2.95,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/st-martins-apotheke/"
+    },
+    {
+     "name": "3Leafs by Idris Apotheke",
+     "city": "Weinheim",
+     "price": 3.09,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/3leafs-by-idris-apotheke/"
+    },
+    {
+     "name": "3 Königen Apotheke",
+     "city": "Krefeld",
+     "price": 3.26,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/3-koenigen-apotheke/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/granddaddy-og-21thc-130456/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Granddaddy OG",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.95,
+   "price_max": 3.26,
+   "availability": "available"
+  },
+  {
+   "name": "hexa 24/1 LKC LA Kush Cake",
+   "producer": "medizinalhanf",
+   "type": "flower",
+   "genetics": "Indica",
+   "thc": 24.0,
+   "cbd": 1.0,
+   "price": 2.95,
+   "unit": "g",
+   "price_regular_from": 2.95,
+   "price_list_min": null,
+   "sale_price": 2.9,
+   "sale_pharmacies_count": 3,
+   "promo": true,
+   "promo_text": "SALE: 3 Apotheke(n) für 2,90 €",
+   "sale_pharmacies": [
+    {
+     "name": "CANNACOMPANY",
+     "city": "Bonn",
+     "price": 2.9,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/cannacompany/"
+    },
+    {
+     "name": "Apotheke zur alten Post",
+     "city": "Bonn",
+     "price": 2.9,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/apotheke-zur-alten-post/"
+    },
+    {
+     "name": "Cannacompany (=Apotheke zur alten Post)",
+     "city": "Bonn",
+     "price": 2.9,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/cannacompany-apotheke-zur-alten-post/"
+    }
+   ],
+   "avg_price": 4.7,
+   "pharmacies_count": 47,
    "pharmacy": "Kronen Cannabis",
    "pharmacies": [
     {
@@ -6342,33 +6594,33 @@
      "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     },
     {
-     "name": "easyApotheke Bayreuth-Süd",
-     "city": "Bayreuth",
-     "price": 2.99,
+     "name": "Kronen Apotheke (Kronen-Cannabis.de)",
+     "city": "Sankt Augustin",
+     "price": 2.95,
      "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/easyapotheke-bayreuth-sued/"
+     "url": "https://cannapreis.de/apotheke/kronen-apotheke-kronen-cannabis-de/"
     },
     {
-     "name": "Apotheke am Berliner-Tor-Platz",
-     "city": "Wesel",
-     "price": 2.99,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/apotheke-am-berliner-tor-platz/"
+     "name": "Cannabis Apotheke Online",
+     "city": "Heimsheim",
+     "price": 3.25,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/cannabis-apotheke-online/"
     }
    ],
-   "url": "https://cannapreis.de/shop/preis/remexian-18-1-mhi-jjr-joyous-joyride/",
+   "url": "https://cannapreis.de/shop/preis/hexa-24-1-lkc-la-kush-cake/",
    "source": "cannapreis.de",
    "detail": true,
    "src": "apteka",
    "srcs": [
     "apteka"
    ],
-   "cultivar": "Joyous Joyride",
+   "cultivar": "Kush Cake",
    "terpenes": [],
    "irradiated": null,
    "origin": "",
-   "price_min": 2.78,
-   "price_max": 2.99,
+   "price_min": 2.9,
+   "price_max": 3.25,
    "availability": "available"
   },
   {
@@ -6434,6 +6686,201 @@
    "origin": "",
    "price_min": 2.95,
    "price_max": 3.34,
+   "availability": "available"
+  },
+  {
+   "name": "Remexian 18/1 MHI JJR Joyous Joyride",
+   "producer": "Remexian Pharma",
+   "type": "flower",
+   "genetics": "Indica",
+   "thc": 18.0,
+   "cbd": 1.0,
+   "price": 2.95,
+   "unit": "g",
+   "price_regular_from": 2.95,
+   "price_list_min": null,
+   "sale_price": 2.78,
+   "sale_pharmacies_count": 1,
+   "promo": true,
+   "promo_text": "SALE: 1 Apotheke(n) für 2,78 €",
+   "sale_pharmacies": [
+    {
+     "name": "CannabisApo24",
+     "city": "Augsburg",
+     "price": 2.78,
+     "stand": "vor 3T",
+     "url": "https://cannapreis.de/apotheke/cannabisapo24/"
+    }
+   ],
+   "avg_price": 4.1,
+   "pharmacies_count": 25,
+   "pharmacy": "Kronen Cannabis",
+   "pharmacies": [
+    {
+     "name": "Kronen Cannabis",
+     "city": "Sankt Augustin",
+     "price": 2.95,
+     "stand": "vor 3T",
+     "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
+    },
+    {
+     "name": "easyApotheke Bayreuth-Süd",
+     "city": "Bayreuth",
+     "price": 2.99,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/easyapotheke-bayreuth-sued/"
+    },
+    {
+     "name": "Apotheke am Berliner-Tor-Platz",
+     "city": "Wesel",
+     "price": 2.99,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/apotheke-am-berliner-tor-platz/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/remexian-18-1-mhi-jjr-joyous-joyride/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Joyous Joyride",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.78,
+   "price_max": 2.99,
+   "availability": "available"
+  },
+  {
+   "name": "Crispy Doughnut",
+   "producer": "enua Pharma",
+   "type": "flower",
+   "genetics": "Hybrid",
+   "thc": 19.0,
+   "cbd": 1.0,
+   "price": 2.95,
+   "unit": "g",
+   "price_regular_from": 2.95,
+   "price_list_min": null,
+   "sale_price": null,
+   "sale_pharmacies_count": 0,
+   "promo": false,
+   "promo_text": "",
+   "sale_pharmacies": [
+    {
+     "name": "Cantoura",
+     "city": "Berlin",
+     "price": 2.9,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/cantoura/"
+    }
+   ],
+   "avg_price": 5.91,
+   "pharmacies_count": 83,
+   "pharmacy": "Kronen Apotheke (Kronen-Cannabis.de)",
+   "pharmacies": [
+    {
+     "name": "Kronen Apotheke (Kronen-Cannabis.de)",
+     "city": "Sankt Augustin",
+     "price": 2.95,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/kronen-apotheke-kronen-cannabis-de/"
+    },
+    {
+     "name": "Süd Apotheke",
+     "city": "Düsseldorf",
+     "price": 2.99,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/sued-apotheke/"
+    },
+    {
+     "name": "KrautKurier (=Linden Apotheke)",
+     "city": "Dortmund",
+     "price": 3.4,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/krautkurier-linden-apotheke/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/crispy-doughnut-19-7thc-130636/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Crispy Doughnut",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.95,
+   "price_max": 3.4,
+   "availability": "available"
+  },
+  {
+   "name": "GMO",
+   "producer": "Remexian/Madrecan",
+   "type": "flower",
+   "genetics": "Indica",
+   "thc": 16.0,
+   "cbd": 1.0,
+   "price": 2.95,
+   "unit": "g",
+   "price_regular_from": 2.95,
+   "price_list_min": null,
+   "sale_price": null,
+   "sale_pharmacies_count": 0,
+   "promo": false,
+   "promo_text": "",
+   "sale_pharmacies": [
+    {
+     "name": "Apotheke zur alten Post",
+     "city": "Bonn",
+     "price": 2.88,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/apotheke-zur-alten-post/"
+    }
+   ],
+   "avg_price": 4.03,
+   "pharmacies_count": 20,
+   "pharmacy": "420unicorn.de (=Einhorn Apotheken)",
+   "pharmacies": [
+    {
+     "name": "420unicorn.de (=Einhorn Apotheken)",
+     "city": "Kassel",
+     "price": 2.95,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/420unicorn-de-einhorn-apotheken/"
+    },
+    {
+     "name": "Schloss-Apotheke",
+     "city": "Offenbach",
+     "price": 2.99,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/schloss-apotheke/"
+    },
+    {
+     "name": "Lambertus Apotheke",
+     "city": "Euskirchen",
+     "price": 2.99,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/lambertus-apotheke/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/gmo-16-4thc-129042/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "GMO",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.95,
+   "price_max": 2.99,
    "availability": "available"
   },
   {
@@ -6521,7 +6968,7 @@
      "name": "Idris Apotheke",
      "city": "Weinheim",
      "price": 2.93,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     }
    ],
@@ -6533,21 +6980,21 @@
      "name": "Apotheke am Berliner-Tor-Platz",
      "city": "Wesel",
      "price": 2.95,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/apotheke-am-berliner-tor-platz/"
     },
     {
      "name": "SVAPO",
      "city": "Offenbach",
      "price": 3.48,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/svapo/"
     },
     {
      "name": "higreen! - Stern Apotheke",
      "city": "Dortmund",
      "price": 3.86,
-     "stand": "vor 3T",
+     "stand": "vor 4T",
      "url": "https://cannapreis.de/apotheke/higreen-stern-apotheke/"
     }
    ],
@@ -6564,85 +7011,6 @@
    "origin": "",
    "price_min": 2.95,
    "price_max": 3.86,
-   "availability": "available"
-  },
-  {
-   "name": "hexa 24/1 LKC LA Kush Cake",
-   "producer": "medizinalhanf",
-   "type": "flower",
-   "genetics": "Indica",
-   "thc": 24.0,
-   "cbd": 1.0,
-   "price": 2.95,
-   "unit": "g",
-   "price_regular_from": 2.95,
-   "price_list_min": null,
-   "sale_price": 2.9,
-   "sale_pharmacies_count": 3,
-   "promo": true,
-   "promo_text": "SALE: 3 Apotheke(n) für 2,90 €",
-   "sale_pharmacies": [
-    {
-     "name": "CANNACOMPANY",
-     "city": "Bonn",
-     "price": 2.9,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/cannacompany/"
-    },
-    {
-     "name": "Apotheke zur alten Post",
-     "city": "Bonn",
-     "price": 2.9,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/apotheke-zur-alten-post/"
-    },
-    {
-     "name": "Cannacompany (=Apotheke zur alten Post)",
-     "city": "Bonn",
-     "price": 2.9,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/cannacompany-apotheke-zur-alten-post/"
-    }
-   ],
-   "avg_price": 4.7,
-   "pharmacies_count": 47,
-   "pharmacy": "Kronen Cannabis",
-   "pharmacies": [
-    {
-     "name": "Kronen Cannabis",
-     "city": "Sankt Augustin",
-     "price": 2.95,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
-    },
-    {
-     "name": "Kronen Apotheke (Kronen-Cannabis.de)",
-     "city": "Sankt Augustin",
-     "price": 2.95,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/kronen-apotheke-kronen-cannabis-de/"
-    },
-    {
-     "name": "Cannabis Apotheke Online",
-     "city": "Heimsheim",
-     "price": 3.25,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/cannabis-apotheke-online/"
-    }
-   ],
-   "url": "https://cannapreis.de/shop/preis/hexa-24-1-lkc-la-kush-cake/",
-   "source": "cannapreis.de",
-   "detail": true,
-   "src": "apteka",
-   "srcs": [
-    "apteka"
-   ],
-   "cultivar": "Kush Cake",
-   "terpenes": [],
-   "irradiated": null,
-   "origin": "",
-   "price_min": 2.9,
-   "price_max": 3.25,
    "availability": "available"
   },
   {
@@ -6665,7 +7033,7 @@
      "name": "Neroweed (Mohren Apotheke, Wiesbaden)",
      "city": "Wiesbaden Biebrich",
      "price": 2.94,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/neroweed-mohren-apotheke-wiesbaden/"
     }
    ],
@@ -6691,7 +7059,7 @@
      "name": "Daimler Apotheke, Wiesbaden",
      "city": "Wiesbaden",
      "price": 2.95,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/daimler-apotheke-wiesbaden/"
     }
    ],
@@ -6730,7 +7098,7 @@
      "name": "Idris Apotheke",
      "city": "Weinheim",
      "price": 2.94,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     }
    ],
@@ -6742,21 +7110,21 @@
      "name": "Cannibo-Bahnhof Apotheke Bonn",
      "city": "Bonn",
      "price": 2.95,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cannibo-bahnhof-apotheke-bonn/"
     },
     {
      "name": "Cannaplus Apotheke",
      "city": "Augsburg",
      "price": 2.95,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cannaplus-apotheke/"
     },
     {
      "name": "Cann24",
      "city": "Hamburg",
      "price": 2.99,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cann24/"
     }
    ],
@@ -6772,222 +7140,6 @@
    "irradiated": null,
    "origin": "",
    "price_min": 2.94,
-   "price_max": 2.99,
-   "availability": "available"
-  },
-  {
-   "name": "GMO",
-   "producer": "Remexian/Madrecan",
-   "type": "flower",
-   "genetics": "Indica",
-   "thc": 16.0,
-   "cbd": 1.0,
-   "price": 2.95,
-   "unit": "g",
-   "price_regular_from": 2.95,
-   "price_list_min": null,
-   "sale_price": null,
-   "sale_pharmacies_count": 0,
-   "promo": false,
-   "promo_text": "",
-   "sale_pharmacies": [
-    {
-     "name": "Apotheke zur alten Post",
-     "city": "Bonn",
-     "price": 2.88,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/apotheke-zur-alten-post/"
-    }
-   ],
-   "avg_price": 4.03,
-   "pharmacies_count": 20,
-   "pharmacy": "420unicorn.de (=Einhorn Apotheken)",
-   "pharmacies": [
-    {
-     "name": "420unicorn.de (=Einhorn Apotheken)",
-     "city": "Kassel",
-     "price": 2.95,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/420unicorn-de-einhorn-apotheken/"
-    },
-    {
-     "name": "Schloss-Apotheke",
-     "city": "Offenbach",
-     "price": 2.99,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/schloss-apotheke/"
-    },
-    {
-     "name": "Lambertus Apotheke",
-     "city": "Euskirchen",
-     "price": 2.99,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/lambertus-apotheke/"
-    }
-   ],
-   "url": "https://cannapreis.de/shop/preis/gmo-16-4thc-129042/",
-   "source": "cannapreis.de",
-   "detail": true,
-   "src": "apteka",
-   "srcs": [
-    "apteka"
-   ],
-   "cultivar": "GMO",
-   "terpenes": [],
-   "irradiated": null,
-   "origin": "",
-   "price_min": 2.95,
-   "price_max": 2.99,
-   "availability": "available"
-  },
-  {
-   "name": "Crispy Doughnut",
-   "producer": "enua Pharma",
-   "type": "flower",
-   "genetics": "Hybrid",
-   "thc": 19.0,
-   "cbd": 1.0,
-   "price": 2.95,
-   "unit": "g",
-   "price_regular_from": 2.95,
-   "price_list_min": null,
-   "sale_price": null,
-   "sale_pharmacies_count": 0,
-   "promo": false,
-   "promo_text": "",
-   "sale_pharmacies": [
-    {
-     "name": "Cantoura",
-     "city": "Berlin",
-     "price": 2.9,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/cantoura/"
-    }
-   ],
-   "avg_price": 5.91,
-   "pharmacies_count": 83,
-   "pharmacy": "Kronen Apotheke (Kronen-Cannabis.de)",
-   "pharmacies": [
-    {
-     "name": "Kronen Apotheke (Kronen-Cannabis.de)",
-     "city": "Sankt Augustin",
-     "price": 2.95,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/kronen-apotheke-kronen-cannabis-de/"
-    },
-    {
-     "name": "Süd Apotheke",
-     "city": "Düsseldorf",
-     "price": 2.99,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/sued-apotheke/"
-    },
-    {
-     "name": "KrautKurier (=Linden Apotheke)",
-     "city": "Dortmund",
-     "price": 3.4,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/krautkurier-linden-apotheke/"
-    }
-   ],
-   "url": "https://cannapreis.de/shop/preis/crispy-doughnut-19-7thc-130636/",
-   "source": "cannapreis.de",
-   "detail": true,
-   "src": "apteka",
-   "srcs": [
-    "apteka"
-   ],
-   "cultivar": "Crispy Doughnut",
-   "terpenes": [],
-   "irradiated": null,
-   "origin": "",
-   "price_min": 2.95,
-   "price_max": 3.4,
-   "availability": "available"
-  },
-  {
-   "name": "Island Sweet Skunk",
-   "producer": "Tilray",
-   "type": "flower",
-   "genetics": "Sativa",
-   "thc": 25.0,
-   "cbd": 1.0,
-   "price": 2.95,
-   "unit": "g",
-   "price_regular_from": 2.95,
-   "price_list_min": null,
-   "sale_price": null,
-   "sale_pharmacies_count": 0,
-   "promo": false,
-   "promo_text": "",
-   "sale_pharmacies": [
-    {
-     "name": "B.Leaf",
-     "city": "Berlin",
-     "price": 2.5,
-     "stand": "vor 2T",
-     "url": "https://cannapreis.de/apotheke/b-leaf/"
-    },
-    {
-     "name": "Cantoura",
-     "city": "Berlin",
-     "price": 2.5,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/cantoura/"
-    },
-    {
-     "name": "NEO Apotheke, Berlin",
-     "city": "Berlin",
-     "price": 2.5,
-     "stand": "vor 2T",
-     "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
-    },
-    {
-     "name": "Berlin Leaf (Meine Apotheke)",
-     "city": "Berlin",
-     "price": 2.5,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/berlin-leaf-meine-apotheke/"
-    }
-   ],
-   "avg_price": 6.36,
-   "pharmacies_count": 175,
-   "pharmacy": "Malteser Apotheke",
-   "pharmacies": [
-    {
-     "name": "Malteser Apotheke",
-     "city": "Düsseldorf",
-     "price": 2.95,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/malteser-apotheke/"
-    },
-    {
-     "name": "Apotheke zur alten Post",
-     "city": "Bonn",
-     "price": 2.99,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/apotheke-zur-alten-post/"
-    },
-    {
-     "name": "Cannabis Apotheke im Centr-o-med",
-     "city": "Datteln",
-     "price": 2.99,
-     "stand": "vor 2T",
-     "url": "https://cannapreis.de/apotheke/cannabis-apotheke-im-centr-o-med/"
-    }
-   ],
-   "url": "https://cannapreis.de/shop/preis/island-sweet-skunk-25thc-129680/",
-   "source": "cannapreis.de",
-   "detail": true,
-   "src": "apteka",
-   "srcs": [
-    "apteka"
-   ],
-   "cultivar": "Island Sweet Skunk",
-   "terpenes": [],
-   "irradiated": null,
-   "origin": "",
-   "price_min": 2.95,
    "price_max": 2.99,
    "availability": "available"
   },
@@ -7088,21 +7240,21 @@
      "name": "Karolinger Apotheke",
      "city": "Aachen",
      "price": 2.96,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/karolinger-apotheke/"
     },
     {
      "name": "CANN EBBES: alle Blüten unter 10eur",
      "city": "Waiblingen",
      "price": 2.97,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cann-ebbes-alle-blueten-unter-10eur/"
     },
     {
      "name": "Stresemann-Apotheke",
      "city": "Hamburg",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/stresemann-apotheke/"
     }
    ],
@@ -7119,71 +7271,6 @@
    "origin": "",
    "price_min": 2.96,
    "price_max": 2.99,
-   "availability": "available"
-  },
-  {
-   "name": "WEECO Peridot 25/1 Slightly Stoopid Fruits",
-   "producer": "Weeco",
-   "type": "flower",
-   "genetics": "Sativa",
-   "thc": 25.0,
-   "cbd": 1.0,
-   "price": 2.97,
-   "unit": "g",
-   "price_regular_from": 2.97,
-   "price_list_min": null,
-   "sale_price": 2.96,
-   "sale_pharmacies_count": 1,
-   "promo": true,
-   "promo_text": "SALE: 1 Apotheke(n) für 2,96 €",
-   "sale_pharmacies": [
-    {
-     "name": "Karolinger Apotheke",
-     "city": "Aachen",
-     "price": 2.96,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/karolinger-apotheke/"
-    }
-   ],
-   "avg_price": 4.37,
-   "pharmacies_count": 36,
-   "pharmacy": "Mohren-Apotheke",
-   "pharmacies": [
-    {
-     "name": "Mohren-Apotheke",
-     "city": "Wiesbaden",
-     "price": 2.97,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/mohren-apotheke/"
-    },
-    {
-     "name": "Neroweed (Mohren Apotheke, Wiesbaden)",
-     "city": "Wiesbaden Biebrich",
-     "price": 2.97,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/neroweed-mohren-apotheke-wiesbaden/"
-    },
-    {
-     "name": "Cannabis Hamburg (Hinrichsen Apotheke, Hamburg)",
-     "city": "Hamburg",
-     "price": 3.18,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/cannabis-hamburg-hinrichsen-apotheke-hamburg/"
-    }
-   ],
-   "url": "https://cannapreis.de/shop/preis/weeco-peridot-25-1-slightly-stoopid-fruits/",
-   "source": "cannapreis.de",
-   "detail": true,
-   "src": "apteka",
-   "srcs": [
-    "apteka"
-   ],
-   "cultivar": "Slightly Stoopid Fruits",
-   "terpenes": [],
-   "irradiated": null,
-   "origin": "",
-   "price_min": 2.96,
-   "price_max": 3.18,
    "availability": "available"
   },
   {
@@ -7206,14 +7293,14 @@
      "name": "Cannabis Hamburg (Hinrichsen Apotheke, Hamburg)",
      "city": "Hamburg",
      "price": 2.96,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-hamburg-hinrichsen-apotheke-hamburg/"
     },
     {
      "name": "PHARMABLÜTE Mainz",
      "city": "Mainz",
      "price": 2.96,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/pharmabluete-mainz/"
     }
    ],
@@ -7225,21 +7312,21 @@
      "name": "MYCANNABIS",
      "city": "Düsseldorf",
      "price": 2.97,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/mycannabis/"
     },
     {
      "name": "Stresemann-Apotheke",
      "city": "Hamburg",
      "price": 2.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/stresemann-apotheke/"
     },
     {
      "name": "CANNACOMPANY",
      "city": "Bonn",
      "price": 3.6,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannacompany/"
     }
    ],
@@ -7256,6 +7343,71 @@
    "origin": "",
    "price_min": 2.97,
    "price_max": 3.6,
+   "availability": "available"
+  },
+  {
+   "name": "WEECO Peridot 25/1 Slightly Stoopid Fruits",
+   "producer": "Weeco",
+   "type": "flower",
+   "genetics": "Sativa",
+   "thc": 25.0,
+   "cbd": 1.0,
+   "price": 2.97,
+   "unit": "g",
+   "price_regular_from": 2.97,
+   "price_list_min": null,
+   "sale_price": 2.96,
+   "sale_pharmacies_count": 1,
+   "promo": true,
+   "promo_text": "SALE: 1 Apotheke(n) für 2,96 €",
+   "sale_pharmacies": [
+    {
+     "name": "Karolinger Apotheke",
+     "city": "Aachen",
+     "price": 2.96,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/karolinger-apotheke/"
+    }
+   ],
+   "avg_price": 4.37,
+   "pharmacies_count": 36,
+   "pharmacy": "Mohren-Apotheke",
+   "pharmacies": [
+    {
+     "name": "Mohren-Apotheke",
+     "city": "Wiesbaden",
+     "price": 2.97,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/mohren-apotheke/"
+    },
+    {
+     "name": "Neroweed (Mohren Apotheke, Wiesbaden)",
+     "city": "Wiesbaden Biebrich",
+     "price": 2.97,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/neroweed-mohren-apotheke-wiesbaden/"
+    },
+    {
+     "name": "Cannabis Hamburg (Hinrichsen Apotheke, Hamburg)",
+     "city": "Hamburg",
+     "price": 3.18,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/cannabis-hamburg-hinrichsen-apotheke-hamburg/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/weeco-peridot-25-1-slightly-stoopid-fruits/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Slightly Stoopid Fruits",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.96,
+   "price_max": 3.18,
    "availability": "available"
   },
   {
@@ -7542,7 +7694,7 @@
      "name": "Idris Apotheke",
      "city": "Weinheim",
      "price": 2.98,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     },
     {
@@ -7588,7 +7740,7 @@
      "name": "Idris Apotheke",
      "city": "Weinheim",
      "price": 2.48,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     }
    ],
@@ -7614,7 +7766,7 @@
      "name": "SVAPO",
      "city": "Offenbach",
      "price": 2.98,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/svapo/"
     }
    ],
@@ -7703,7 +7855,7 @@
      "name": "Preussen Apotheke",
      "city": "Berlin",
      "price": 2.97,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/preussen-apotheke/"
     }
    ],
@@ -7715,21 +7867,21 @@
      "name": "Karolinger Apotheke",
      "city": "Aachen",
      "price": 2.98,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/karolinger-apotheke/"
     },
     {
      "name": "Stresemann-Apotheke",
      "city": "Hamburg",
      "price": 2.99,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/stresemann-apotheke/"
     },
     {
      "name": "Einhorn Apotheke",
      "city": "Gelsenkirchen",
      "price": 2.99,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/einhorn-apotheke/"
     }
    ],
@@ -7749,11 +7901,11 @@
    "availability": "available"
   },
   {
-   "name": "Cannamedical Indica Classic ZAF Grape Galena",
-   "producer": "Cannamedical",
+   "name": "BLAYZ 24/1 SRS Sour Sherb",
+   "producer": "WMG Pharma",
    "type": "flower",
    "genetics": "Indica",
-   "thc": 22.0,
+   "thc": 24.0,
    "cbd": 1.0,
    "price": 2.98,
    "unit": "g",
@@ -7764,190 +7916,53 @@
    "promo": false,
    "promo_text": "",
    "sale_pharmacies": [
-    {
-     "name": "Regenbogen Apotheke, Köthen",
-     "city": "Köthen",
-     "price": 2.97,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/regenbogen-apotheke-koethen/"
-    }
-   ],
-   "avg_price": 3.78,
-   "pharmacies_count": 9,
-   "pharmacy": "MediVitalCan",
-   "pharmacies": [
-    {
-     "name": "MediVitalCan",
-     "city": "Weiterstadt",
-     "price": 2.98,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/medivitalcan/"
-    },
     {
      "name": "Cannabis Apotheke Bayern",
      "city": "Schweinfurt",
-     "price": 2.99,
-     "stand": "Preis von heute",
+     "price": 2.97,
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-apotheke-bayern/"
-    },
-    {
-     "name": "ELISANA APOTHEKE Gelsenkirchen Buer",
-     "city": "Gelsenkirchen",
-     "price": 3.49,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/elisana-apotheke-gelsenkirchen-buer/"
     }
    ],
-   "url": "https://cannapreis.de/shop/preis/cannamedical-indica-classic-zaf-grape-galena/",
-   "source": "cannapreis.de",
-   "detail": true,
-   "src": "apteka",
-   "srcs": [
-    "apteka"
-   ],
-   "cultivar": "Cannamedical Indica Classic ZAF Grape Galena",
-   "terpenes": [],
-   "irradiated": null,
-   "origin": "",
-   "price_min": 2.98,
-   "price_max": 3.49,
-   "availability": "available"
-  },
-  {
-   "name": "Cannabis flos 16/1 CL Dougs Varin",
-   "producer": "Canify",
-   "type": "flower",
-   "genetics": "Sativa",
-   "thc": 16.0,
-   "cbd": null,
-   "price": 2.98,
-   "unit": "g",
-   "price_regular_from": 2.98,
-   "price_list_min": null,
-   "sale_price": null,
-   "sale_pharmacies_count": 0,
-   "promo": false,
-   "promo_text": "",
-   "sale_pharmacies": [
-    {
-     "name": "Kronen Cannabis",
-     "city": "Sankt Augustin",
-     "price": 2.95,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
-    }
-   ],
-   "avg_price": 4.51,
-   "pharmacies_count": 15,
-   "pharmacy": "CannaRoKo Shop - Robert-Koch-Apotheke, Bitterfeld-Wolfen",
+   "avg_price": 3.76,
+   "pharmacies_count": 39,
+   "pharmacy": "Cannabis Hamburg (Hinrichsen Apotheke, Hamburg)",
    "pharmacies": [
     {
-     "name": "CannaRoKo Shop - Robert-Koch-Apotheke, Bitterfeld-Wolfen",
-     "city": "Bitterfeld-Wolfen",
+     "name": "Cannabis Hamburg (Hinrichsen Apotheke, Hamburg)",
+     "city": "Hamburg",
      "price": 2.98,
      "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/cannaroko-shop-robert-koch-apotheke-bitterfeld-wolfen/"
+     "url": "https://cannapreis.de/apotheke/cannabis-hamburg-hinrichsen-apotheke-hamburg/"
     },
     {
-     "name": "Stadt Apotheke, Saarbrücken",
-     "city": "Saarbrücken",
+     "name": "Hinrichsen Apotheke",
+     "city": "Hamburg",
      "price": 2.98,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/stadt-apotheke-saarbruecken/"
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/hinrichsen-apotheke/"
     },
     {
-     "name": "Preussen Apotheke",
-     "city": "Berlin",
-     "price": 3.0,
+     "name": "Stresemann-Apotheke",
+     "city": "Hamburg",
+     "price": 2.99,
      "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/preussen-apotheke/"
+     "url": "https://cannapreis.de/apotheke/stresemann-apotheke/"
     }
    ],
-   "url": "https://cannapreis.de/shop/preis/canify-cannabis-flos-16-1-cl-dgv-dougs-varin/",
+   "url": "https://cannapreis.de/shop/preis/blayz-24-1-srs-sour-sherb/",
    "source": "cannapreis.de",
    "detail": true,
    "src": "apteka",
    "srcs": [
     "apteka"
    ],
-   "cultivar": "Dougs Varin",
+   "cultivar": "Sour Sherb",
    "terpenes": [],
    "irradiated": null,
    "origin": "",
    "price_min": 2.98,
-   "price_max": 3.0,
-   "availability": "available"
-  },
-  {
-   "name": "NOC LF 23 ARG Apricot Fuel",
-   "producer": "Noc Pharma",
-   "type": "flower",
-   "genetics": "Hybrid",
-   "thc": 23.0,
-   "cbd": 1.0,
-   "price": 2.98,
-   "unit": "g",
-   "price_regular_from": 2.98,
-   "price_list_min": null,
-   "sale_price": null,
-   "sale_pharmacies_count": 0,
-   "promo": false,
-   "promo_text": "",
-   "sale_pharmacies": [
-    {
-     "name": "3Leafs by Idris Apotheke",
-     "city": "Weinheim",
-     "price": 2.48,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/3leafs-by-idris-apotheke/"
-    },
-    {
-     "name": "Idris Apotheke",
-     "city": "Weinheim",
-     "price": 2.48,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/idris-apotheke/"
-    }
-   ],
-   "avg_price": 3.48,
-   "pharmacies_count": 7,
-   "pharmacy": "Schloss-Apotheke",
-   "pharmacies": [
-    {
-     "name": "Schloss-Apotheke",
-     "city": "Offenbach",
-     "price": 2.98,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/schloss-apotheke/"
-    },
-    {
-     "name": "SVAPO",
-     "city": "Offenbach",
-     "price": 2.98,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/svapo/"
-    },
-    {
-     "name": "svapo.de (=Schloss-Apotheke)",
-     "city": "Offenbach",
-     "price": 2.98,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/svapo-de-schloss-apotheke/"
-    }
-   ],
-   "url": "https://cannapreis.de/shop/preis/noc-lf-23-arg-apricot-fuel/",
-   "source": "cannapreis.de",
-   "detail": true,
-   "src": "apteka",
-   "srcs": [
-    "apteka"
-   ],
-   "cultivar": "NOC LF 23 ARG Apricot Fuel",
-   "terpenes": [],
-   "irradiated": null,
-   "origin": "",
-   "price_min": 2.98,
-   "price_max": null,
+   "price_max": 2.99,
    "availability": "available"
   },
   {
@@ -7970,7 +7985,7 @@
      "name": "Einhorn Apotheke",
      "city": "Gelsenkirchen",
      "price": 2.95,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/einhorn-apotheke/"
     }
    ],
@@ -7989,14 +8004,14 @@
      "name": "Santa Green",
      "city": "Geeste",
      "price": 2.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/santa-green/"
     },
     {
      "name": "Kronen Cannabis",
      "city": "Sankt Augustin",
      "price": 3.15,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     }
    ],
@@ -8035,7 +8050,7 @@
      "name": "Dr. Müller Leafs",
      "city": "Kassel",
      "price": 2.45,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/dr-mueller-leafs/"
     },
     {
@@ -8061,7 +8076,7 @@
      "name": "SativaMedics",
      "city": "Neuwied",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/sativamedics/"
     },
     {
@@ -8172,7 +8187,7 @@
      "name": "1A PHARMACAN",
      "city": "München",
      "price": 2.49,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/1a-pharmacan/"
     }
    ],
@@ -8184,14 +8199,14 @@
      "name": "1A MEDCAN",
      "city": "München",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/1a-medcan/"
     },
     {
      "name": "Cannovia",
      "city": "Speyer",
      "price": 3.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannovia/"
     }
    ],
@@ -8237,7 +8252,7 @@
      "name": "CANNABIS 4 WUPPERTAL",
      "city": "Wuppertal",
      "price": 2.89,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannabis-4-wuppertal/"
     }
    ],
@@ -8263,7 +8278,7 @@
      "name": "Apotheke am Bahnhof, Speyer",
      "city": "Speyer",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/apotheke-am-bahnhof-speyer/"
     }
    ],
@@ -8309,7 +8324,7 @@
      "name": "CANNABIS 4 WUPPERTAL",
      "city": "Wuppertal",
      "price": 2.89,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannabis-4-wuppertal/"
     }
    ],
@@ -8335,7 +8350,7 @@
      "name": "Apotheke am Bahnhof, Speyer",
      "city": "Speyer",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/apotheke-am-bahnhof-speyer/"
     }
    ],
@@ -8374,7 +8389,7 @@
      "name": "CannaColonia",
      "city": "Köln",
      "price": 2.79,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannacolonia/"
     }
    ],
@@ -8393,14 +8408,14 @@
      "name": "Cannabis Loft",
      "city": "Geilenkirchen",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannabis-loft/"
     },
     {
      "name": "Regenbogen Apotheke, Köthen",
      "city": "Köthen",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/regenbogen-apotheke-koethen/"
     }
    ],
@@ -8417,6 +8432,71 @@
    "origin": "",
    "price_min": 2.79,
    "price_max": 2.99,
+   "availability": "available"
+  },
+  {
+   "name": "Guavaz",
+   "producer": "Four 20 Pharma",
+   "type": "flower",
+   "genetics": "Hybrid",
+   "thc": 22.0,
+   "cbd": 1.0,
+   "price": 2.99,
+   "unit": "g",
+   "price_regular_from": 2.99,
+   "price_list_min": null,
+   "sale_price": null,
+   "sale_pharmacies_count": 0,
+   "promo": false,
+   "promo_text": "",
+   "sale_pharmacies": [
+    {
+     "name": "Bavarian Cannabis",
+     "city": "Puchheim-Bahnhof",
+     "price": 2.89,
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/bavarian-cannabis/"
+    }
+   ],
+   "avg_price": 4.59,
+   "pharmacies_count": 68,
+   "pharmacy": "Santa Green",
+   "pharmacies": [
+    {
+     "name": "Santa Green",
+     "city": "Geeste",
+     "price": 2.99,
+     "stand": "vor 4T",
+     "url": "https://cannapreis.de/apotheke/santa-green/"
+    },
+    {
+     "name": "Cannaplus Apotheke",
+     "city": "Augsburg",
+     "price": 3.16,
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/cannaplus-apotheke/"
+    },
+    {
+     "name": "St. Martins Apotheke",
+     "city": "Augsburg",
+     "price": 3.16,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/st-martins-apotheke/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/four-20-pharma-22thc-457079/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Guavaz",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.99,
+   "price_max": 3.16,
    "availability": "available"
   },
   {
@@ -8439,7 +8519,7 @@
      "name": "Sebastian Apotheke (aktuell nur Abholung kein Versand)",
      "city": "Tegernheim",
      "price": 2.9,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/sebastian-apotheke-aktuell-nur-abholung-kein-versand/"
     }
    ],
@@ -8451,21 +8531,21 @@
      "name": "Angel Green Jestetten",
      "city": "Jestetten",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/angel-green-jestetten/"
     },
     {
      "name": "Angel Green Tiengen (Nur Selbstabholung)",
      "city": "Tiengen",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/angel-green-tiengen-nur-selbstabholung/"
     },
     {
      "name": "Angel Green Waldshut (Nur Selbstabholung)",
      "city": "Waldshut",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/angel-green-waldshut-nur-selbstabholung/"
     }
    ],
@@ -8511,7 +8591,7 @@
      "name": "NEO Apotheke, Berlin",
      "city": "Berlin",
      "price": 2.9,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
     }
    ],
@@ -8523,21 +8603,21 @@
      "name": "Idris Apotheke",
      "city": "Weinheim",
      "price": 2.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     },
     {
      "name": "SVAPO",
      "city": "Offenbach",
      "price": 3.33,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/svapo/"
     },
     {
      "name": "Kronen Cannabis",
      "city": "Sankt Augustin",
      "price": 3.44,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     }
    ],
@@ -8554,71 +8634,6 @@
    "origin": "",
    "price_min": 2.99,
    "price_max": 3.44,
-   "availability": "available"
-  },
-  {
-   "name": "Guavaz",
-   "producer": "Four 20 Pharma",
-   "type": "flower",
-   "genetics": "Hybrid",
-   "thc": 22.0,
-   "cbd": 1.0,
-   "price": 2.99,
-   "unit": "g",
-   "price_regular_from": 2.99,
-   "price_list_min": null,
-   "sale_price": null,
-   "sale_pharmacies_count": 0,
-   "promo": false,
-   "promo_text": "",
-   "sale_pharmacies": [
-    {
-     "name": "Bavarian Cannabis",
-     "city": "Puchheim-Bahnhof",
-     "price": 2.89,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/bavarian-cannabis/"
-    }
-   ],
-   "avg_price": 4.59,
-   "pharmacies_count": 68,
-   "pharmacy": "Santa Green",
-   "pharmacies": [
-    {
-     "name": "Santa Green",
-     "city": "Geeste",
-     "price": 2.99,
-     "stand": "vor 3T",
-     "url": "https://cannapreis.de/apotheke/santa-green/"
-    },
-    {
-     "name": "Cannaplus Apotheke",
-     "city": "Augsburg",
-     "price": 3.16,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/cannaplus-apotheke/"
-    },
-    {
-     "name": "St. Martins Apotheke",
-     "city": "Augsburg",
-     "price": 3.16,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/st-martins-apotheke/"
-    }
-   ],
-   "url": "https://cannapreis.de/shop/preis/four-20-pharma-22thc-457079/",
-   "source": "cannapreis.de",
-   "detail": true,
-   "src": "apteka",
-   "srcs": [
-    "apteka"
-   ],
-   "cultivar": "Guavaz",
-   "terpenes": [],
-   "irradiated": null,
-   "origin": "",
-   "price_min": 2.99,
-   "price_max": 3.16,
    "availability": "available"
   },
   {
@@ -8673,71 +8688,6 @@
    "availability": "available"
   },
   {
-   "name": "CzechOut 21/1 ORZ Oreoz",
-   "producer": "Remexian Pharma",
-   "type": "flower",
-   "genetics": "Sativa",
-   "thc": 21.0,
-   "cbd": 1.0,
-   "price": 2.99,
-   "unit": "g",
-   "price_regular_from": 2.99,
-   "price_list_min": null,
-   "sale_price": 2.79,
-   "sale_pharmacies_count": 1,
-   "promo": true,
-   "promo_text": "SALE: 1 Apotheke(n) für 2,79 €",
-   "sale_pharmacies": [
-    {
-     "name": "Apotheke am Berliner-Tor-Platz",
-     "city": "Wesel",
-     "price": 2.79,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/apotheke-am-berliner-tor-platz/"
-    }
-   ],
-   "avg_price": 4.02,
-   "pharmacies_count": 24,
-   "pharmacy": "MedCanReste",
-   "pharmacies": [
-    {
-     "name": "MedCanReste",
-     "city": "Waiblingen",
-     "price": 2.99,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/medcanreste/"
-    },
-    {
-     "name": "1A PHARMACAN",
-     "city": "München",
-     "price": 3.18,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/1a-pharmacan/"
-    },
-    {
-     "name": "SativaMedics",
-     "city": "Neuwied",
-     "price": 3.39,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/sativamedics/"
-    }
-   ],
-   "url": "https://cannapreis.de/shop/preis/czechout-21-1-orz-oreoz/",
-   "source": "cannapreis.de",
-   "detail": true,
-   "src": "apteka",
-   "srcs": [
-    "apteka"
-   ],
-   "cultivar": "Oreoz",
-   "terpenes": [],
-   "irradiated": null,
-   "origin": "",
-   "price_min": 2.79,
-   "price_max": 3.39,
-   "availability": "available"
-  },
-  {
    "name": "Medical Saints 18/1 MOI Mochi",
    "producer": "Remexian Pharma",
    "type": "flower",
@@ -8757,14 +8707,14 @@
      "name": "WEEDCITY, Wiesbaden",
      "city": "Wiesbaden",
      "price": 2.94,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/weedcity-wiesbaden/"
     },
     {
      "name": "Bavarian Cannabis",
      "city": "Puchheim-Bahnhof",
      "price": 2.94,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/bavarian-cannabis/"
     },
     {
@@ -8783,14 +8733,14 @@
      "name": "Preussen Apotheke",
      "city": "Berlin",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/preussen-apotheke/"
     },
     {
      "name": "Cannaplus Apotheke",
      "city": "Augsburg",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannaplus-apotheke/"
     },
     {
@@ -8882,71 +8832,6 @@
    "availability": "available"
   },
   {
-   "name": "NICE 22/1 BCC Blueberry Cheesecake",
-   "producer": "Cansativa",
-   "type": "flower",
-   "genetics": "Indica",
-   "thc": 22.0,
-   "cbd": 1.0,
-   "price": 2.99,
-   "unit": "g",
-   "price_regular_from": 2.99,
-   "price_list_min": null,
-   "sale_price": null,
-   "sale_pharmacies_count": 0,
-   "promo": false,
-   "promo_text": "",
-   "sale_pharmacies": [
-    {
-     "name": "Malteser Apotheke Düsseldorf | Greencalm",
-     "city": "Düsseldorf",
-     "price": 2.85,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/malteser-apotheke-duesseldorf-greencalm/"
-    }
-   ],
-   "avg_price": 4.31,
-   "pharmacies_count": 42,
-   "pharmacy": "Malteser Apotheke",
-   "pharmacies": [
-    {
-     "name": "Malteser Apotheke",
-     "city": "Düsseldorf",
-     "price": 2.99,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/malteser-apotheke/"
-    },
-    {
-     "name": "Adler Apotheke Wiesbaden",
-     "city": "Wiesbaden",
-     "price": 3.19,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/adler-apotheke-wiesbaden/"
-    },
-    {
-     "name": "WEEDCITY, Wiesbaden",
-     "city": "Wiesbaden",
-     "price": 3.19,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/weedcity-wiesbaden/"
-    }
-   ],
-   "url": "https://cannapreis.de/shop/preis/nice-22-1-bcc-blueberry-cheesecake/",
-   "source": "cannapreis.de",
-   "detail": true,
-   "src": "apteka",
-   "srcs": [
-    "apteka"
-   ],
-   "cultivar": "Blueberry Cheesecake",
-   "terpenes": [],
-   "irradiated": null,
-   "origin": "",
-   "price_min": 2.99,
-   "price_max": 3.19,
-   "availability": "available"
-  },
-  {
    "name": "Slouu 27/1 AT2 OMJ CA Oz Melon Jam",
    "producer": "enua Pharma",
    "type": "flower",
@@ -8966,7 +8851,7 @@
      "name": "SVAPO",
      "city": "Offenbach",
      "price": 2.94,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/svapo/"
     },
     {
@@ -8992,14 +8877,14 @@
      "name": "WEEDCITY, Wiesbaden",
      "city": "Wiesbaden",
      "price": 2.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/weedcity-wiesbaden/"
     },
     {
      "name": "Daimler Apotheke, Wiesbaden",
      "city": "Wiesbaden",
      "price": 2.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/daimler-apotheke-wiesbaden/"
     }
    ],
@@ -9019,10 +8904,10 @@
    "availability": "available"
   },
   {
-   "name": "Blueberry Cheesecake",
+   "name": "NICE 22/1 BCC Blueberry Cheesecake",
    "producer": "Cansativa",
    "type": "flower",
-   "genetics": "Hybrid",
+   "genetics": "Indica",
    "thc": 22.0,
    "cbd": 1.0,
    "price": 2.99,
@@ -9038,7 +8923,7 @@
      "name": "Malteser Apotheke Düsseldorf | Greencalm",
      "city": "Düsseldorf",
      "price": 2.85,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/malteser-apotheke-duesseldorf-greencalm/"
     }
    ],
@@ -9064,7 +8949,72 @@
      "name": "WEEDCITY, Wiesbaden",
      "city": "Wiesbaden",
      "price": 3.19,
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/weedcity-wiesbaden/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/nice-22-1-bcc-blueberry-cheesecake/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Blueberry Cheesecake",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 2.99,
+   "price_max": 3.19,
+   "availability": "available"
+  },
+  {
+   "name": "Blueberry Cheesecake",
+   "producer": "Cansativa",
+   "type": "flower",
+   "genetics": "Hybrid",
+   "thc": 22.0,
+   "cbd": 1.0,
+   "price": 2.99,
+   "unit": "g",
+   "price_regular_from": 2.99,
+   "price_list_min": null,
+   "sale_price": null,
+   "sale_pharmacies_count": 0,
+   "promo": false,
+   "promo_text": "",
+   "sale_pharmacies": [
+    {
+     "name": "Malteser Apotheke Düsseldorf | Greencalm",
+     "city": "Düsseldorf",
+     "price": 2.85,
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/malteser-apotheke-duesseldorf-greencalm/"
+    }
+   ],
+   "avg_price": 4.31,
+   "pharmacies_count": 42,
+   "pharmacy": "Malteser Apotheke",
+   "pharmacies": [
+    {
+     "name": "Malteser Apotheke",
+     "city": "Düsseldorf",
+     "price": 2.99,
      "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/malteser-apotheke/"
+    },
+    {
+     "name": "Adler Apotheke Wiesbaden",
+     "city": "Wiesbaden",
+     "price": 3.19,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/adler-apotheke-wiesbaden/"
+    },
+    {
+     "name": "WEEDCITY, Wiesbaden",
+     "city": "Wiesbaden",
+     "price": 3.19,
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/weedcity-wiesbaden/"
     }
    ],
@@ -9084,205 +9034,147 @@
    "availability": "available"
   },
   {
-   "name": "IMC RO THC25 Roma",
-   "producer": "IMC",
+   "name": "Canify 20/1 CZE Ku. MAC 1",
+   "producer": "Canify",
    "type": "flower",
    "genetics": "Indica",
-   "thc": 25.0,
+   "thc": 20.0,
    "cbd": 1.0,
    "price": 2.99,
    "unit": "g",
    "price_regular_from": 2.99,
    "price_list_min": null,
-   "sale_price": 2.95,
-   "sale_pharmacies_count": 2,
-   "promo": true,
-   "promo_text": "SALE: 2 Apotheke(n) für 2,95 €",
+   "sale_price": null,
+   "sale_pharmacies_count": 0,
+   "promo": false,
+   "promo_text": "",
    "sale_pharmacies": [
     {
-     "name": "Kronen Cannabis",
-     "city": "Sankt Augustin",
-     "price": 2.95,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
-    },
-    {
-     "name": "Kronen Apotheke (Kronen-Cannabis.de)",
-     "city": "Sankt Augustin",
-     "price": 2.95,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/kronen-apotheke-kronen-cannabis-de/"
-    }
-   ],
-   "avg_price": 4.5,
-   "pharmacies_count": 85,
-   "pharmacy": "Santa Green",
-   "pharmacies": [
-    {
-     "name": "Santa Green",
-     "city": "Geeste",
-     "price": 2.99,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/santa-green/"
-    },
-    {
-     "name": "Schloss-Apotheke",
-     "city": "Offenbach",
-     "price": 3.38,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/schloss-apotheke/"
-    },
-    {
-     "name": "svapo.de (=Schloss-Apotheke)",
-     "city": "Offenbach",
-     "price": 3.38,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/svapo-de-schloss-apotheke/"
-    }
-   ],
-   "url": "https://cannapreis.de/shop/preis/imc-ro-thc25-roma/",
-   "source": "cannapreis.de",
-   "detail": true,
-   "src": "apteka",
-   "srcs": [
-    "apteka"
-   ],
-   "cultivar": "IMC RO THC25 Roma",
-   "terpenes": [],
-   "irradiated": null,
-   "origin": "",
-   "price_min": 2.95,
-   "price_max": 3.38,
-   "availability": "available"
-  },
-  {
-   "name": "Cannamedical CM 24/1 CRM Creamy Kees No.5",
-   "producer": "Cannamedical",
-   "type": "flower",
-   "genetics": "Hybrid",
-   "thc": 24.0,
-   "cbd": null,
-   "price": 2.99,
-   "unit": "g",
-   "price_regular_from": 2.99,
-   "price_list_min": null,
-   "sale_price": 2.98,
-   "sale_pharmacies_count": 1,
-   "promo": true,
-   "promo_text": "SALE: 1 Apotheke(n) für 2,98 €",
-   "sale_pharmacies": [
-    {
-     "name": "Karolinger Apotheke",
-     "city": "Aachen",
+     "name": "Goethe-Apotheke in Bensheim",
+     "city": "Bensheim",
      "price": 2.98,
-     "stand": "vor 2T",
-     "url": "https://cannapreis.de/apotheke/karolinger-apotheke/"
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/goethe-apotheke-in-bensheim/"
+    },
+    {
+     "name": "PHARMABLÜTE Mainz",
+     "city": "Mainz",
+     "price": 2.98,
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/pharmabluete-mainz/"
+    },
+    {
+     "name": "Preussen Apotheke",
+     "city": "Berlin",
+     "price": 2.98,
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/preussen-apotheke/"
     }
    ],
-   "avg_price": 5.49,
-   "pharmacies_count": 78,
-   "pharmacy": "Kraut Kurier",
+   "avg_price": 4.21,
+   "pharmacies_count": 53,
+   "pharmacy": "Medifloris | Rosen Apotheke",
    "pharmacies": [
     {
-     "name": "Kraut Kurier",
-     "city": "Dortmund",
+     "name": "Medifloris | Rosen Apotheke",
+     "city": "Melsungen",
      "price": 2.99,
-     "stand": "vor 2T",
-     "url": "https://cannapreis.de/apotheke/kraut-kurier/"
+     "stand": "vor 7T",
+     "url": "https://cannapreis.de/apotheke/medifloris-rosen-apotheke/"
     },
     {
-     "name": "Cannabis Loft",
-     "city": "Geilenkirchen",
+     "name": "Dr. Müller Leafs",
+     "city": "Kassel",
      "price": 2.99,
-     "stand": "vor 2T",
-     "url": "https://cannapreis.de/apotheke/cannabis-loft/"
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/dr-mueller-leafs/"
     },
     {
-     "name": "Cannabis Apotheke im Centr-o-med",
-     "city": "Datteln",
-     "price": 2.99,
-     "stand": "vor 2T",
-     "url": "https://cannapreis.de/apotheke/cannabis-apotheke-im-centr-o-med/"
+     "name": "Cannabis-Apo-Shop (Ruhrpott)",
+     "city": "Gladbeck",
+     "price": 3.08,
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/cannabis-apo-shop-ruhrpott/"
     }
    ],
-   "url": "https://cannapreis.de/shop/preis/cannamedical-cm-24-1-crm-creamy-kees-no-5/",
+   "url": "https://cannapreis.de/shop/preis/canify-20-1-cze-ku-mac-1/",
    "source": "cannapreis.de",
    "detail": true,
    "src": "apteka",
    "srcs": [
     "apteka"
    ],
-   "cultivar": "Creamy Kees No.5",
+   "cultivar": "Ku. MAC 1",
    "terpenes": [],
    "irradiated": null,
    "origin": "",
-   "price_min": 2.98,
-   "price_max": 2.99,
+   "price_min": 2.99,
+   "price_max": 3.08,
    "availability": "available"
   },
   {
-   "name": "Buuo 22/1 GP Gastro Popstars",
-   "producer": "WMG Pharma",
+   "name": "Purple Rain",
+   "producer": "Weeco Pharma",
    "type": "flower",
    "genetics": "Hybrid",
-   "thc": 22.0,
+   "thc": 27.0,
    "cbd": 1.0,
    "price": 2.99,
    "unit": "g",
    "price_regular_from": 2.99,
    "price_list_min": null,
-   "sale_price": 2.98,
-   "sale_pharmacies_count": 1,
-   "promo": true,
-   "promo_text": "SALE: 1 Apotheke(n) für 2,98 €",
+   "sale_price": null,
+   "sale_pharmacies_count": 0,
+   "promo": false,
+   "promo_text": "",
    "sale_pharmacies": [
     {
-     "name": "1A Blücher",
-     "city": "Frankfurt am Main",
+     "name": "Hinrichsen Apotheke",
+     "city": "Hamburg",
      "price": 2.98,
      "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/1a-bluecher/"
+     "url": "https://cannapreis.de/apotheke/hinrichsen-apotheke/"
     }
    ],
-   "avg_price": 4.39,
-   "pharmacies_count": 47,
-   "pharmacy": "Aposteinern Mainz",
+   "avg_price": 4.23,
+   "pharmacies_count": 8,
+   "pharmacy": "HAMBURGCANNABIS",
    "pharmacies": [
     {
-     "name": "Aposteinern Mainz",
-     "city": "Mainz-Kastel",
+     "name": "HAMBURGCANNABIS",
+     "city": "Hamburg",
      "price": 2.99,
      "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/aposteinern-mainz/"
+     "url": "https://cannapreis.de/apotheke/hamburgcannabis/"
     },
     {
-     "name": "Novaleaf",
-     "city": "Düsseldorf",
-     "price": 2.99,
+     "name": "Hirsch Apotheke",
+     "city": "Nürnberg",
+     "price": 3.1,
      "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/novaleaf/"
+     "url": "https://cannapreis.de/apotheke/hirsch-apotheke/"
     },
     {
-     "name": "CannaQuell",
-     "city": "Düsseldorf",
-     "price": 2.99,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/cannaquell/"
+     "name": "Löwen-Apotheke",
+     "city": "Sindelfingen",
+     "price": 4.5,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/loewen-apotheke/"
     }
    ],
-   "url": "https://cannapreis.de/shop/preis/buuo-22-1-gp-gastro-popstars/",
+   "url": "https://cannapreis.de/shop/preis/weeco-pharma-27thc-457084/",
    "source": "cannapreis.de",
    "detail": true,
    "src": "apteka",
    "srcs": [
     "apteka"
    ],
-   "cultivar": "Gastro Popstars",
+   "cultivar": "Purple Rain",
    "terpenes": [],
    "irradiated": null,
    "origin": "",
-   "price_min": 2.98,
-   "price_max": 2.99,
+   "price_min": 2.99,
+   "price_max": 4.5,
    "availability": "available"
   },
   {
@@ -9449,21 +9341,21 @@
      "name": "Cannabis-Prime",
      "city": "Fellbach",
      "price": 2.98,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-prime/"
     },
     {
      "name": "Cannabis Champion",
      "city": "Waiblingen",
      "price": 2.98,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-champion/"
     },
     {
      "name": "CANN EBBES: alle Blüten unter 10eur",
      "city": "Waiblingen",
      "price": 2.98,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cann-ebbes-alle-blueten-unter-10eur/"
     }
    ],
@@ -9475,21 +9367,21 @@
      "name": "Cannabis Apotheke im Centr-o-med",
      "city": "Datteln",
      "price": 2.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-apotheke-im-centr-o-med/"
     },
     {
      "name": "CannaColonia",
      "city": "Köln",
      "price": 2.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannacolonia/"
     },
     {
      "name": "Regenbogen Apotheke, Köthen",
      "city": "Köthen",
      "price": 2.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/regenbogen-apotheke-koethen/"
     }
    ],
@@ -9528,7 +9420,7 @@
      "name": "Canthera",
      "city": "Nürnberg",
      "price": 2.98,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/canthera/"
     }
    ],
@@ -9540,21 +9432,21 @@
      "name": "Ahorn Medics",
      "city": "Mörfelden-Walldorf",
      "price": 2.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/ahorn-medics/"
     },
     {
      "name": "Forellen-Apotheke, Neunkirchen-Seelscheid",
      "city": "Neunkirchen-Seelscheid",
      "price": 2.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/forellen-apotheke-neunkirchen-seelscheid/"
     },
     {
      "name": "CannabisVitalApotheke",
      "city": "Hattersheim am Main",
      "price": 2.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabisvitalapotheke/"
     }
    ],
@@ -9593,7 +9485,7 @@
      "name": "Cannaapo | Engel Apotheke am Buttermarkt",
      "city": "Fulda",
      "price": 2.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannaapo-engel-apotheke-am-buttermarkt/"
     },
     {
@@ -9612,7 +9504,7 @@
      "name": "420unicorn.de",
      "city": "Baunatal",
      "price": 3.0,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/420unicorn-de/"
     },
     {
@@ -9626,7 +9518,7 @@
      "name": "Apotheke-Cannabis",
      "city": "Tübingen",
      "price": 3.6,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/apotheke-cannabis/"
     }
    ],
@@ -9665,14 +9557,14 @@
      "name": "WEEDCITY, Wiesbaden",
      "city": "Wiesbaden",
      "price": 2.98,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/weedcity-wiesbaden/"
     },
     {
      "name": "Idris Apotheke",
      "city": "Weinheim",
      "price": 2.98,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     }
    ],
@@ -9684,21 +9576,21 @@
      "name": "Einhorn Apotheke",
      "city": "Gelsenkirchen",
      "price": 3.0,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/einhorn-apotheke/"
     },
     {
      "name": "Kronen Cannabis",
      "city": "Sankt Augustin",
      "price": 3.45,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     },
     {
      "name": "SVAPO",
      "city": "Offenbach",
      "price": 3.64,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/svapo/"
     }
    ],
@@ -9874,7 +9766,7 @@
      "name": "Malteser Apotheke Düsseldorf | Greencalm",
      "city": "Düsseldorf",
      "price": 2.4,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/malteser-apotheke-duesseldorf-greencalm/"
     }
    ],
@@ -9886,7 +9778,7 @@
      "name": "Grüne Brille",
      "city": "Röttenbach",
      "price": 3.2,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/gruene-brille/"
     },
     {
@@ -9900,7 +9792,7 @@
      "name": "Trinity Cannabis",
      "city": "berlin",
      "price": 5.6,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/trinity-cannabis/"
     }
    ],
@@ -9939,7 +9831,7 @@
      "name": "Malteser Apotheke Düsseldorf | Greencalm",
      "city": "Düsseldorf",
      "price": 2.4,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/malteser-apotheke-duesseldorf-greencalm/"
     }
    ],
@@ -9951,7 +9843,7 @@
      "name": "Grüne Brille",
      "city": "Röttenbach",
      "price": 3.2,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/gruene-brille/"
     },
     {
@@ -9965,7 +9857,7 @@
      "name": "Trinity Cannabis",
      "city": "berlin",
      "price": 5.6,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/trinity-cannabis/"
     }
    ],
@@ -10004,21 +9896,21 @@
      "name": "Hohenzollern Apotheke",
      "city": "Münster",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/hohenzollern-apotheke/"
     },
     {
      "name": "Erftland Apotheke, Kerpen",
      "city": "Kerpen",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/erftland-apotheke-kerpen/"
     },
     {
      "name": "EasyCannabis",
      "city": "Salzgitter",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/easycannabis/"
     }
    ],
@@ -10030,21 +9922,21 @@
      "name": "Cannabis Süddeutschland",
      "city": "Ansbach",
      "price": 3.2,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannabis-sueddeutschland/"
     },
     {
      "name": "Goldene Blüte",
      "city": "Freystadt",
      "price": 3.29,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/goldene-bluete/"
     },
     {
      "name": "Einhorn Apotheke",
      "city": "Gelsenkirchen",
      "price": 3.29,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/einhorn-apotheke/"
     }
    ],
@@ -10061,71 +9953,6 @@
    "origin": "",
    "price_min": 2.99,
    "price_max": 3.29,
-   "availability": "available"
-  },
-  {
-   "name": "HiDealz 24/1 MS CAC Cake Crasher smalls",
-   "producer": "Remexian Pharma",
-   "type": "flower",
-   "genetics": "Hybrid",
-   "thc": 24.0,
-   "cbd": 1.0,
-   "price": 3.25,
-   "unit": "g",
-   "price_regular_from": 3.25,
-   "price_list_min": null,
-   "sale_price": null,
-   "sale_pharmacies_count": 0,
-   "promo": false,
-   "promo_text": "",
-   "sale_pharmacies": [
-    {
-     "name": "MEDCANAPO",
-     "city": "Düsseldorf",
-     "price": 3.24,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/medcanapo/"
-    }
-   ],
-   "avg_price": 4.23,
-   "pharmacies_count": 41,
-   "pharmacy": "Hellemed (Helle Apotheke Quadra, Bergheim)",
-   "pharmacies": [
-    {
-     "name": "Hellemed (Helle Apotheke Quadra, Bergheim)",
-     "city": "Bergheim",
-     "price": 3.25,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/hellemed-helle-apotheke-quadra-bergheim/"
-    },
-    {
-     "name": "Erftland Apotheke, Kerpen",
-     "city": "Kerpen",
-     "price": 3.25,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/erftland-apotheke-kerpen/"
-    },
-    {
-     "name": "Eifel Cannabis",
-     "city": "Mendig",
-     "price": 3.25,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/eifel-cannabis/"
-    }
-   ],
-   "url": "https://cannapreis.de/shop/preis/hidealz-24-1-ms-cac-cake-crasher-smalls/",
-   "source": "cannapreis.de",
-   "detail": true,
-   "src": "apteka",
-   "srcs": [
-    "apteka"
-   ],
-   "cultivar": "Cake Crasher smalls",
-   "terpenes": [],
-   "irradiated": null,
-   "origin": "",
-   "price_min": 3.25,
-   "price_max": null,
    "availability": "available"
   },
   {
@@ -10213,7 +10040,7 @@
      "name": "Bio 7.0 Apotheke",
      "city": "Berlin",
      "price": 2.79,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/bio-7-0-apotheke/"
     }
    ],
@@ -10225,21 +10052,21 @@
      "name": "Cannabis Kontor",
      "city": "Lübeck",
      "price": 3.29,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/cannabis-kontor/"
     },
     {
      "name": "Palzgras (LINDA Apotheke am Rathaus)",
      "city": "Haßloch",
      "price": 4.3,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/palzgras-linda-apotheke-am-rathaus/"
     },
     {
      "name": "Trinity Cannabis",
      "city": "berlin",
      "price": 5.29,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/trinity-cannabis/"
     }
    ],
@@ -10324,6 +10151,71 @@
    "availability": "available"
   },
   {
+   "name": "HiDealz 27/1 MS SRD smalls Sugar Dream",
+   "producer": "Remexian/Madrecan",
+   "type": "flower",
+   "genetics": "Hybrid",
+   "thc": 27.0,
+   "cbd": 1.0,
+   "price": 3.33,
+   "unit": "g",
+   "price_regular_from": 3.33,
+   "price_list_min": null,
+   "sale_price": null,
+   "sale_pharmacies_count": 0,
+   "promo": false,
+   "promo_text": "",
+   "sale_pharmacies": [
+    {
+     "name": "Cantoura",
+     "city": "Berlin",
+     "price": 2.9,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/cantoura/"
+    }
+   ],
+   "avg_price": 3.46,
+   "pharmacies_count": 7,
+   "pharmacy": "Schloss-Apotheke",
+   "pharmacies": [
+    {
+     "name": "Schloss-Apotheke",
+     "city": "Offenbach",
+     "price": 3.33,
+     "stand": "vor 7T",
+     "url": "https://cannapreis.de/apotheke/schloss-apotheke/"
+    },
+    {
+     "name": "Kronen Apotheke (Kronen-Cannabis.de)",
+     "city": "Sankt Augustin",
+     "price": 3.44,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/kronen-apotheke-kronen-cannabis-de/"
+    },
+    {
+     "name": "3Leafs by Idris Apotheke",
+     "city": "Weinheim",
+     "price": 3.45,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/3leafs-by-idris-apotheke/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/sugar-dream-27thc-130575/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "smalls Sugar Dream",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.33,
+   "price_max": 3.45,
+   "availability": "available"
+  },
+  {
    "name": "BG 26/1 CPY COL Capaxky",
    "producer": "ADREXpharma",
    "type": "flower",
@@ -10343,7 +10235,7 @@
      "name": "Kronen Cannabis",
      "city": "Sankt Augustin",
      "price": 2.75,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
     }
    ],
@@ -10362,14 +10254,14 @@
      "name": "Cannabis Hamburg (Hinrichsen Apotheke, Hamburg)",
      "city": "Hamburg",
      "price": 3.33,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-hamburg-hinrichsen-apotheke-hamburg/"
     },
     {
      "name": "Stresemann-Apotheke",
      "city": "Hamburg",
      "price": 3.39,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/stresemann-apotheke/"
     }
    ],
@@ -10408,7 +10300,7 @@
      "name": "MedCanReste",
      "city": "Waiblingen",
      "price": 2.89,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/medcanreste/"
     }
    ],
@@ -10420,21 +10312,21 @@
      "name": "Karolinger Apotheke",
      "city": "Aachen",
      "price": 3.34,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/karolinger-apotheke/"
     },
     {
      "name": "CANN EBBES: alle Blüten unter 10eur",
      "city": "Waiblingen",
      "price": 3.35,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cann-ebbes-alle-blueten-unter-10eur/"
     },
     {
      "name": "Cannabis Hamburg (Hinrichsen Apotheke, Hamburg)",
      "city": "Hamburg",
      "price": 3.39,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-hamburg-hinrichsen-apotheke-hamburg/"
     }
    ],
@@ -10538,14 +10430,14 @@
      "name": "Apotheke am Berliner-Tor-Platz",
      "city": "Wesel",
      "price": 3.29,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/apotheke-am-berliner-tor-platz/"
     },
     {
      "name": "Idris Apotheke",
      "city": "Weinheim",
      "price": 3.29,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     }
    ],
@@ -10557,21 +10449,21 @@
      "name": "Dreikönigen Apotheke am Ostwall, Krefeld",
      "city": "Krefeld",
      "price": 3.38,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/dreikoenigen-apotheke-am-ostwall-krefeld/"
     },
     {
      "name": "Cannabis Hamburg (Hinrichsen Apotheke, Hamburg)",
      "city": "Hamburg",
      "price": 3.39,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-hamburg-hinrichsen-apotheke-hamburg/"
     },
     {
      "name": "Erftland Apotheke, Kerpen",
      "city": "Kerpen",
      "price": 3.45,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/erftland-apotheke-kerpen/"
     }
    ],
@@ -10798,21 +10690,21 @@
      "name": "Einhorn Apotheke",
      "city": "Gelsenkirchen",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/einhorn-apotheke/"
     },
     {
      "name": "Eifel Gras",
      "city": "Stolberg",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/eifel-gras/"
     },
     {
      "name": "Cannalivery",
      "city": "Niederkassel",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannalivery/"
     },
     {
@@ -10838,14 +10730,14 @@
      "name": "HolyHerb",
      "city": "Solingen",
      "price": 3.45,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/holyherb/"
     },
     {
      "name": "Dragonweed",
      "city": "Geldern",
      "price": 3.49,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/dragonweed/"
     }
    ],
@@ -10930,6 +10822,71 @@
    "availability": "available"
   },
   {
+   "name": "Narcos",
+   "producer": "Remexian/Madrecan",
+   "type": "flower",
+   "genetics": "Hybrid",
+   "thc": 30.0,
+   "cbd": 1.0,
+   "price": 3.48,
+   "unit": "g",
+   "price_regular_from": 3.48,
+   "price_list_min": null,
+   "sale_price": null,
+   "sale_pharmacies_count": 0,
+   "promo": false,
+   "promo_text": "",
+   "sale_pharmacies": [
+    {
+     "name": "3Leafs by Idris Apotheke",
+     "city": "Weinheim",
+     "price": 2.95,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/3leafs-by-idris-apotheke/"
+    }
+   ],
+   "avg_price": 5.21,
+   "pharmacies_count": 30,
+   "pharmacy": "Schloss-Apotheke",
+   "pharmacies": [
+    {
+     "name": "Schloss-Apotheke",
+     "city": "Offenbach",
+     "price": 3.48,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/schloss-apotheke/"
+    },
+    {
+     "name": "higreen! - Drei Hasen Apotheke",
+     "city": "Paderborn",
+     "price": 3.89,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/higreen-drei-hasen-apotheke/"
+    },
+    {
+     "name": "Apotheke zur alten Post",
+     "city": "Bonn",
+     "price": 3.96,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/apotheke-zur-alten-post/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/narcos-30thc-130633/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Narcos",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.48,
+   "price_max": 3.96,
+   "availability": "available"
+  },
+  {
    "name": "aleph Basic H1 18/1 Mantis",
    "producer": "alephSana",
    "type": "flower",
@@ -10956,14 +10913,14 @@
      "name": "CannaQuell",
      "city": "Düsseldorf",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannaquell/"
     },
     {
      "name": "cannama²",
      "city": "Mannheim",
      "price": 2.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannama/"
     },
     {
@@ -10982,7 +10939,7 @@
      "name": "Apotheke am Bahnhof, Speyer",
      "city": "Speyer",
      "price": 3.49,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/apotheke-am-bahnhof-speyer/"
     },
     {
@@ -11054,7 +11011,7 @@
      "name": "Canthera",
      "city": "Nürnberg",
      "price": 3.92,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/canthera/"
     },
     {
@@ -11081,6 +11038,71 @@
    "availability": "available"
   },
   {
+   "name": "Amnesia kush x Sherbet Shocker vs Orange Cookie Kush x Free World Chem",
+   "producer": "Noc Pharma",
+   "type": "flower",
+   "genetics": "Hybrid",
+   "thc": 20.0,
+   "cbd": 1.0,
+   "price": 3.49,
+   "unit": "g",
+   "price_regular_from": 3.49,
+   "price_list_min": null,
+   "sale_price": null,
+   "sale_pharmacies_count": 0,
+   "promo": false,
+   "promo_text": "",
+   "sale_pharmacies": [
+    {
+     "name": "Schloss-Apotheke",
+     "city": "Offenbach",
+     "price": 3.25,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/schloss-apotheke/"
+    }
+   ],
+   "avg_price": 4.5,
+   "pharmacies_count": 32,
+   "pharmacy": "Ginkgo Apotheke",
+   "pharmacies": [
+    {
+     "name": "Ginkgo Apotheke",
+     "city": "Jena",
+     "price": 3.49,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/ginkgo-apotheke/"
+    },
+    {
+     "name": "CannaMedJena",
+     "city": "Jena",
+     "price": 3.49,
+     "stand": "vor 2T",
+     "url": "https://cannapreis.de/apotheke/cannamedjena/"
+    },
+    {
+     "name": "Kohlmanns Markt-Apotheke",
+     "city": "Pressig",
+     "price": 3.5,
+     "stand": "Preis von heute",
+     "url": "https://cannapreis.de/apotheke/kohlmanns-markt-apotheke/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/amnesia-kush-x-sherbet-shocker-vs-orange-cookie-kush-x-free-world-chem-20thc-130170/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Amnesia kush x Sherbet Shocker vs Orange Cookie Kush x Free World Chem",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 3.49,
+   "price_max": 3.5,
+   "availability": "available"
+  },
+  {
    "name": "Eufloria 24/1 FDR Fou Du Roi",
    "producer": "Remexian Pharma",
    "type": "flower",
@@ -11100,7 +11122,7 @@
      "name": "Idris Apotheke",
      "city": "Weinheim",
      "price": 2.79,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/idris-apotheke/"
     },
     {
@@ -11119,7 +11141,7 @@
      "name": "Apotheke am alten Markt, Bochum",
      "city": "Bochum",
      "price": 3.5,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/apotheke-am-alten-markt-bochum/"
     },
     {
@@ -11133,7 +11155,7 @@
      "name": "Cannabis-Apotheke-Gronau.de",
      "city": "Gronau",
      "price": 3.8,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-apotheke-gronau-de/"
     }
    ],
@@ -11150,71 +11172,6 @@
    "origin": "",
    "price_min": 3.5,
    "price_max": 3.8,
-   "availability": "available"
-  },
-  {
-   "name": "Canify Cannabis 22/1 CZE Acai Berry",
-   "producer": "Canify",
-   "type": "flower",
-   "genetics": "Hybrid",
-   "thc": 22.0,
-   "cbd": 1.0,
-   "price": 3.5,
-   "unit": "g",
-   "price_regular_from": 3.5,
-   "price_list_min": null,
-   "sale_price": null,
-   "sale_pharmacies_count": 0,
-   "promo": false,
-   "promo_text": "",
-   "sale_pharmacies": [
-    {
-     "name": "farma-plus-Apotheke Beuth in Gladbeck",
-     "city": "Gladbeck",
-     "price": 2.98,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/farma-plus-apotheke-beuth-in-gladbeck/"
-    }
-   ],
-   "avg_price": 5.42,
-   "pharmacies_count": 63,
-   "pharmacy": "easyApotheke Bayreuth-Süd",
-   "pharmacies": [
-    {
-     "name": "easyApotheke Bayreuth-Süd",
-     "city": "Bayreuth",
-     "price": 3.5,
-     "stand": "Preis von heute",
-     "url": "https://cannapreis.de/apotheke/easyapotheke-bayreuth-sued/"
-    },
-    {
-     "name": "Park-Apotheke Stuttgart (nur Abholung & Botendienst)",
-     "city": "Stuttgart",
-     "price": 3.95,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/park-apotheke-stuttgart-nur-abholung-botendienst/"
-    },
-    {
-     "name": "Kronen Cannabis",
-     "city": "Sankt Augustin",
-     "price": 3.95,
-     "stand": "Preis von gestern",
-     "url": "https://cannapreis.de/apotheke/kronen-cannabis/"
-    }
-   ],
-   "url": "https://cannapreis.de/shop/preis/canify-cannabis-22-1-cze-acai-berry/",
-   "source": "cannapreis.de",
-   "detail": true,
-   "src": "apteka",
-   "srcs": [
-    "apteka"
-   ],
-   "cultivar": "Acai Berry",
-   "terpenes": [],
-   "irradiated": null,
-   "origin": "",
-   "price_min": 3.5,
-   "price_max": 3.95,
    "availability": "available"
   },
   {
@@ -11237,7 +11194,7 @@
      "name": "Cannalisa – deine Cannabis Apotheke",
      "city": "Hohenlockstedt",
      "price": 3.4,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannalisa-deine-cannabis-apotheke/"
     }
    ],
@@ -11249,21 +11206,21 @@
      "name": "CANNABIS 4 WUPPERTAL",
      "city": "Wuppertal",
      "price": 3.5,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-4-wuppertal/"
     },
     {
      "name": "Cannabis Champion",
      "city": "Waiblingen",
      "price": 3.93,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-champion/"
     },
     {
      "name": "CannabisVitalApotheke",
      "city": "Hattersheim am Main",
      "price": 3.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabisvitalapotheke/"
     }
    ],
@@ -11444,21 +11401,21 @@
      "name": "Canthera",
      "city": "Nürnberg",
      "price": 3.64,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/canthera/"
     },
     {
      "name": "Preussen Apotheke",
      "city": "Berlin",
      "price": 3.65,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/preussen-apotheke/"
     },
     {
      "name": "Erftland Apotheke, Kerpen",
      "city": "Kerpen",
      "price": 3.65,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/erftland-apotheke-kerpen/"
     }
    ],
@@ -11555,7 +11512,7 @@
      "name": "NEO Apotheke, Berlin",
      "city": "Berlin",
      "price": 2.9,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
     },
     {
@@ -11952,7 +11909,7 @@
      "name": "Ahorn Medics",
      "city": "Mörfelden-Walldorf",
      "price": 3.8,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/ahorn-medics/"
     }
    ],
@@ -11964,21 +11921,21 @@
      "name": "CannabisVitalApotheke",
      "city": "Hattersheim am Main",
      "price": 3.98,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabisvitalapotheke/"
     },
     {
      "name": "Dragonweed",
      "city": "Geldern",
      "price": 3.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/dragonweed/"
     },
     {
      "name": "Cannibo-Bahnhof Apotheke Bonn",
      "city": "Bonn",
      "price": 4.0,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannibo-bahnhof-apotheke-bonn/"
     }
    ],
@@ -12017,7 +11974,7 @@
      "name": "MedCanReste",
      "city": "Waiblingen",
      "price": 1.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/medcanreste/"
     }
    ],
@@ -12029,21 +11986,21 @@
      "name": "Cannabis Apotheke im Centr-o-med",
      "city": "Datteln",
      "price": 3.98,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-apotheke-im-centr-o-med/"
     },
     {
      "name": "Kraut Kurier",
      "city": "Dortmund",
      "price": 3.98,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/kraut-kurier/"
     },
     {
      "name": "Cannabis Murgtal",
      "city": "Gaggenau",
      "price": 3.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-murgtal/"
     }
    ],
@@ -12082,7 +12039,7 @@
      "name": "Malteser Apotheke Düsseldorf | Greencalm",
      "city": "Düsseldorf",
      "price": 2.75,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/malteser-apotheke-duesseldorf-greencalm/"
     }
    ],
@@ -12094,21 +12051,21 @@
      "name": "SativaMedics",
      "city": "Neuwied",
      "price": 3.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/sativamedics/"
     },
     {
      "name": "Hohenzollern Apotheke",
      "city": "Münster",
      "price": 3.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/hohenzollern-apotheke/"
     },
     {
      "name": "CannabisVitalApotheke",
      "city": "Hattersheim am Main",
      "price": 3.99,
-     "stand": "Preis von gestern",
+     "stand": "vor 2T",
      "url": "https://cannapreis.de/apotheke/cannabisvitalapotheke/"
     }
    ],
@@ -12212,7 +12169,7 @@
      "name": "MedCanReste",
      "city": "Waiblingen",
      "price": 1.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/medcanreste/"
     }
    ],
@@ -12231,7 +12188,7 @@
      "name": "Hirsch Apotheke, Nürnberg (nur Abholung)",
      "city": "Nürnberg",
      "price": 4.0,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/hirsch-apotheke-nuernberg-nur-abholung/"
     },
     {
@@ -12342,7 +12299,7 @@
      "name": "Cannabis Apotheke Rheinland",
      "city": "Bad Neuenahr",
      "price": 3.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-apotheke-rheinland/"
     }
    ],
@@ -12354,21 +12311,21 @@
      "name": "Cannibo-Bahnhof Apotheke Bonn",
      "city": "Bonn",
      "price": 4.0,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannibo-bahnhof-apotheke-bonn/"
     },
     {
      "name": "PHARMABLÜTE Mainz",
      "city": "Mainz",
      "price": 4.39,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/pharmabluete-mainz/"
     },
     {
      "name": "CannabisApo24",
      "city": "Augsburg",
      "price": 4.64,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabisapo24/"
     }
    ],
@@ -12551,7 +12508,7 @@
      "name": "CannaColonia",
      "city": "Köln",
      "price": 3.95,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannacolonia/"
     }
    ],
@@ -12563,21 +12520,21 @@
      "name": "CANNACOMPANY",
      "city": "Bonn",
      "price": 4.12,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannacompany/"
     },
     {
      "name": "CannaFortuna",
      "city": "Aue-Bad Schlema",
      "price": 4.2,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannafortuna/"
     },
     {
      "name": "Goldene Blüte",
      "city": "Freystadt",
      "price": 4.45,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/goldene-bluete/"
     }
    ],
@@ -12616,7 +12573,7 @@
      "name": "NEO Apotheke, Berlin",
      "city": "Berlin",
      "price": 2.9,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
     }
    ],
@@ -12628,21 +12585,21 @@
      "name": "Karolinger Apotheke",
      "city": "Aachen",
      "price": 4.14,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/karolinger-apotheke/"
     },
     {
      "name": "Neroweed (Mohren Apotheke, Wiesbaden)",
      "city": "Wiesbaden Biebrich",
      "price": 4.15,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/neroweed-mohren-apotheke-wiesbaden/"
     },
     {
      "name": "Apotheke an den 3 Hasen",
      "city": "Oberursel",
      "price": 4.16,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/apotheke-an-den-3-hasen/"
     }
    ],
@@ -12681,7 +12638,7 @@
      "name": "CannabisVitalApotheke",
      "city": "Hattersheim am Main",
      "price": 3.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabisvitalapotheke/"
     }
    ],
@@ -12693,21 +12650,21 @@
      "name": "MyWeed24",
      "city": "Krefeld",
      "price": 4.2,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/myweed24/"
     },
     {
      "name": "Cannabis-Apo-Shop (Ruhrpott)",
      "city": "Gladbeck",
      "price": 4.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-apo-shop-ruhrpott/"
     },
     {
      "name": "420unicorn.de",
      "city": "Baunatal",
      "price": 5.0,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/420unicorn-de/"
     }
    ],
@@ -13266,7 +13223,7 @@
      "name": "SativaMedics",
      "city": "Neuwied",
      "price": 3.49,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/sativamedics/"
     }
    ],
@@ -13278,21 +13235,21 @@
      "name": "Cannabis Loft",
      "city": "Geilenkirchen",
      "price": 4.48,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-loft/"
     },
     {
      "name": "Regenbogen Apotheke, Köthen",
      "city": "Köthen",
      "price": 4.48,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/regenbogen-apotheke-koethen/"
     },
     {
      "name": "Grüne Brille",
      "city": "Röttenbach",
      "price": 4.48,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/gruene-brille/"
     }
    ],
@@ -13403,7 +13360,7 @@
      "name": "ABC Apotheke",
      "city": "Wuppertal",
      "price": 4.2,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/abc-apotheke/"
     }
    ],
@@ -13415,21 +13372,21 @@
      "name": "Goethe-Apotheke in Bensheim",
      "city": "Bensheim",
      "price": 4.48,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/goethe-apotheke-in-bensheim/"
     },
     {
      "name": "CannaQuell",
      "city": "Düsseldorf",
      "price": 4.75,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannaquell/"
     },
     {
      "name": "MYCANNABIS",
      "city": "Düsseldorf",
      "price": 4.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/mycannabis/"
     }
    ],
@@ -13468,7 +13425,7 @@
      "name": "CANN EBBES: alle Blüten unter 10eur",
      "city": "Waiblingen",
      "price": 3.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cann-ebbes-alle-blueten-unter-10eur/"
     }
    ],
@@ -13480,21 +13437,21 @@
      "name": "Cannabis Champion",
      "city": "Waiblingen",
      "price": 4.49,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-champion/"
     },
     {
      "name": "Preussen Apotheke",
      "city": "Berlin",
      "price": 4.79,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/preussen-apotheke/"
     },
     {
      "name": "Cannabis-Prime",
      "city": "Fellbach",
      "price": 4.89,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-prime/"
     }
    ],
@@ -13533,7 +13490,7 @@
      "name": "Cannabis Apotheke Frankfurt",
      "city": "Frankfurt am Main",
      "price": 4.29,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-apotheke-frankfurt/"
     }
    ],
@@ -13545,7 +13502,7 @@
      "name": "Bussicann - die starken Apotheken",
      "city": "Ahlen",
      "price": 4.49,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/bussicann-die-starken-apotheken/"
     },
     {
@@ -13559,7 +13516,7 @@
      "name": "CANNACOMPANY",
      "city": "Bonn",
      "price": 5.39,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannacompany/"
     }
    ],
@@ -13598,7 +13555,7 @@
      "name": "NEO Apotheke, Berlin",
      "city": "Berlin",
      "price": 2.59,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
     },
     {
@@ -13617,14 +13574,14 @@
      "name": "B.Leaf",
      "city": "Berlin",
      "price": 4.5,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/b-leaf/"
     },
     {
      "name": "Apotheke am alten Markt, Bochum",
      "city": "Bochum",
      "price": 4.88,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/apotheke-am-alten-markt-bochum/"
     },
     {
@@ -13670,7 +13627,7 @@
      "name": "NEO Apotheke, Berlin",
      "city": "Berlin",
      "price": 2.59,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/neo-apotheke-berlin/"
     },
     {
@@ -13689,14 +13646,14 @@
      "name": "B.Leaf",
      "city": "Berlin",
      "price": 4.5,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/b-leaf/"
     },
     {
      "name": "Apotheke am alten Markt, Bochum",
      "city": "Bochum",
      "price": 4.88,
-     "stand": "vor 2T",
+     "stand": "vor 3T",
      "url": "https://cannapreis.de/apotheke/apotheke-am-alten-markt-bochum/"
     },
     {
@@ -13742,7 +13699,7 @@
      "name": "Cannabis Karlsruhe",
      "city": "Karlsruhe",
      "price": 4.45,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabis-karlsruhe/"
     }
    ],
@@ -13754,21 +13711,21 @@
      "name": "Glückauf-Apotheke, Bochum",
      "city": "Bochum",
      "price": 4.5,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/glueckauf-apotheke-bochum/"
     },
     {
      "name": "Augusta Apotheke Augsburg",
      "city": "Augsburg",
      "price": 4.95,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/augusta-apotheke-augsburg/"
     },
     {
      "name": "Apotheke am alten Markt, Bochum",
      "city": "Bochum",
      "price": 4.99,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/apotheke-am-alten-markt-bochum/"
     }
    ],
@@ -14002,7 +13959,7 @@
      "name": "Ring Apotheke",
      "city": "Neumünster",
      "price": 3.89,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/ring-apotheke/"
     }
    ],
@@ -14014,21 +13971,21 @@
      "name": "CannabisApo24",
      "city": "Augsburg",
      "price": 4.76,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannabisapo24/"
     },
     {
      "name": "Imperial Apotheke, Herbrechtingen",
      "city": "Herbrechtingen",
      "price": 4.94,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/imperial-apotheke-herbrechtingen/"
     },
     {
      "name": "CANNACOMPANY",
      "city": "Bonn",
      "price": 4.95,
-     "stand": "Preis von heute",
+     "stand": "Preis von gestern",
      "url": "https://cannapreis.de/apotheke/cannacompany/"
     }
    ],
@@ -14175,6 +14132,64 @@
    "origin": "",
    "price_min": 4.9,
    "price_max": 4.95,
+   "availability": "available"
+  },
+  {
+   "name": "Shrubs 30/1 SRY Sherb Royale",
+   "producer": "Tilray",
+   "type": "flower",
+   "genetics": "Hybrid",
+   "thc": 30.0,
+   "cbd": 1.0,
+   "price": 8.0,
+   "unit": "g",
+   "price_regular_from": 8.0,
+   "price_list_min": null,
+   "sale_price": null,
+   "sale_pharmacies_count": 0,
+   "promo": false,
+   "promo_text": "",
+   "sale_pharmacies": [
+    {
+     "name": "Idris Apotheke",
+     "city": "Weinheim",
+     "price": 2.95,
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/idris-apotheke/"
+    },
+    {
+     "name": "SVAPO",
+     "city": "Offenbach",
+     "price": 2.95,
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/svapo/"
+    }
+   ],
+   "avg_price": 4.63,
+   "pharmacies_count": 3,
+   "pharmacy": "Prinzen Apotheke",
+   "pharmacies": [
+    {
+     "name": "Prinzen Apotheke",
+     "city": "Frankfurt",
+     "price": 8.0,
+     "stand": "Preis von gestern",
+     "url": "https://cannapreis.de/apotheke/prinzen-apotheke/"
+    }
+   ],
+   "url": "https://cannapreis.de/shop/preis/shrubs-30-1-sry-sherb-royale/",
+   "source": "cannapreis.de",
+   "detail": true,
+   "src": "apteka",
+   "srcs": [
+    "apteka"
+   ],
+   "cultivar": "Sherb Royale",
+   "terpenes": [],
+   "irradiated": null,
+   "origin": "",
+   "price_min": 8.0,
+   "price_max": null,
    "availability": "available"
   },
   {
@@ -14474,9 +14489,9 @@
   }
  ],
  "merge": {
-  "at": "2026-10-15T19:27:27+00:00",
+  "at": "2026-10-16T06:03:08+00:00",
   "counts": {
-   "apteka": 210,
+   "apteka": 211,
    "bloomwell": {
     "new": 10,
     "merged_into_existing": 0
