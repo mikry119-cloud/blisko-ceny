@@ -4575,8 +4575,38 @@
    "geo_display": "Bad Homburg vor der Höhe, Hochtaunuskreis, Hessen, Deutschland",
    "precision": "city",
    "geocoded": "2026-10-18"
+  },
+  "https://cannapreis.de/apotheke/allgaeu-cannabis/": {
+   "name": "Allgäu Cannabis",
+   "url": "https://cannapreis.de/apotheke/allgaeu-cannabis/",
+   "pickup": null,
+   "city": "Kempten",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 47.7267063,
+   "lon": 10.3168835,
+   "geo_query": "Kempten",
+   "geo_display": "Kempten (Allgäu), Bayern, Deutschland",
+   "precision": "city",
+   "geocoded": "2026-10-19"
+  },
+  "https://cannapreis.de/apotheke/prinzenapotheke/": {
+   "name": "Prinzenapotheke",
+   "url": "https://cannapreis.de/apotheke/prinzenapotheke/",
+   "pickup": null,
+   "city": "Frankfurt am Main",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 50.1106444,
+   "lon": 8.6820917,
+   "geo_query": "Frankfurt am Main",
+   "geo_display": "Frankfurt am Main, Hessen, Deutschland",
+   "precision": "city",
+   "geocoded": "2026-10-19"
   }
  },
- "updated": "2026-10-18T06:02:04Z",
+ "updated": "2026-10-19T06:05:03Z",
  "note": "Geocoded via OpenStreetMap Nominatim (© OpenStreetMap contributors, ODbL). precision: address|pharmacy|city. pickup: true=pickup mentioned in name, null=unknown."
 }
