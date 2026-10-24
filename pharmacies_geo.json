@@ -5550,8 +5550,38 @@
    "geo_display": "Kreis Euskirchen, Nordrhein-Westfalen, Deutschland",
    "precision": "city",
    "geocoded": "2026-10-23"
+  },
+  "https://cannapreis.de/apotheke/420brokkoli/": {
+   "name": "420brokkoli",
+   "url": "https://cannapreis.de/apotheke/420brokkoli/",
+   "pickup": null,
+   "city": "Paderborn",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 51.7177044,
+   "lon": 8.752653,
+   "geo_query": "Paderborn",
+   "geo_display": "Paderborn, Kreis Paderborn, Nordrhein-Westfalen, Deutschland",
+   "precision": "city",
+   "geocoded": "2026-10-24"
+  },
+  "https://cannapreis.de/apotheke/rhein-main-cannabis-frankfurt-nur-abholung/": {
+   "name": "Rhein-Main-Cannabis Frankfurt (Nur Abholung)",
+   "url": "https://cannapreis.de/apotheke/rhein-main-cannabis-frankfurt-nur-abholung/",
+   "pickup": true,
+   "city": "Frankfurt",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 50.1106444,
+   "lon": 8.6820917,
+   "geo_query": "Frankfurt",
+   "geo_display": "Frankfurt am Main, Hessen, Deutschland",
+   "precision": "city",
+   "geocoded": "2026-10-24"
   }
  },
- "updated": "2026-10-23T06:06:53Z",
+ "updated": "2026-10-24T06:04:19Z",
  "note": "Geocoded via OpenStreetMap Nominatim (© OpenStreetMap contributors, ODbL). precision: address|pharmacy|city. pickup: true=pickup mentioned in name, null=unknown."
 }
