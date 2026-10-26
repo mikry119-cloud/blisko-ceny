@@ -5640,8 +5640,38 @@
    "geo_display": "Wiesbaden, Hessen, Deutschland",
    "precision": "city",
    "geocoded": "2026-10-25"
+  },
+  "https://cannapreis.de/apotheke/easyapotheke-rathaus-galerie-essen/": {
+   "name": "easyApotheke Rathaus Galerie, Essen",
+   "url": "https://cannapreis.de/apotheke/easyapotheke-rathaus-galerie-essen/",
+   "pickup": null,
+   "city": "Essen",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 51.4582235,
+   "lon": 7.0158171,
+   "geo_query": "Essen",
+   "geo_display": "Essen, Nordrhein-Westfalen, Deutschland",
+   "precision": "city",
+   "geocoded": "2026-10-26"
+  },
+  "https://cannapreis.de/apotheke/faust-apotheke-bad-kreuznach/": {
+   "name": "Faust-Apotheke, Bad Kreuznach",
+   "url": "https://cannapreis.de/apotheke/faust-apotheke-bad-kreuznach/",
+   "pickup": null,
+   "city": "Bad Kreuznach",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 49.8429406,
+   "lon": 7.860609,
+   "geo_query": "Faust-Apotheke, Bad Kreuznach, Bad Kreuznach",
+   "geo_display": "Faust Apotheke, 144, Mannheimer Straße, Neustadt, Bad Kreuznach, Landkreis Bad Kreuznach, Rheinland-Pfalz, 55543, Deutschland",
+   "precision": "pharmacy",
+   "geocoded": "2026-10-26"
   }
  },
- "updated": "2026-10-25T06:03:42Z",
+ "updated": "2026-10-26T06:08:11Z",
  "note": "Geocoded via OpenStreetMap Nominatim (© OpenStreetMap contributors, ODbL). precision: address|pharmacy|city. pickup: true=pickup mentioned in name, null=unknown."
 }
