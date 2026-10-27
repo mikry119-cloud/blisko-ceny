@@ -5670,8 +5670,23 @@
    "geo_display": "Faust Apotheke, 144, Mannheimer Straße, Neustadt, Bad Kreuznach, Landkreis Bad Kreuznach, Rheinland-Pfalz, 55543, Deutschland",
    "precision": "pharmacy",
    "geocoded": "2026-10-26"
+  },
+  "https://cannapreis.de/apotheke/kleeblatt-apotheke-duesseldorf-heerdt/": {
+   "name": "Kleeblatt Apotheke, Düsseldorf Heerdt",
+   "url": "https://cannapreis.de/apotheke/kleeblatt-apotheke-duesseldorf-heerdt/",
+   "pickup": null,
+   "city": "Düsseldorf",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 51.2373712,
+   "lon": 6.7202562,
+   "geo_query": "Kleeblatt Apotheke, Düsseldorf Heerdt, Düsseldorf",
+   "geo_display": "Kleeblatt Apotheke in Düsseldorf Heerdt, 31, Schiessstraße, Hansapark, Heerdt, Stadtbezirk 4, Düsseldorf, Nordrhein-Westfalen, 40549, Deutschland",
+   "precision": "pharmacy",
+   "geocoded": "2026-10-27"
   }
  },
- "updated": "2026-10-26T06:08:11Z",
+ "updated": "2026-10-27T06:06:55Z",
  "note": "Geocoded via OpenStreetMap Nominatim (© OpenStreetMap contributors, ODbL). precision: address|pharmacy|city. pickup: true=pickup mentioned in name, null=unknown."
 }
