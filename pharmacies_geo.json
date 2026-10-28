@@ -5685,8 +5685,38 @@
    "geo_display": "Kleeblatt Apotheke in Düsseldorf Heerdt, 31, Schiessstraße, Hansapark, Heerdt, Stadtbezirk 4, Düsseldorf, Nordrhein-Westfalen, 40549, Deutschland",
    "precision": "pharmacy",
    "geocoded": "2026-10-27"
+  },
+  "https://cannapreis.de/apotheke/apotheke-am-theater-nordhausen/": {
+   "name": "Apotheke am Theater, Nordhausen",
+   "url": "https://cannapreis.de/apotheke/apotheke-am-theater-nordhausen/",
+   "pickup": null,
+   "city": "Nordhausen",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 51.5042158,
+   "lon": 10.798443,
+   "geo_query": "Apotheke am Theater, Nordhausen, Nordhausen",
+   "geo_display": "Apotheke am Theater, Richard-Wagner-Straße, Zentrum, Nordhausen, Landkreis Nordhausen, Thüringen, 99734, Deutschland",
+   "precision": "pharmacy",
+   "geocoded": "2026-10-28"
+  },
+  "https://cannapreis.de/apotheke/apotura/": {
+   "name": "apotura",
+   "url": "https://cannapreis.de/apotheke/apotura/",
+   "pickup": null,
+   "city": "Wiesbaden",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 50.0820384,
+   "lon": 8.2416556,
+   "geo_query": "Wiesbaden",
+   "geo_display": "Wiesbaden, Hessen, Deutschland",
+   "precision": "city",
+   "geocoded": "2026-10-28"
   }
  },
- "updated": "2026-10-27T06:06:55Z",
+ "updated": "2026-10-28T06:12:11Z",
  "note": "Geocoded via OpenStreetMap Nominatim (© OpenStreetMap contributors, ODbL). precision: address|pharmacy|city. pickup: true=pickup mentioned in name, null=unknown."
 }
