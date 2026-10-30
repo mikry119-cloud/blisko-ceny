@@ -5715,8 +5715,23 @@
    "geo_display": "Wiesbaden, Hessen, Deutschland",
    "precision": "city",
    "geocoded": "2026-10-28"
+  },
+  "https://cannapreis.de/apotheke/partus-hit-apotheke/": {
+   "name": "Partus HIT Apotheke",
+   "url": "https://cannapreis.de/apotheke/partus-hit-apotheke/",
+   "pickup": null,
+   "city": "Münster",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 51.9297078,
+   "lon": 7.5982563,
+   "geo_query": "Partus HIT Apotheke, Münster",
+   "geo_display": "Partus Hit-Apotheke, 44, Geringhoffstraße, Düesberg, Mitte-Süd, Münster-Mitte, Münster, Nordrhein-Westfalen, 48163, Deutschland",
+   "precision": "pharmacy",
+   "geocoded": "2026-10-30"
   }
  },
- "updated": "2026-10-29T06:13:57Z",
+ "updated": "2026-10-30T06:16:23Z",
  "note": "Geocoded via OpenStreetMap Nominatim (© OpenStreetMap contributors, ODbL). precision: address|pharmacy|city. pickup: true=pickup mentioned in name, null=unknown."
 }
