@@ -5730,8 +5730,72 @@
    "geo_display": "Partus Hit-Apotheke, 44, Geringhoffstraße, Düesberg, Mitte-Süd, Münster-Mitte, Münster, Nordrhein-Westfalen, 48163, Deutschland",
    "precision": "pharmacy",
    "geocoded": "2026-10-30"
+  },
+  "https://cannapreis.de/apotheke/beste-bluete/": {
+   "name": "Beste Blüte",
+   "url": "https://cannapreis.de/apotheke/beste-bluete/",
+   "pickup": null,
+   "city": "Bonn",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 50.7352621,
+   "lon": 7.1024635,
+   "geo_query": "Bonn",
+   "geo_display": "Bonn, Nordrhein-Westfalen, Deutschland",
+   "precision": "city",
+   "geocoded": "2026-10-31"
+  },
+  "https://cannapreis.de/apotheke/cannabis-nordost-apotheke/": {
+   "name": "Cannabis Nordost Apotheke",
+   "url": "https://cannapreis.de/apotheke/cannabis-nordost-apotheke/",
+   "pickup": null,
+   "city": "Nürnberg",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 49.453872,
+   "lon": 11.077298,
+   "geo_query": "Nürnberg",
+   "geo_display": "Nürnberg, Bayern, Deutschland",
+   "precision": "city",
+   "geocoded": "2026-10-31"
+  },
+  "https://cannapreis.de/apotheke/hirschcan-hirsch-apotheke-dietzenbach/": {
+   "name": "HirschCan (Hirsch Apotheke, Dietzenbach)",
+   "url": "https://cannapreis.de/apotheke/hirschcan-hirsch-apotheke-dietzenbach/",
+   "pickup": null,
+   "error_page": "HTTP Error 404: Not Found",
+   "lat": 50.0171926,
+   "lon": 8.784277,
+   "geo_query": "Dietzenbach)",
+   "geo_display": "Dietzenbach, Landkreis Offenbach, Hessen, 63128, Deutschland",
+   "precision": "city",
+   "geocoded": "2026-10-31"
+  },
+  "https://cannapreis.de/apotheke/kudamm-botanics-apotheke-am-zoo/": {
+   "name": "Kudamm Botanics (Apotheke am Zoo)",
+   "url": "https://cannapreis.de/apotheke/kudamm-botanics-apotheke-am-zoo/",
+   "pickup": null,
+   "error_page": "HTTP Error 404: Not Found",
+   "geocoded": "2026-10-31"
+  },
+  "https://cannapreis.de/apotheke/wieslauf-apotheke/": {
+   "name": "Wieslauf-Apotheke",
+   "url": "https://cannapreis.de/apotheke/wieslauf-apotheke/",
+   "pickup": null,
+   "city": "Rudersberg",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 48.8851395,
+   "lon": 9.5295384,
+   "geo_query": "Wieslauf-Apotheke, Rudersberg",
+   "geo_display": "Wieslauf Apotheke, Marktplatz, Rudersberg, Rems-Murr-Kreis, Baden-Württemberg, 73635, Deutschland",
+   "precision": "pharmacy",
+   "geocoded": "2026-10-31"
   }
  },
- "updated": "2026-10-30T06:16:23Z",
+ "updated": "2026-10-31T06:10:47Z",
  "note": "Geocoded via OpenStreetMap Nominatim (© OpenStreetMap contributors, ODbL). precision: address|pharmacy|city. pickup: true=pickup mentioned in name, null=unknown."
 }
