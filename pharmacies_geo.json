@@ -5778,7 +5778,7 @@
    "url": "https://cannapreis.de/apotheke/kudamm-botanics-apotheke-am-zoo/",
    "pickup": null,
    "error_page": "HTTP Error 404: Not Found",
-   "geocoded": "2026-10-31"
+   "geocoded": "2026-11-01"
   },
   "https://cannapreis.de/apotheke/wieslauf-apotheke/": {
    "name": "Wieslauf-Apotheke",
@@ -5794,8 +5794,68 @@
    "geo_display": "Wieslauf Apotheke, Marktplatz, Rudersberg, Rems-Murr-Kreis, Baden-Württemberg, 73635, Deutschland",
    "precision": "pharmacy",
    "geocoded": "2026-10-31"
+  },
+  "https://cannapreis.de/apotheke/anthemis-apotheke/": {
+   "name": "Anthemis Apotheke",
+   "url": "https://cannapreis.de/apotheke/anthemis-apotheke/",
+   "pickup": null,
+   "city": "Herrieden",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 49.2355065,
+   "lon": 10.5031321,
+   "geo_query": "Anthemis Apotheke, Herrieden",
+   "geo_display": "Anthemis-Apotheke, 36, Münchener Straße, Herrieden, Landkreis Ansbach, Bayern, 91567, Deutschland",
+   "precision": "pharmacy",
+   "geocoded": "2026-11-01"
+  },
+  "https://cannapreis.de/apotheke/apotheke-im-hauptbahnhof-darmstadt/": {
+   "name": "Apotheke im Hauptbahnhof Darmstadt",
+   "url": "https://cannapreis.de/apotheke/apotheke-im-hauptbahnhof-darmstadt/",
+   "pickup": null,
+   "city": "Darmstadt",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 49.8725442,
+   "lon": 8.6286933,
+   "geo_query": "Apotheke im Hauptbahnhof Darmstadt, Darmstadt",
+   "geo_display": "Apotheke im Hauptbahnhof, 1, Europaplatz, Waldkolonie, Darmstadt-Nord, Darmstadt, Hessen, 64293, Deutschland",
+   "precision": "pharmacy",
+   "geocoded": "2026-11-01"
+  },
+  "https://cannapreis.de/apotheke/ludgeri-apotheke/": {
+   "name": "Ludgeri Apotheke",
+   "url": "https://cannapreis.de/apotheke/ludgeri-apotheke/",
+   "pickup": null,
+   "city": "Münster",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 51.9592018,
+   "lon": 7.6282837,
+   "geo_query": "Ludgeri Apotheke, Münster",
+   "geo_display": "Ludgeri-Apotheke, 65, Windthorststraße, Dom, Altstadt, Münster-Mitte, Münster, Nordrhein-Westfalen, 48143, Deutschland",
+   "precision": "pharmacy",
+   "geocoded": "2026-11-01"
+  },
+  "https://cannapreis.de/apotheke/staggenborg-apotheke-elmshorn/": {
+   "name": "Staggenborg Apotheke Elmshorn",
+   "url": "https://cannapreis.de/apotheke/staggenborg-apotheke-elmshorn/",
+   "pickup": null,
+   "city": "Elmshorn",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 53.7660157,
+   "lon": 9.667217,
+   "geo_query": "Staggenborg Apotheke Elmshorn, Elmshorn",
+   "geo_display": "Staggenborg Apotheke am Koppeldamm, 27b, Koppeldamm, Siedlung, Elmshorn, Kreis Pinneberg, Schleswig-Holstein, 25335, Deutschland",
+   "precision": "pharmacy",
+   "geocoded": "2026-11-01"
   }
  },
- "updated": "2026-10-31T06:10:47Z",
+ "updated": "2026-11-01T06:16:17Z",
  "note": "Geocoded via OpenStreetMap Nominatim (© OpenStreetMap contributors, ODbL). precision: address|pharmacy|city. pickup: true=pickup mentioned in name, null=unknown."
 }
