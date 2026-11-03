@@ -5778,7 +5778,7 @@
    "url": "https://cannapreis.de/apotheke/kudamm-botanics-apotheke-am-zoo/",
    "pickup": null,
    "error_page": "HTTP Error 404: Not Found",
-   "geocoded": "2026-11-02"
+   "geocoded": "2026-11-03"
   },
   "https://cannapreis.de/apotheke/wieslauf-apotheke/": {
    "name": "Wieslauf-Apotheke",
@@ -5884,8 +5884,35 @@
    "geo_display": "Zwickau, Sachsen, Deutschland",
    "precision": "city",
    "geocoded": "2026-11-02"
+  },
+  "https://cannapreis.de/apotheke/bluetenversand/": {
+   "name": "Blütenversand",
+   "url": "https://cannapreis.de/apotheke/bluetenversand/",
+   "pickup": null,
+   "city": "Berlin",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 52.5173885,
+   "lon": 13.3951309,
+   "geo_query": "Berlin",
+   "geo_display": "Berlin, Deutschland",
+   "precision": "city",
+   "geocoded": "2026-11-03"
+  },
+  "https://cannapreis.de/apotheke/kotti-botanics-avicenna-apotheke-berlin/": {
+   "name": "Kotti-Botanics (Avicenna Apotheke, Berlin)",
+   "url": "https://cannapreis.de/apotheke/kotti-botanics-avicenna-apotheke-berlin/",
+   "pickup": null,
+   "error_page": "HTTP Error 404: Not Found",
+   "lat": 52.5173885,
+   "lon": 13.3951309,
+   "geo_query": "Berlin)",
+   "geo_display": "Berlin, Deutschland",
+   "precision": "city",
+   "geocoded": "2026-11-03"
   }
  },
- "updated": "2026-11-02T06:33:35Z",
+ "updated": "2026-11-03T06:26:51Z",
  "note": "Geocoded via OpenStreetMap Nominatim (© OpenStreetMap contributors, ODbL). precision: address|pharmacy|city. pickup: true=pickup mentioned in name, null=unknown."
 }
