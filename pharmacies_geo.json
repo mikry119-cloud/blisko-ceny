@@ -5778,7 +5778,7 @@
    "url": "https://cannapreis.de/apotheke/kudamm-botanics-apotheke-am-zoo/",
    "pickup": null,
    "error_page": "HTTP Error 404: Not Found",
-   "geocoded": "2026-11-03"
+   "geocoded": "2026-11-04"
   },
   "https://cannapreis.de/apotheke/wieslauf-apotheke/": {
    "name": "Wieslauf-Apotheke",
@@ -5911,8 +5911,23 @@
    "geo_display": "Berlin, Deutschland",
    "precision": "city",
    "geocoded": "2026-11-03"
+  },
+  "https://cannapreis.de/apotheke/green-city-cannabis/": {
+   "name": "GREEN CITY CANNABIS Bei Doktorfy",
+   "url": "https://cannapreis.de/apotheke/green-city-cannabis/",
+   "pickup": null,
+   "city": "Grünstadt",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 49.5653661,
+   "lon": 8.1634571,
+   "geo_query": "Grünstadt",
+   "geo_display": "Grünstadt, Landkreis Bad Dürkheim, Rheinland-Pfalz, Deutschland",
+   "precision": "city",
+   "geocoded": "2026-11-04"
   }
  },
- "updated": "2026-11-03T06:26:51Z",
+ "updated": "2026-11-04T06:31:38Z",
  "note": "Geocoded via OpenStreetMap Nominatim (© OpenStreetMap contributors, ODbL). precision: address|pharmacy|city. pickup: true=pickup mentioned in name, null=unknown."
 }
