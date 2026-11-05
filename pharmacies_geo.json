@@ -5777,8 +5777,8 @@
    "name": "Kudamm Botanics (Apotheke am Zoo)",
    "url": "https://cannapreis.de/apotheke/kudamm-botanics-apotheke-am-zoo/",
    "pickup": null,
-   "error_page": "HTTP Error 404: Not Found",
-   "geocoded": "2026-11-04"
+   "error_page": "HTTP Error 410: Gone",
+   "geocoded": "2026-11-05"
   },
   "https://cannapreis.de/apotheke/wieslauf-apotheke/": {
    "name": "Wieslauf-Apotheke",
@@ -5926,8 +5926,23 @@
    "geo_display": "Grünstadt, Landkreis Bad Dürkheim, Rheinland-Pfalz, Deutschland",
    "precision": "city",
    "geocoded": "2026-11-04"
+  },
+  "https://cannapreis.de/apotheke/schloss-apotheke-wolfach/": {
+   "name": "Schloss-Apotheke Wolfach Bei Doktorfy",
+   "url": "https://cannapreis.de/apotheke/schloss-apotheke-wolfach/",
+   "pickup": null,
+   "city": "Wolfach",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 48.2985845,
+   "lon": 8.222608,
+   "geo_query": "Wolfach",
+   "geo_display": "Wolfach, VVG der Stadt Wolfach, Ortenaukreis, Baden-Württemberg, 77709, Deutschland",
+   "precision": "city",
+   "geocoded": "2026-11-05"
   }
  },
- "updated": "2026-11-04T06:31:38Z",
+ "updated": "2026-11-05T06:34:11Z",
  "note": "Geocoded via OpenStreetMap Nominatim (© OpenStreetMap contributors, ODbL). precision: address|pharmacy|city. pickup: true=pickup mentioned in name, null=unknown."
 }
