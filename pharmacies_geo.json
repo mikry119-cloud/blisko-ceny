@@ -5941,8 +5941,38 @@
    "geo_display": "Wolfach, VVG der Stadt Wolfach, Ortenaukreis, Baden-Württemberg, 77709, Deutschland",
    "precision": "city",
    "geocoded": "2026-11-05"
+  },
+  "https://cannapreis.de/apotheke/cannabis-apotheke-farma-plus-apotheke-worms/": {
+   "name": "Cannabis Apotheke (farma-plus Apotheke, Worms) Bei Doktorfy",
+   "url": "https://cannapreis.de/apotheke/cannabis-apotheke-farma-plus-apotheke-worms/",
+   "pickup": null,
+   "city": "Worms",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 49.6302618,
+   "lon": 8.3620898,
+   "geo_query": "Worms",
+   "geo_display": "Worms, Rheinland-Pfalz, Deutschland",
+   "precision": "city",
+   "geocoded": "2026-11-06"
+  },
+  "https://cannapreis.de/apotheke/markt-apotheke-waldshut-tiengen/": {
+   "name": "Markt-Apotheke, Waldshut-Tiengen Bei Doktorfy",
+   "url": "https://cannapreis.de/apotheke/markt-apotheke-waldshut-tiengen/",
+   "pickup": null,
+   "city": "Waldshut-Tiengen",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 47.6281754,
+   "lon": 8.2408579,
+   "geo_query": "Waldshut-Tiengen",
+   "geo_display": "Waldshut-Tiengen, VVG der Stadt Waldshut-Tiengen, Landkreis Waldshut, Baden-Württemberg, Deutschland",
+   "precision": "city",
+   "geocoded": "2026-11-06"
   }
  },
- "updated": "2026-11-05T06:34:11Z",
+ "updated": "2026-11-06T06:32:39Z",
  "note": "Geocoded via OpenStreetMap Nominatim (© OpenStreetMap contributors, ODbL). precision: address|pharmacy|city. pickup: true=pickup mentioned in name, null=unknown."
 }
