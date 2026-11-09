@@ -6113,8 +6113,75 @@
    "geo_display": "Hamburg, Deutschland",
    "precision": "city",
    "geocoded": "2026-11-08"
+  },
+  "https://cannapreis.de/apotheke/adler-apotheke-ellwangen/": {
+   "name": "Adler Apotheke, Ellwangen Bei Doktorfy",
+   "url": "https://cannapreis.de/apotheke/adler-apotheke-ellwangen/",
+   "pickup": null,
+   "city": "Ellwangen",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 48.9615975,
+   "lon": 10.131975,
+   "geo_query": "Ellwangen",
+   "geo_display": "Ellwangen (Jagst), VVG der Stadt Ellwangen (Jagst), Ostalbkreis, Baden-Württemberg, 73479, Deutschland",
+   "precision": "city",
+   "geocoded": "2026-11-09"
+  },
+  "https://cannapreis.de/apotheke/avie-apotheke-im-brandt-quartier-hagen/": {
+   "name": "AVIE Apotheke im Brandt-Quartier, Hagen",
+   "url": "https://cannapreis.de/apotheke/avie-apotheke-im-brandt-quartier-hagen/",
+   "pickup": null,
+   "city": "Hagen",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 51.3582945,
+   "lon": 7.473296,
+   "geo_query": "Hagen",
+   "geo_display": "Hagen, Nordrhein-Westfalen, Deutschland",
+   "precision": "city",
+   "geocoded": "2026-11-09"
+  },
+  "https://cannapreis.de/apotheke/avie-apotheke-im-medio-center-hemer/": {
+   "name": "AVIE Apotheke im Medio Center, Hemer",
+   "url": "https://cannapreis.de/apotheke/avie-apotheke-im-medio-center-hemer/",
+   "pickup": null,
+   "city": "Hemer",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 51.3854116,
+   "lon": 7.7661798,
+   "geo_query": "Hemer",
+   "geo_display": "Hemer, Märkischer Kreis, Nordrhein-Westfalen, 58675, Deutschland",
+   "precision": "city",
+   "geocoded": "2026-11-09"
+  },
+  "https://cannapreis.de/apotheke/cannoria-apotheke-am-stadtwald-fuerth/": {
+   "name": "Cannoria (Apotheke am Stadtwald , Fürth)",
+   "url": "https://cannapreis.de/apotheke/cannoria-apotheke-am-stadtwald-fuerth/",
+   "pickup": null,
+   "city": "",
+   "street": "",
+   "zip": "",
+   "country": "DE",
+   "lat": 49.4885711,
+   "lon": 10.9587203,
+   "geo_query": "Fürth)",
+   "geo_display": "Fürth, Bayern, Deutschland",
+   "precision": "city",
+   "geocoded": "2026-11-09"
+  },
+  "https://cannapreis.de/apotheke/margacann/": {
+   "name": "MargaCann Bei Doktorfy",
+   "url": "https://cannapreis.de/apotheke/margacann/",
+   "pickup": null,
+   "error_page": "HTTP Error 410: Gone",
+   "geocoded": "2026-11-09"
   }
  },
- "updated": "2026-11-08T06:20:53Z",
+ "updated": "2026-11-09T06:40:23Z",
  "note": "Geocoded via OpenStreetMap Nominatim (© OpenStreetMap contributors, ODbL). precision: address|pharmacy|city. pickup: true=pickup mentioned in name, null=unknown."
 }
