@@ -6179,9 +6179,9 @@
    "url": "https://cannapreis.de/apotheke/margacann/",
    "pickup": null,
    "error_page": "HTTP Error 410: Gone",
-   "geocoded": "2026-11-23"
+   "geocoded": "2026-11-24"
   }
  },
- "updated": "2026-11-23T16:15:50Z",
+ "updated": "2026-11-24T16:02:45Z",
  "note": "Geocoded via OpenStreetMap Nominatim (© OpenStreetMap contributors, ODbL). precision: address|pharmacy|city. pickup: true=pickup mentioned in name, null=unknown."
 }
